@@ -4,7 +4,7 @@
 update() {
 	# update icon pack
 	echo "----- updating icon theme -----"
-	cd /home/ksdfg/.icons/candy-icons
+	cd $HOME/.icons/candy-icons
 	git merge origin master
 	cd - > /dev/null
 
@@ -22,10 +22,10 @@ update() {
 
 	# update scripts upstream
 	echo "\n----- updating scripts upstream -----"
-	cp /home/ksdfg/.zshrc /home/ksdfg/scripts/.zshrc
-	cp /home/ksdfg/.gitconfig /home/ksdfg/scripts/.gitconfig
+	cp $HOME/.zshrc $HOME/scripts/.zshrc
+	cp $HOME/.gitconfig $HOME/scripts/.gitconfig
 	yay -Q > packages.txt
-	cd /home/ksdfg/scripts
+	cd $HOME/scripts
 	git c -am "automated update"
 	git p
 	cd - > /dev/null
@@ -43,5 +43,5 @@ rebye() {
 
 # use yay to update packages and then back them up to packages.txt
 aur() {
-	yay $* && yay -Q > /home/ksdfg/scripts/packages.txt
+	yay $* && yay -Q > $HOME/scripts/packages.txt
 }
