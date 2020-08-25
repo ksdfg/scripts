@@ -4,13 +4,12 @@
 update() {
 	# update icon pack
 	echo "----- updating icon theme -----"
-	cd ~/.icons/candy-icons
+	cd /home/ksdfg/.icons/candy-icons
 	git merge origin master
-	cd - >/dev/null
-	echo
+	cd - > /dev/null
 
 	# update heroku cli
-	echo "--- updating heroku cli ---"
+	echo "\n--- updating heroku cli ---"
 	heroku update
 
 	# update libraries
@@ -20,6 +19,16 @@ update() {
 		sudo reflector --latest 200 --protocol http --protocol https --sort rate --save /etc/pacman.d/mirrorlist
 	fi
 	yay
+
+	# update scripts upstream
+	echo "\n----- updating scripts upstream -----"
+	cp /home/ksdfg/.zshrc /home/ksdfg/scripts/.zshrc
+	cp /home/ksdfg/.gitconfig /home/ksdfg/scripts/.gitconfig
+	yay -Q > packages.txt
+	cd /home/ksdfg/scripts
+	git c -am "automated update"
+	git p
+	cd - > /dev/null
 }
 
 # update stuff and get lost
