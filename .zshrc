@@ -102,17 +102,8 @@ source $ZSH/oh-my-zsh.sh
 # Compilation flags
 # export ARCHFLAGS="-arch x86_64"
 
-# Some functions for easier life
-
-# update stuff and get lost
-bbye() {
-	update $* && poweroff
-}
-
-# update stuff and reboot
-rebye() {
-	update $* && reboot
-}
+# source in functions
+source /home/ksdfg/scripts/functions.sh
 
 # Set personal aliases, overriding those provided by oh-my-zsh libs,
 # plugins, and themes. Aliases can be placed here, though oh-my-zsh
