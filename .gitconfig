@@ -1,0 +1,34 @@
+[user]
+	name = ksdfg
+	email = ksdfg123@gmail.com
+[core]
+	editor = nano
+[alias]
+	s = status
+	p = push
+	pf = push -f
+	pl = pull
+	f = fetch
+	r = remote
+	rv = remote --verbose
+	ru = remote update
+	rrm = remote remove
+	rsu = remote set-url
+	ra = remote add
+	rev = revert
+	re = reset
+	cp = cherry-pick
+	cpc = cherry-pick --continue
+	cpa = cherry-pick --abort
+	rh = reset --hard
+	rs = reset --soft
+	rb = rebase
+	rbi = rebase --interactive
+	rbc = rebase --continue
+	rba = rebase --abort
+	rbs = rebase --skip
+	d = diff
+	dc = diff --cached
+	c = commit --signoff
+	ca = commit --amend --signoff
+	can = commit --amend --no-edit --signoff
