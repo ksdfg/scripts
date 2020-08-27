@@ -40,8 +40,3 @@ bbye() {
 rebye() {
 	update $* && reboot
 }
-
-# use yay to update packages and then back them up to packages.txt
-aur() {
-	yay $* && yay -Q > $HOME/scripts/packages.txt
-}
