@@ -24,7 +24,7 @@ update() {
 	echo "\n----- updating scripts upstream -----"
 	cp $HOME/.zshrc $HOME/scripts/.zshrc
 	cp $HOME/.gitconfig $HOME/scripts/.gitconfig
-	yay -Q > packages.txt
+	yay -Q > $HOME/scripts/packages.txt
 	cd $HOME/scripts
 	git c -am "automated update"
 	git p
