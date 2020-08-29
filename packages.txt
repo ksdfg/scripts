@@ -177,12 +177,13 @@ gnutls 3.6.14-2
 go 2:1.15-1
 gobject-introspection 1.64.1-2
 gobject-introspection-runtime 1.64.1-2
+google-cloud-sdk 307.0.0-1
 gpgme 1.14.0-1
 gpm 1.20.7.r27.g1fd1941-2
 gptfdisk 1.0.5-1
 graphene 1.10.2-1
 graphite 1:1.3.14-1
-graphviz 2.44.1-3
+graphviz 2.44.1-4
 grep 3.4-1
 groff 1.22.4-3
 grub 2:2.04-8
@@ -473,10 +474,10 @@ libxxf86vm 1.1.4-4
 libyaml 0.2.5-1
 licenses 20200427-1
 lilv 0.24.8-2
-linux 5.8.4.arch1-1
+linux 5.8.5.arch1-1
 linux-api-headers 5.7-1
 linux-firmware 20200817.7a30af1-1
-llvm-libs 10.0.1-1
+llvm-libs 10.0.1-2
 lm_sensors 3.6.0-2
 loginized 1.4.0-2
 lolcat 100.0.0-2
