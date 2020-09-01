@@ -171,7 +171,7 @@ gnome-system-monitor 3.36.1-1
 gnome-terminal-transparency 3.36.2-1
 gnome-themes-extra 3.28-2
 gnu-free-fonts 20120503-8
-gnupg 2.2.21-1
+gnupg 2.2.21-2
 gnutls 3.6.14-2
 go 2:1.15-1
 gobject-introspection 1.64.1-2
@@ -220,7 +220,7 @@ hunspell 1.7.0-3
 hwids 20200813.1-1
 hwloc 2.2.0-1
 hyphen 2.8.8-3
-iana-etc 20200812-1
+iana-etc 20200812-2
 icu 67.1-1
 ijs 0.35-3
 imagemagick 7.0.10.28-1
@@ -267,7 +267,7 @@ libbytesize 2.4-1
 libcaca 0.99.beta19-3
 libcanberra 0.30+2+gc0620e4-3
 libcanberra-pulse 0.30+2+gc0620e4-3
-libcap 2.42-1
+libcap 2.43-1
 libcap-ng 0.7.11-1
 libcddb 1.3.2-6
 libcdio 2.1.0-2
@@ -293,7 +293,7 @@ libdvdnav 6.1.0-2
 libdvdread 6.1.1-1
 libebml 1.4.0-1
 libebur128 1.2.4-3
-libedit 20191231_3.1-1
+libedit 20191231_3.1-2
 libelf 0.180-1
 libepoxy 1.5.4-2
 libevdev 1.9.1-1
@@ -340,7 +340,7 @@ libjpeg-turbo 2.0.5-2
 libkate 0.4.1-7
 libkeybinder2 0.3.1-4
 libkeybinder3 0.3.2-3
-libksba 1.4.0-1
+libksba 1.4.0-2
 libldap 2.4.50-2
 liblqr 0.4.2-3
 liblrdf 0.6.1-4
@@ -547,7 +547,7 @@ opencore-amr 0.1.5-4
 openexr 2.5.3-1
 openjpeg2 2.3.1-2
 openmpi 4.0.4-1
-openssh 8.3p1-3
+openssh 8.3p1-4
 openssl 1.1.1.g-2
 openssl-1.0 1.0.2.u-1
 opus 1.3.1-2
