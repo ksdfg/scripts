@@ -268,7 +268,7 @@ libcaca 0.99.beta19-3
 libcanberra 0.30+2+gc0620e4-3
 libcanberra-pulse 0.30+2+gc0620e4-3
 libcap 2.43-1
-libcap-ng 0.7.11-1
+libcap-ng 0.7.11-2
 libcddb 1.3.2-6
 libcdio 2.1.0-2
 libcdio-paranoia 10.2+2.0.1-2
@@ -427,7 +427,7 @@ libupnp 1.6.25-2
 libusb 1.0.23-2
 libusbmuxd 2.0.2-1
 libutempter 1.2.1-1
-libutil-linux 2.36-2
+libutil-linux 2.36-3
 libuv 1.39.0-1
 libva 2.8.0-1
 libvdpau 1.4-1
@@ -597,8 +597,8 @@ pkgconf 1.7.3-1
 polkit 0.117-1
 polkit-gnome 0.105-5
 polkit-qt5 0.113.0-2
-poppler 20.08.0-1
-poppler-glib 20.08.0-1
+poppler 20.09.0-1
+poppler-glib 20.09.0-1
 popt 1.18-1
 portaudio 1:19.6.0-7
 postgresql 12.4-1
@@ -767,9 +767,9 @@ startup-notification 0.12-7
 sudo 1.9.2-1
 sushi 3.34.0+19+g331d9b7-1
 sysfsutils 2.1.0-11
-systemd 246.3-1
-systemd-libs 246.3-1
-systemd-sysvcompat 246.3-1
+systemd 246.4-1
+systemd-libs 246.4-1
+systemd-sysvcompat 246.4-1
 t1lib 5.1.2-8
 taglib 1.11.1-4
 tar 1.32-3
@@ -798,7 +798,7 @@ unzip 6.0-14
 upower 0.99.11-3
 usbmuxd 1.1.1-1
 usbutils 012-2
-util-linux 2.36-2
+util-linux 2.36-3
 v4l-utils 1.20.0-1
 vala 0.48.9-1
 vid.stab 1.1-3
