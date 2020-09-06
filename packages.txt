@@ -14,7 +14,7 @@ archlinux-keyring 20200820-1
 argon2 20190702-3
 aribb24 1.0.3-3
 at-spi2-atk 2.34.2-1
-at-spi2-core 2.36.0-1
+at-spi2-core 2.36.1-1
 atk 2.36.0-1
 atkmm 2.28.0-2
 attr 2.4.48-3
@@ -27,6 +27,7 @@ awesome-terminal-fonts 1.1.0-3
 baobab 3.34.1-1
 base 2-2
 bash 5.0.018-1
+bat 0.15.4-1
 binutils 2.35-2
 bison 3.6.4-1
 blas 3.9.0-3
@@ -67,7 +68,7 @@ colord-sane 1.4.4+9+g1ce26da-2
 containerd 1.4.0-2
 coreutils 8.32-1
 cracklib 2.9.7-2
-cryptsetup 2.3.3-1
+cryptsetup 2.3.4-1
 ctemplate 2.4-1
 curl 7.72.0-2
 dav1d 0.7.1-1
@@ -171,8 +172,8 @@ gnome-system-monitor 3.36.1-1
 gnome-terminal-transparency 3.36.2-1
 gnome-themes-extra 3.28-2
 gnu-free-fonts 20120503-8
-gnupg 2.2.21-2
-gnutls 3.6.14-2
+gnupg 2.2.23-1
+gnutls 3.6.15-1
 go 2:1.15.1-1
 gobject-introspection 1.64.1-2
 gobject-introspection-runtime 1.64.1-2
@@ -199,9 +200,9 @@ gst-plugins-base-libs 1.16.2-2
 gst-plugins-good 1.16.2-3
 gstreamer 1.16.2-2
 gtk-doc 1.32+37+gefc3644-1
-gtk-update-icon-cache 1:3.24.22-1
+gtk-update-icon-cache 1:3.24.23-1
 gtk2 2.24.32-2
-gtk3 1:3.24.22-1
+gtk3 1:3.24.23-1
 gtkmm3 3.24.2-2
 gtksourceview4 4.6.1-1
 gts 0.7.6.121130-2
@@ -220,10 +221,10 @@ hunspell 1.7.0-3
 hwids 20200813.1-1
 hwloc 2.2.0-1
 hyphen 2.8.8-3
-iana-etc 20200812-2
+iana-etc 20200905-1
 icu 67.1-1
 ijs 0.35-3
-imagemagick 7.0.10.28-1
+imagemagick 7.0.10.29-1
 imlib2 1.7.0-1
 intellij-idea-ultimate-edition 2020.2.1-1
 intellij-idea-ultimate-edition-jre 2020.2.1-1
@@ -434,7 +435,7 @@ libvdpau 1.4-1
 libvisual 0.4.0-8
 libvorbis 1.3.7-2
 libvpx 1.9.0-1
-libwacom 1.4.1-1
+libwacom 1.5-1
 libwebp 1.1.0-1
 libwpe 1.6.0-1
 libx11 1.6.12-1
@@ -472,7 +473,7 @@ libxxf86vm 1.1.4-4
 libyaml 0.2.5-1
 licenses 20200427-1
 lilv 0.24.8-2
-linux 5.8.5.arch1-1
+linux 5.8.7.arch1-1
 linux-api-headers 5.8-1
 linux-firmware 20200817.7a30af1-1
 llvm-libs 10.0.1-2
@@ -501,12 +502,12 @@ man-db 2.9.3-1
 man-pages 5.08-1
 md4c 0.4.5-1
 mdadm 4.1-2
-mesa 20.1.6-1
+mesa 20.1.7-1
 meson 0.55.1-1
 minizip 1:1.2.11-4
 mjpegtools 2.1.0-5
 mkinitcpio 28-1
-mkinitcpio-busybox 1.31.1-1
+mkinitcpio-busybox 1.31.1-2
 mobile-broadband-provider-info 20190618-2
 mongodb-bin 4.4.0-1
 mongodb-tools 4.2.8-1
@@ -532,7 +533,7 @@ network-manager-applet 1.18.0-1
 networkmanager 1.26.2-1
 ninja 1.10.1-1
 nm-connection-editor 1.18.0-1
-node-gyp 7.0.0-2
+node-gyp 7.1.0-1
 nodejs 14.9.0-1
 noto-fonts-cjk 20190409-2
 noto-fonts-emoji 20200720-1
@@ -612,12 +613,12 @@ pulseeffects 4.8.0-1
 pycharm-professional 2020.2.1-1
 pygobject-devel 3.36.1-1
 pygtk 2.24.0-12
-python 3.8.5-1
+python 3.8.5-2
 python-anytree 2.8.0-1
 python-appdirs 1.4.4-1
 python-asn1crypto 1.4.0-1
 python-atspi 2.36.0-1
-python-attrs 20.1.0-1
+python-attrs 20.2.0-1
 python-bcrypt 3.2.0-1
 python-beaker 1.11.0-4
 python-cachecontrol 0.12.6-1
@@ -673,9 +674,9 @@ python-requests 2.24.0-1
 python-resolvelib 0.4.0-1
 python-retrying 1.3.3-7
 python-setproctitle 1.1.10-5
-python-setuptools 1:49.6.0-1
+python-setuptools 1:50.3.0-1
 python-six 1.15.0-1
-python-texttable 1.6.2-3
+python-texttable 1.6.3-1
 python-tinycss2 1.0.2-3
 python-toml 0.10.1-1
 python-urllib3 1.25.10-1
@@ -684,7 +685,7 @@ python-websocket-client 0.57.0-1
 python-xapp 2.0.0-1
 python-yaml 5.3.1-2
 python-zipp 3.1.0-1
-python2 2.7.18-1
+python2 2.7.18-2
 python2-appdirs 1.4.4-1
 python2-cairo 1.18.2-4
 python2-distutils-extra 2.39-5
@@ -712,7 +713,7 @@ raptor 2.0.15-13
 rav1e 0.3.3-1
 readline 8.0.004-1
 recode 3.7.7-1
-reflector 2020.8.19-2
+reflector 2020.9-1
 rest 0.8.1-3
 ripgrep 12.1.1-1
 rpmextract 1.0-9
@@ -738,7 +739,7 @@ rubygems 3.1.4-1
 run-parts 4.8.6.1-2
 runc 1.0.0rc92-1
 rygel 0.38.4-1
-sane 1.0.30-1
+sane 1.0.31-1
 sbc 1.4-2
 sdl 1.2.15-14
 sdl2 2.0.12-2
@@ -750,7 +751,7 @@ shadow 4.8.1-3
 shared-color-targets 0.1.7-3
 shared-mime-info 2.0+1+g6bf9e4f-2
 shotwell 2:0.30.10-2
-simple-scan 3.36.4-1
+simple-scan 3.36.6-1
 slang 2.3.2-2
 sord 0.16.4-1
 sound-theme-freedesktop 0.8-4
@@ -800,7 +801,7 @@ usbmuxd 1.1.1-1
 usbutils 012-2
 util-linux 2.36-3
 v4l-utils 1.20.0-1
-vala 0.48.9-1
+vala 0.48.10-1
 vid.stab 1.1-3
 vino 3.22.0+72+g3fe1f12-1
 visual-studio-code-bin 1.48.2-1
