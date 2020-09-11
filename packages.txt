@@ -473,7 +473,7 @@ libxxf86vm 1.1.4-4
 libyaml 0.2.5-1
 licenses 20200427-1
 lilv 0.24.8-2
-linux 5.8.7.arch1-1
+linux 5.8.8.arch1-1
 linux-api-headers 5.8-1
 linux-firmware 20200817.7a30af1-1
 llvm-libs 10.0.1-2
@@ -534,7 +534,7 @@ networkmanager 1.26.2-1
 ninja 1.10.1-1
 nm-connection-editor 1.18.0-1
 node-gyp 7.1.0-1
-nodejs 14.10.0-1
+nodejs 14.10.1-1
 noto-fonts-cjk 20190409-2
 noto-fonts-emoji 20200720-1
 npm 6.14.8-1
