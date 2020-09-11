@@ -137,7 +137,7 @@ geckodriver 0.26.0-1
 geoclue 2.5.6-1
 geocode-glib 3.26.2-1
 gettext 0.21-1
-ghostscript 9.52-1
+ghostscript 9.53.0-1
 giflib 5.2.1-2
 git 2.28.0-1
 gjs 2:1.64.4-1
@@ -226,6 +226,7 @@ icu 67.1-1
 ijs 0.35-3
 imagemagick 7.0.10.29-1
 imlib2 1.7.0-1
+inetutils 1.9.4-8
 intellij-idea-ultimate-edition 2020.2.1-1
 intellij-idea-ultimate-edition-jre 2020.2.1-1
 intltool 0.51.0-6
@@ -237,7 +238,7 @@ itstool 1:2.0.6-2
 jack 0.125.0-9
 jansson 2.13.1-1
 jasper 2.0.19-1
-jbig2dec 0.18-1
+jbig2dec 0.19-1
 js52 52.9.0-4
 js60 60.9.0-2
 js68 68.12.0-1
@@ -509,7 +510,7 @@ mjpegtools 2.1.0-5
 mkinitcpio 28-1
 mkinitcpio-busybox 1.31.1-2
 mobile-broadband-provider-info 20190618-2
-mongodb-bin 4.4.0-1
+mongodb-bin 4.4.1-1
 mongodb-tools 4.2.8-1
 mpfr 4.1.0-1
 mpg123 1.26.3-2
@@ -579,7 +580,7 @@ perl-html-tagset 3.20-10
 perl-http-cookies 6.08-3
 perl-http-daemon 6.06-2
 perl-http-date 6.05-3
-perl-http-message 6.25-1
+perl-http-message 6.26-1
 perl-http-negotiate 6.01-8
 perl-io-html 1.001-7
 perl-libwww 6.47-1
@@ -781,7 +782,7 @@ telepathy-glib 0.24.1-4
 texinfo 6.7-3
 thin-provisioning-tools 0.9.0-1
 tidy 5.7.16-2
-tigervnc 1.11.0-2
+tigervnc 1.11.0-4
 timezonemap 0.4.5.1-1
 tmux 3.1_b-1
 totem-pl-parser 3.26.5-1
@@ -873,6 +874,7 @@ xorg-xdriinfo 1.0.6-2
 xorg-xev 1.2.4-1
 xorg-xgamma 1.0.6-3
 xorg-xhost 1.0.8-2
+xorg-xinit 1.4.1-2
 xorg-xinput 1.6.3-2
 xorg-xkbcomp 1.4.3-1
 xorg-xkbevd 1.1.4-3
