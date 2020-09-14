@@ -678,7 +678,7 @@ python-setuptools 1:50.3.0-1
 python-six 1.15.0-1
 python-texttable 1.6.3-1
 python-tinycss2 1.0.2-3
-python-toml 0.10.1-1
+python-toml 0.10.1-2
 python-urllib3 1.25.10-1
 python-webencodings 0.5.1-4
 python-websocket-client 0.57.0-1
