@@ -1,6 +1,7 @@
 [user]
 	name = ksdfg
 	email = ksdfg123@gmail.com
+	signingkey = 34A2765B29E156704720E46350D061227F1119C2
 [core]
 	editor = nano
 [alias]
@@ -29,6 +30,6 @@
 	rbs = rebase --skip
 	d = diff
 	dc = diff --cached
-	c = commit --signoff
-	ca = commit --amend --signoff
-	can = commit --amend --no-edit --signoff
+	c = commit --signoff --gpg-sign
+	ca = commit --amend --signoff --gpg-sig
+	can = commit --amend --no-edit --signoff --gpg-sign
