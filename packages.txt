@@ -140,6 +140,7 @@ gettext
 ghostscript
 giflib
 git
+github-cli
 gjs
 glib-networking
 glib2
