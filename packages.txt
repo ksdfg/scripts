@@ -479,6 +479,7 @@ lilv
 linux
 linux-api-headers
 linux-firmware
+linux-headers
 llvm-libs
 lm_sensors
 loginized
