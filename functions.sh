@@ -5,7 +5,7 @@ update() {
 	# update icon pack
 	echo "----- updating icon theme -----"
 	cd $HOME/.icons/candy-icons
-	git merge origin master
+	git merge origin master --strategy-option=theirs
 	cd - > /dev/null
 
 	# update heroku cli
