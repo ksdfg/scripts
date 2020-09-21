@@ -117,6 +117,7 @@ fltk
 fluidsynth
 fontconfig
 fortune-mod
+freeimage
 freetype2
 fribidi
 fuse-common
@@ -227,6 +228,7 @@ icu
 ijs
 imagemagick
 imlib2
+imv
 inetutils
 intellij-idea-ultimate-edition
 intellij-idea-ultimate-edition-jre
@@ -245,6 +247,7 @@ js60
 js68
 json-c
 json-glib
+jxrlib
 kbd
 keyutils
 kmod
@@ -747,6 +750,7 @@ sane
 sbc
 sdl
 sdl2
+sdl2_ttf
 sed
 semver
 serd
