@@ -8,6 +8,7 @@ alsa-lib
 alsa-plugins
 alsa-topology-conf
 alsa-ucm-conf
+android-tools
 aom
 appstream-glib
 archlinux-keyring
@@ -81,6 +82,7 @@ device-mapper
 dhcpcd
 diffutils
 djvulibre
+dkms
 dmraid
 dnssec-anchors
 docbook-xml
@@ -236,6 +238,7 @@ intltool
 iproute2
 iptables
 iputils
+iriunwebcam-bin
 iso-codes
 itstool
 jack
@@ -245,6 +248,7 @@ jbig2dec
 js52
 js60
 js68
+js78
 json-c
 json-glib
 jxrlib
@@ -612,6 +616,7 @@ portaudio
 postgresql
 postgresql-libs
 procps-ng
+protobuf
 psmisc
 pulseaudio
 pulseaudio-alsa
@@ -811,6 +816,7 @@ usbutils
 util-linux
 util-linux-libs
 v4l-utils
+v4l2loopback-dkms
 vala
 vid.stab
 vino
