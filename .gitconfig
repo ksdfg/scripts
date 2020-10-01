@@ -10,6 +10,7 @@
 	s = status
 	p = push
 	pf = push -f
+	psu = push --set-upstream
 	pl = pull
 	f = fetch
 	r = remote
