@@ -4,6 +4,7 @@ accountsservice
 acl
 adobe-source-code-pro-fonts
 adwaita-icon-theme
+alsa-card-profiles
 alsa-lib
 alsa-plugins
 alsa-topology-conf
@@ -196,6 +197,7 @@ gsfonts
 gsm
 gspell
 gssdp
+gst-editing-services
 gst-plugin-gtk
 gst-plugins-bad
 gst-plugins-bad-libs
@@ -283,6 +285,7 @@ libcap-ng
 libcddb
 libcdio
 libcdio-paranoia
+libcloudproviders
 libcroco
 libcue
 libcups
@@ -397,6 +400,7 @@ libpipeline
 libplacebo
 libplist
 libpng
+libportal
 libproxy
 libpsl
 libpulse
@@ -623,7 +627,6 @@ pulseaudio-alsa
 pulseaudio-bluetooth
 pulseeffects
 pycharm-professional
-pygobject-devel
 pygtk
 python
 python-anytree
@@ -801,6 +804,7 @@ tmux
 totem-pl-parser
 tracker
 tracker-miners
+tracker3
 tslib
 ttf-arphic-uming
 ttf-indic-otf
