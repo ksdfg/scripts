@@ -505,6 +505,7 @@ lua52-expat
 lua52-lpeg
 lua52-luajson
 lua52-socket
+luit
 lvm2
 lz4
 lzo
@@ -870,7 +871,6 @@ xorg-fonts-alias-100dpi
 xorg-fonts-alias-75dpi
 xorg-fonts-encodings
 xorg-iceauth
-xorg-luit
 xorg-mkfontscale
 xorg-server
 xorg-server-common
