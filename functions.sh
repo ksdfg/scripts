@@ -1,3 +1,5 @@
+#!/usr/bin/env bash
+
 # Some functions for easier life
 
 # update everything
