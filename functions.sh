@@ -5,6 +5,7 @@ update() {
 	# update icon pack
 	echo "----- updating icon theme -----"
 	cd $HOME/.icons/candy-icons
+	git fetch
 	git merge origin master --strategy-option=theirs
 	cd - > /dev/null
 
