@@ -754,6 +754,7 @@ ruby-tins
 rubygems
 run-parts
 runc
+rust
 rygel
 sane
 sbc
