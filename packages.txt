@@ -258,6 +258,7 @@ kbd
 keyutils
 kmod
 krb5
+kubectl
 l-smash
 lame
 lapack
