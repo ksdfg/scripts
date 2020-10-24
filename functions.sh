@@ -44,11 +44,19 @@ rebye() {
     update "$*" && reboot
 }
 
-# reset gcloud account and config
+# reset gcloud account and config after qwiklabs
 gcloud-reset() {
+    # reset account and project config
     for email in $(gcloud auth list --filter "account!=ksdfg123@gmail.com" --format "value(account)"); do
         gcloud auth revoke $email
     done
     gcloud config set account ksdfg123@gmail.com
     gcloud config set project madness-sense
+
+    # reset kubeconfig
+    rm $HOME/.kube/config
+
+    # lot of labs require region/zone to be set
+    gcloud config unset compute/zone
+    gcloud config unset compute/region
 }
