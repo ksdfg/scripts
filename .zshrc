@@ -119,7 +119,7 @@ alias gitconfig="code ~/.gitconfig"
 alias gitalias="tail -n+10 ~/.gitconfig | sed 's/^[ \t]*//;s/[ \t]*$//' | bat -l toml --file-name 'Git Aliases'"
 alias fcookie="fortune ~/.local/share/fortune-cookie/fortune"
 alias bt="bluetoothctl"
-alias jbl="bluetoothctl power on && bluetoothctl connect 5C:FB:7C:EF:56:57 && bluetooth_battery 5C:FB:7C:EF:56:57.1 | sed 's/5C:FB:7C:EF:56:57/JBL T450BT/'"
+alias jbl="bluetoothctl power on && bluetoothctl connect 5C:FB:7C:EF:56:57 | sed 's/5C:FB:7C:EF:56:57/JBL T450BT/g' && bluetooth_battery 5C:FB:7C:EF:56:57.1 | sed 's/5C:FB:7C:EF:56:57/JBL T450BT/g'"
 alias jbl-batt="bluetooth_battery 5C:FB:7C:EF:56:57.1 | sed 's/5C:FB:7C:EF:56:57/JBL T450BT/'"
 
 # startup visuals
