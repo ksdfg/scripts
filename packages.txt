@@ -221,7 +221,6 @@ gvfs
 gzip
 harfbuzz
 harfbuzz-icu
-helm
 hicolor-icon-theme
 hidapi
 hunspell
