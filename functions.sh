@@ -44,6 +44,15 @@ rebye() {
     update "$*" && reboot
 }
 
+# connect to JBL headphones
+jbl() {
+    echo -en "\033]0;Connecting to JBL T450BT\a"
+    bluetoothctl power on
+    if bluetoothctl connect ${JBL} | sed "s/${JBL}/JBL T450BT/g"; then
+        bluetooth_battery ${JBL}.1 | sed "s/${JBL}/JBL T450BT/g"
+    fi
+}
+
 # reset gcloud account and config after qwiklabs
 gcloud-reset() {
     # reset account and project config
