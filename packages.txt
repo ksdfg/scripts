@@ -85,6 +85,7 @@ diffutils
 djvulibre
 dkms
 dmraid
+dnsmasq
 dnssec-anchors
 docbook-xml
 docbook-xsl
