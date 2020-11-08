@@ -50,7 +50,7 @@ rebye() {
 jbl() {
     echo -en "\033]0;Connecting to JBL T450BT\a"
     bluetoothctl power on
-    if bluetoothctl connect ${JBL} then
+    if bluetoothctl connect ${JBL}; then
         bluetooth_battery ${JBL}.1
     fi
 }
