@@ -795,6 +795,7 @@ systemd-sysvcompat
 t1lib
 taglib
 tar
+tcl
 tdb
 teams
 telegram-desktop
@@ -804,6 +805,7 @@ thin-provisioning-tools
 tidy
 tigervnc
 timezonemap
+tk
 tmux
 totem-pl-parser
 tracker
