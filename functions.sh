@@ -28,7 +28,7 @@ update() {
     cp "$HOME"/.zshrc "$HOME"/scripts/.zshrc
     cp "$HOME"/.gitconfig "$HOME"/scripts/.gitconfig
     cp "$HOME"/.p10k.zsh "$HOME"/scripts/.p10k.zsh
-    cp -r "$HOME"/.oh-my-zsh/ "$HOME"/scripts/.oh-my-zsh/
+    sudo cp -ur "$HOME"/.oh-my-zsh/ "$HOME"/scripts/
     yay -Qq >"$HOME"/scripts/packages.txt
     cd "$HOME"/scripts || exit
     git c -am "automated update"
