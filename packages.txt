@@ -830,6 +830,8 @@ v4l2loopback-dkms
 vala
 vid.stab
 vino
+virtualbox
+virtualbox-host-modules-arch
 visual-studio-code-bin
 vlc
 vmaf
