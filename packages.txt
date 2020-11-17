@@ -684,6 +684,7 @@ python-pycparser
 python-pygments
 python-pyinotify
 python-pynacl
+python-pyopenssl
 python-pyparsing
 python-pyrsistent
 python-pytoml
