@@ -93,6 +93,7 @@ docker
 docker-compose
 dosfstools
 double-conversion
+downgrade
 e2fsprogs
 efibootmgr
 efivar
@@ -575,6 +576,7 @@ os-prober
 osinfo-db
 p11-kit
 pacman
+pacman-contrib
 pacman-mirrorlist
 pam
 pam_wrapper
