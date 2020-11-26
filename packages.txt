@@ -225,6 +225,7 @@ harfbuzz
 harfbuzz-icu
 hicolor-icon-theme
 hidapi
+http-parser
 hunspell
 hwids
 hwloc
@@ -325,6 +326,7 @@ libgdata
 libgdm
 libgee
 libgexiv2
+libgit2
 libglade
 libglvnd
 libgme
@@ -561,6 +563,7 @@ npth
 nspr
 nss
 ntfs-3g
+onefetch
 ookla-speedtest-bin
 openal
 opencore-amr
@@ -589,6 +592,7 @@ patch
 pciutils
 pcre
 pcre2
+pcsclite
 perl
 perl-clone
 perl-encode-locale
@@ -833,11 +837,11 @@ v4l2loopback-dkms
 vala
 vid.stab
 vino
-virtualbox
-virtualbox-host-modules-arch
 visual-studio-code-bin
 vlc
 vmaf
+vmware-keymaps
+vmware-workstation
 volume_key
 vte-common
 vte3
