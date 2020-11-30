@@ -30,6 +30,7 @@ baobab
 base
 bash
 bat
+bcg729
 binutils
 bison
 blas
@@ -365,6 +366,7 @@ liblqr
 liblrdf
 libmad
 libmatroska
+libmaxminddb
 libmediaart
 libmfx
 libmicrodns
@@ -729,6 +731,7 @@ qca
 qt5-base
 qt5-declarative
 qt5-imageformats
+qt5-multimedia
 qt5-styleplugins
 qt5-svg
 qt5-wayland
@@ -780,6 +783,7 @@ shared-mime-info
 shotwell
 simple-scan
 slang
+snappy
 sord
 sound-theme-freedesktop
 soundtouch
@@ -854,6 +858,8 @@ webrtc-audio-processing
 wget
 which
 wildmidi
+wireshark-cli
+wireshark-qt
 woff2
 wpa_supplicant
 wpebackend-fdo
