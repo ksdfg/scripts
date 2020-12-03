@@ -202,6 +202,7 @@ gspell
 gssdp
 gst-editing-services
 gst-plugin-gtk
+gst-plugin-pipewire
 gst-plugins-bad
 gst-plugins-bad-libs
 gst-plugins-base
