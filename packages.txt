@@ -74,6 +74,7 @@ cracklib
 cryptsetup
 ctemplate
 curl
+cython
 dav1d
 db
 dbus
