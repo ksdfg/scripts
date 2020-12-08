@@ -9,7 +9,6 @@ alsa-lib
 alsa-plugins
 alsa-topology-conf
 alsa-ucm-conf
-android-tools
 aom
 appstream-glib
 archlinux-keyring
@@ -120,7 +119,6 @@ firefox
 flac
 flashplugin
 flex
-fltk
 fluidsynth
 fontconfig
 fortune-mod
@@ -246,7 +244,6 @@ intltool
 iproute2
 iptables
 iputils
-iriunwebcam-bin
 iso-codes
 itstool
 jack
@@ -633,7 +630,6 @@ portaudio
 postgresql
 postgresql-libs
 procps-ng
-protobuf
 psmisc
 pulseaudio
 pulseaudio-alsa
@@ -816,7 +812,6 @@ telepathy-glib
 texinfo
 thin-provisioning-tools
 tidy
-tigervnc
 timezonemap
 tk
 tmux
@@ -827,6 +822,7 @@ tracker3
 tslib
 ttf-arphic-uming
 ttf-indic-otf
+ttf-jetbrains-mono
 ttf-roboto
 twolame
 tzdata
@@ -839,7 +835,6 @@ usbutils
 util-linux
 util-linux-libs
 v4l-utils
-v4l2loopback-dkms
 vala
 vid.stab
 vino
@@ -857,6 +852,8 @@ wayland
 wayland-protocols
 webkit2gtk
 webrtc-audio-processing
+webstorm
+webstorm-jre
 wget
 which
 wildmidi
@@ -915,7 +912,6 @@ xorg-xdriinfo
 xorg-xev
 xorg-xgamma
 xorg-xhost
-xorg-xinit
 xorg-xinput
 xorg-xkbcomp
 xorg-xkbevd
@@ -939,6 +935,7 @@ xorgproto
 xvidcore
 xxhash
 xz
+yarn
 yay
 yelp
 yelp-tools
