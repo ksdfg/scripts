@@ -633,6 +633,7 @@ python-importlib-metadata
 python-jsonschema
 python-lxml
 python-msgpack
+python-numpy
 python-ordered-set
 python-packaging
 python-pam
@@ -666,6 +667,7 @@ python-urllib3
 python-webencodings
 python-websocket-client
 python-xapp
+python-xlib
 python-yaml
 python-zipp
 python2
@@ -826,6 +828,7 @@ xcb-util-image
 xcb-util-keysyms
 xcb-util-renderutil
 xcb-util-wm
+xclip
 xdg-dbus-proxy
 xdg-user-dirs
 xdg-user-dirs-gtk
