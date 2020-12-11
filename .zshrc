@@ -132,3 +132,9 @@ echo
 [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
 
 export PATH="$HOME/.poetry/bin:$PATH"
+
+# The next line updates PATH for the Google Cloud SDK.
+if [ -f '/home/ksdfg/google-cloud-sdk/path.zsh.inc' ]; then . '/home/ksdfg/google-cloud-sdk/path.zsh.inc'; fi
+
+# The next line enables shell command completion for gcloud.
+if [ -f '/home/ksdfg/google-cloud-sdk/completion.zsh.inc' ]; then . '/home/ksdfg/google-cloud-sdk/completion.zsh.inc'; fi

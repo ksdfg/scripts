@@ -181,7 +181,6 @@ gnu-free-fonts
 gnupg
 gnutls
 gobject-introspection-runtime
-google-cloud-sdk
 gpgme
 gpm
 gptfdisk

@@ -15,6 +15,10 @@ update() {
     echo "\n--- updating heroku cli ---"
     heroku update
 
+	# update google cloud sdk
+	echo "\n--- updating google cloud sdk ---"
+	gcloud components update
+
     # update libraries
     echo "\n----- updating libraries -----"
     if [[ $1 == "-m" ]]; then
