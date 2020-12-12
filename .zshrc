@@ -81,7 +81,6 @@ plugins=(
 	zsh-autosuggestions
 	colored-man-pages
 	archlinux
-	gcloud
 	poetry
 )
 
@@ -134,7 +133,7 @@ echo
 export PATH="$HOME/.poetry/bin:$PATH"
 
 # The next line updates PATH for the Google Cloud SDK.
-if [ -f '/home/ksdfg/google-cloud-sdk/path.zsh.inc' ]; then . '/home/ksdfg/google-cloud-sdk/path.zsh.inc'; fi
+if [ -f '/home/ksdfg/.local/lib/google-cloud-sdk/path.zsh.inc' ]; then . '/home/ksdfg/.local/lib/google-cloud-sdk/path.zsh.inc'; fi
 
 # The next line enables shell command completion for gcloud.
-if [ -f '/home/ksdfg/google-cloud-sdk/completion.zsh.inc' ]; then . '/home/ksdfg/google-cloud-sdk/completion.zsh.inc'; fi
+if [ -f '/home/ksdfg/.local/lib/google-cloud-sdk/completion.zsh.inc' ]; then . '/home/ksdfg/.local/lib/google-cloud-sdk/completion.zsh.inc'; fi

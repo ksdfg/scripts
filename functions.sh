@@ -8,7 +8,7 @@ update() {
     echo "----- updating icon theme -----"
     cd "$HOME"/.icons/candy-icons || exit
     git fetch
-    git rebase -Xtheirs origin master
+    git pull origin master
     cd - >/dev/null || exit
 
     # update heroku cli
