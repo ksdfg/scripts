@@ -330,6 +330,7 @@ libgusb
 libgweather
 libgxps
 libhandy
+libheif
 libibus
 libical
 libice
@@ -341,6 +342,7 @@ libieee1284
 libimagequant
 libimobiledevice
 libindicator-gtk3
+libinih
 libinput
 libinstpatch
 libiptcdata
@@ -382,6 +384,7 @@ libnl
 libnm
 libnma
 libnotify
+libnsgif
 libnsl
 libofa
 libogg
@@ -783,6 +786,7 @@ tslib
 ttf-arphic-uming
 ttf-indic-otf
 ttf-jetbrains-mono
+ttf-opensans
 ttf-roboto
 twolame
 tzdata
