@@ -223,6 +223,7 @@ harfbuzz
 harfbuzz-icu
 hicolor-icon-theme
 hidapi
+htop
 http-parser
 hunspell
 hwids
