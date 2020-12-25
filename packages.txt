@@ -180,7 +180,6 @@ gnome-themes-extra
 gnu-free-fonts
 gnupg
 gnutls
-go
 gobject-introspection-runtime
 gpgme
 gpm
@@ -231,6 +230,7 @@ hwloc
 hyphen
 iana-etc
 icu
+icu67
 ijs
 imagemagick
 imlib2
@@ -735,7 +735,6 @@ sane
 sbc
 sdl
 sdl2
-sdl2_ttf
 sed
 semver
 serd
@@ -912,6 +911,7 @@ zita-alsa-pcmi
 zita-convolver
 zita-resampler
 zlib
+zoom
 zsh
 zstd
 zvbi
