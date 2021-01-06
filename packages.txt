@@ -223,7 +223,6 @@ harfbuzz-icu
 hicolor-icon-theme
 hidapi
 htop
-http-parser
 hunspell
 hwids
 hwloc
@@ -316,7 +315,6 @@ libgdata
 libgdm
 libgee
 libgexiv2
-libgit2
 libglade
 libglvnd
 libgme
@@ -556,7 +554,6 @@ npth
 nspr
 nss
 ntfs-3g
-onefetch
 ookla-speedtest-bin
 openal
 opencore-amr
@@ -911,7 +908,6 @@ zita-alsa-pcmi
 zita-convolver
 zita-resampler
 zlib
-zoom
 zsh
 zstd
 zvbi
