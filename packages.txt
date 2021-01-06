@@ -244,6 +244,7 @@ jack
 jansson
 jasper
 jbig2dec
+jemalloc
 js78
 json-c
 json-glib
@@ -514,6 +515,9 @@ mailspring
 make
 man-db
 man-pages
+mariadb
+mariadb-clients
+mariadb-libs
 md4c
 mdadm
 mesa
@@ -596,8 +600,6 @@ poppler
 poppler-glib
 popt
 portaudio
-postgresql
-postgresql-libs
 procps-ng
 psmisc
 pulseaudio
