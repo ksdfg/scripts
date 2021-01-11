@@ -130,7 +130,7 @@ echo
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
 [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
 
-export PATH="$HOME/.poetry/bin:$PATH"
+export PATH="$HOME/.poetry/bin:/home/ksdfg/.local/lib/google-cloud-sdk/bin/docker-credential-gcloud:$PATH"
 
 # The next line updates PATH for the Google Cloud SDK.
 if [ -f '/home/ksdfg/.local/lib/google-cloud-sdk/path.zsh.inc' ]; then . '/home/ksdfg/.local/lib/google-cloud-sdk/path.zsh.inc'; fi

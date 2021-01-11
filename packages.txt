@@ -240,6 +240,7 @@ iproute2
 iptables
 iputils
 iso-codes
+itstool
 jack
 jansson
 jasper
@@ -286,6 +287,7 @@ libcroco
 libcue
 libcups
 libcurl-gnutls
+libcurl-openssl-1.0
 libdaemon
 libdatrie
 libdazzle
@@ -513,6 +515,7 @@ m4
 mailcap
 mailspring
 make
+mallard-ducktype
 man-db
 man-pages
 mariadb
@@ -901,6 +904,7 @@ xz
 yarn
 yay
 yelp
+yelp-tools
 yelp-xsl
 zbar
 zenity
