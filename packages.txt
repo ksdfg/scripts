@@ -59,11 +59,14 @@ cinnamon-screensaver
 cinnamon-session
 cinnamon-settings-daemon
 cjs
+clang
+cloudflared-bin
 clutter
 cmake
 cogl
 colord
 colord-sane
+compiler-rt
 containerd
 coreutils
 cracklib
@@ -670,6 +673,7 @@ qt5-svg
 qt5-wayland
 qt5-x11extras
 qt5ct
+raptor
 rav1e
 readline
 recode
