@@ -248,6 +248,7 @@ keyutils
 kmod
 krb5
 kubectl
+kwayland
 l-smash
 lame
 lapack
