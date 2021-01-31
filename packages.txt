@@ -676,6 +676,7 @@ qt5-wayland
 qt5-x11extras
 qt5ct
 raptor
+rar
 rav1e
 readline
 recode
