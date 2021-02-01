@@ -59,14 +59,11 @@ cinnamon-screensaver
 cinnamon-session
 cinnamon-settings-daemon
 cjs
-clang
 cloudflared-bin
 clutter
-cmake
 cogl
 colord
 colord-sane
-compiler-rt
 containerd
 coreutils
 cracklib
@@ -178,7 +175,6 @@ gnome-themes-extra
 gnu-free-fonts
 gnupg
 gnutls
-go
 gobject-introspection-runtime
 gpgme
 gpm
@@ -233,7 +229,6 @@ iproute2
 iptables
 iputils
 iso-codes
-itstool
 jack
 jansson
 jasper
@@ -242,7 +237,6 @@ jemalloc
 js78
 json-c
 json-glib
-jsoncpp
 jxrlib
 kbd
 keyutils
@@ -279,7 +273,6 @@ libcroco
 libcue
 libcups
 libcurl-gnutls
-libcurl-openssl-1.0
 libdaemon
 libdatrie
 libdazzle
@@ -491,7 +484,6 @@ m4
 mailcap
 mailspring
 make
-mallard-ducktype
 man-db
 man-pages
 mariadb
@@ -682,7 +674,6 @@ readline
 recode
 reflector
 rest
-rhash
 ripgrep
 rtkit
 ruby
@@ -868,7 +859,6 @@ xz
 yarn
 yay
 yelp
-yelp-tools
 yelp-xsl
 zenity
 zeromq
