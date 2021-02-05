@@ -225,6 +225,7 @@ imagemagick
 imv
 intellij-idea-ultimate-edition
 intellij-idea-ultimate-edition-jre
+inxi
 iproute2
 iptables
 iputils
