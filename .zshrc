@@ -82,6 +82,7 @@ plugins=(
 	colored-man-pages
 	archlinux
 	poetry
+	zbell
 )
 
 source $ZSH/oh-my-zsh.sh
