@@ -230,6 +230,7 @@ iproute2
 iptables
 iputils
 iso-codes
+itstool
 jack
 jansson
 jasper
@@ -485,6 +486,7 @@ m4
 mailcap
 mailspring
 make
+mallard-ducktype
 man-db
 man-pages
 mariadb
@@ -860,6 +862,7 @@ xz
 yarn
 yay
 yelp
+yelp-tools
 yelp-xsl
 zenity
 zeromq
