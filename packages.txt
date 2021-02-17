@@ -275,6 +275,7 @@ libcroco
 libcue
 libcups
 libcurl-gnutls
+libcurl-openssl-1.0
 libdaemon
 libdatrie
 libdazzle
