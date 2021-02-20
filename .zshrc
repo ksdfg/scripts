@@ -122,7 +122,6 @@ alias gitalias="tail -n+10 ~/.gitconfig | sed 's/^[ \t]*//;s/[ \t]*$//' | bat -l
 alias fcookie="fortune ~/.local/share/fortune-cookie/fortune"
 alias bt="bluetoothctl"
 alias jbl-batt="bluetooth_battery ${JBL}.1 | sed 's/${JBL}/JBL T450BT/'"
-alias autoremove="yay -Rscn $(pacman -Qdtq)"
 
 # startup visuals
 figlet -f slant madness sense | lolcat -as 427

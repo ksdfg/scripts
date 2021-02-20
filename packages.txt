@@ -82,7 +82,6 @@ dhcpcd
 diffutils
 discord
 djvulibre
-dkms
 dmraid
 dnsmasq
 dnssec-anchors
@@ -223,14 +222,11 @@ icu67
 ijs
 imagemagick
 imv
-intellij-idea-ultimate-edition
-intellij-idea-ultimate-edition-jre
 inxi
 iproute2
 iptables
 iputils
 iso-codes
-itstool
 jack
 jansson
 jasper
@@ -275,7 +271,6 @@ libcroco
 libcue
 libcups
 libcurl-gnutls
-libcurl-openssl-1.0
 libdaemon
 libdatrie
 libdazzle
@@ -487,7 +482,6 @@ m4
 mailcap
 mailspring
 make
-mallard-ducktype
 man-db
 man-pages
 mariadb
@@ -508,7 +502,6 @@ mtpfs
 muffin
 mutter
 nano
-ncdu
 ncurses
 ndctl
 nemo
@@ -558,7 +551,6 @@ pavucontrol
 pciutils
 pcre
 pcre2
-pcsclite
 perl
 perl-error
 perl-mailtools
@@ -768,8 +760,6 @@ vino
 visual-studio-code-bin
 vlc
 vmaf
-vmware-keymaps
-vmware-workstation
 volume_key
 vte-common
 vte3
@@ -863,7 +853,6 @@ xz
 yarn
 yay
 yelp
-yelp-tools
 yelp-xsl
 zenity
 zeromq
