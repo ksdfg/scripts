@@ -77,6 +77,7 @@ dbus
 dbus-glib
 dconf
 desktop-file-utils
+desmume
 device-mapper
 dhcpcd
 diffutils
@@ -695,6 +696,7 @@ rust
 rygel
 sane
 sbc
+sdl
 sdl2
 sed
 semver
@@ -707,6 +709,7 @@ simple-scan
 slang
 snappy
 sound-theme-freedesktop
+soundtouch
 spandsp
 speex
 speexdsp
@@ -862,3 +865,4 @@ zita-resampler
 zlib
 zsh
 zstd
+zziplib
