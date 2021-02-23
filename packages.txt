@@ -208,6 +208,8 @@ gupnp
 gupnp-av
 gupnp-dlna
 gvfs
+gvfs-gphoto2
+gvfs-mtp
 gzip
 harfbuzz
 harfbuzz-icu
@@ -233,6 +235,7 @@ jansson
 jasper
 jbig2dec
 jemalloc
+jmtpfs
 js78
 json-c
 json-glib
