@@ -176,6 +176,7 @@ gnu-free-fonts
 gnupg
 gnutls
 gobject-introspection-runtime
+google-chrome
 gpgme
 gpm
 gptfdisk
