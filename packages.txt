@@ -586,6 +586,7 @@ perl-www-robotrules
 perl-xml-parser
 pinentry
 pipewire
+pipewire-media-session
 pixman
 pkgconf
 polkit
