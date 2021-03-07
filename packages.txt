@@ -265,6 +265,7 @@ libassuan
 libasyncns
 libatasmart
 libavc1394
+libavif
 libblockdev
 libbluray
 libbytesize
@@ -465,6 +466,7 @@ libxv
 libxvmc
 libxxf86vm
 libyaml
+libyuv
 licenses
 linux
 linux-api-headers
@@ -753,6 +755,7 @@ srt
 startup-notification
 sudo
 sushi
+svt-av1
 sysfsutils
 systemd
 systemd-libs
