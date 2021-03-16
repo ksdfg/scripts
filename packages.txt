@@ -896,6 +896,7 @@ yelp-tools
 yelp-xsl
 zenity
 zeromq
+zimg
 zip
 zita-alsa-pcmi
 zita-resampler
