@@ -76,6 +76,7 @@ dav1d
 db
 dbus
 dbus-glib
+dbus-python
 dconf
 desktop-file-utils
 desmume
@@ -177,6 +178,7 @@ gnome-themes-extra
 gnu-free-fonts
 gnupg
 gnutls
+go
 gobject-introspection
 gobject-introspection-runtime
 gpgme
@@ -620,8 +622,6 @@ python-click
 python-colorama
 python-contextlib2
 python-cryptography
-python-dbus
-python-dbus-common
 python-distlib
 python-distro
 python-docker
