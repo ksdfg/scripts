@@ -282,7 +282,6 @@ libcloudproviders
 libcroco
 libcue
 libcups
-libcurl-gnutls
 libdaemon
 libdatrie
 libdazzle
@@ -749,7 +748,6 @@ spandsp
 speex
 speexdsp
 spirv-tools
-spotify
 sqlite
 srt
 startup-notification
