@@ -510,8 +510,6 @@ minizip
 mkinitcpio
 mkinitcpio-busybox
 mobile-broadband-provider-info
-mongodb-bin
-mongodb-tools
 mpfr
 mtdev
 mtpfs
