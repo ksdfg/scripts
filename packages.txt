@@ -25,7 +25,6 @@ autoconf-archive
 automake
 avahi
 awesome-terminal-fonts
-bamf
 baobab
 base
 bash
@@ -48,6 +47,8 @@ ca-certificates
 ca-certificates-mozilla
 ca-certificates-utils
 cairo
+cairo-dock
+cairo-dock-plug-ins
 cairomm
 cantarell-fonts
 caribou
@@ -434,7 +435,6 @@ libvorbis
 libvpx
 libwacom
 libwebp
-libwnck3
 libwpe
 libx11
 libxau
@@ -460,7 +460,6 @@ libxmu
 libxpm
 libxrandr
 libxrender
-libxres
 libxshmfence
 libxslt
 libxss
@@ -594,7 +593,6 @@ pipewire
 pipewire-media-session
 pixman
 pkgconf
-plank
 polkit
 polkit-gnome
 poppler
