@@ -346,6 +346,7 @@ libldac
 libldap
 liblqr
 libmad
+libmanette
 libmatroska
 libmaxminddb
 libmediaart
