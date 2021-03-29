@@ -742,6 +742,7 @@ shared-color-targets
 shared-mime-info
 shotwell
 simple-scan
+slack-desktop
 slang
 snappy
 sound-theme-freedesktop
