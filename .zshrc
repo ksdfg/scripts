@@ -118,7 +118,7 @@ source $HOME/scripts/functions.sh
 alias zshconfig="code ~/.zshrc"
 alias ohmyzsh="code ~/.oh-my-zsh"
 alias gitconfig="code ~/.gitconfig"
-alias gitalias="tail -n+10 ~/.gitconfig | sed 's/^[ \t]*//;s/[ \t]*$//' | bat -l toml --file-name 'Git Aliases'"
+alias gitalias="git config --global --get-regexp ^alias\. | sed -e s/^alias\.// -e s/\ /\ =\ / | bat -l toml --file-name 'Git Aliases'"
 alias fcookie="fortune ~/.local/share/fortune-cookie/fortune"
 alias bt="bluetoothctl"
 alias jbl-batt="bluetooth_battery ${JBL}.1 | sed 's/${JBL}/JBL T450BT/'"
