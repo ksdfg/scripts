@@ -183,6 +183,8 @@ gnutls
 go
 gobject-introspection
 gobject-introspection-runtime
+goland
+goland-jre
 gpgme
 gpm
 gptfdisk
