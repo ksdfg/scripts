@@ -85,6 +85,7 @@ desmume
 device-mapper
 dhcpcd
 diffutils
+direnv
 discord
 djvulibre
 dmraid
