@@ -203,6 +203,7 @@ gssdp
 gst-editing-services
 gst-plugin-gtk
 gst-plugin-pipewire
+gst-plugins-bad-libs
 gst-plugins-base
 gst-plugins-base-libs
 gstreamer
@@ -210,6 +211,7 @@ gtk-doc
 gtk-update-icon-cache
 gtk2
 gtk3
+gtk4
 gtkmm3
 gtksourceview4
 gts
@@ -602,6 +604,8 @@ polkit-gnome
 poppler
 poppler-glib
 popt
+postgresql
+postgresql-libs
 procps-ng
 psmisc
 pulseaudio
@@ -806,6 +810,7 @@ vmaf
 volume_key
 vte-common
 vte3
+vulkan-headers
 vulkan-icd-loader
 wayland
 wayland-protocols
