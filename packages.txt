@@ -536,9 +536,8 @@ networkmanager
 nm-connection-editor
 node-gyp
 nodejs
-noto-fonts
 noto-fonts-cjk
-noto-fonts-emoji
+noto-fonts-emoji-blob
 npm
 npth
 nspr
