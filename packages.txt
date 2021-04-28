@@ -237,6 +237,7 @@ icu
 icu67
 ijs
 imagemagick
+imath
 imv
 intltool
 inxi
@@ -715,6 +716,7 @@ recode
 reflector
 rest
 ripgrep
+rsync
 rtkit
 ruby
 ruby-diff-lcs
