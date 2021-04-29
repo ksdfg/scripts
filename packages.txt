@@ -186,7 +186,6 @@ gobject-introspection
 gobject-introspection-runtime
 goland
 goland-jre
-google-chrome
 gpgme
 gpm
 gptfdisk
@@ -240,7 +239,6 @@ imagemagick
 imath
 imv
 intltool
-inxi
 iproute2
 iptables
 iputils
