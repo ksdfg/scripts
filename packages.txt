@@ -605,6 +605,7 @@ poppler-glib
 popt
 postgresql
 postgresql-libs
+postman-bin
 procps-ng
 psmisc
 pulseaudio
