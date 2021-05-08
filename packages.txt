@@ -64,6 +64,7 @@ cinnamon-settings-daemon
 cjs
 cloudflared-bin
 clutter
+cmake
 cogl
 colord
 colord-sane
@@ -253,6 +254,7 @@ jmtpfs
 js78
 json-c
 json-glib
+jsoncpp
 jxrlib
 kbd
 keyutils
@@ -714,6 +716,7 @@ readline
 recode
 reflector
 rest
+rhash
 ripgrep
 rsync
 rtkit
