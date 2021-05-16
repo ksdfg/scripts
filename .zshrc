@@ -141,3 +141,7 @@ if [ -f '/home/ksdfg/.local/lib/google-cloud-sdk/completion.zsh.inc' ]; then . '
 
 # The next line hooks direnv into the shell
 eval "$(direnv hook zsh)"
+
+export PATH=$PATH:/usr/local/bin
+
+source '/usr/local/lib/azure-cli/az.completion'
