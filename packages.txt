@@ -21,7 +21,6 @@ atkmm
 attr
 audit
 autoconf
-autoconf-archive
 automake
 avahi
 awesome-terminal-fonts
@@ -64,7 +63,6 @@ cinnamon-settings-daemon
 cjs
 cloudflared-bin
 clutter
-cmake
 cogl
 colord
 colord-sane
@@ -164,7 +162,6 @@ gnome-bluetooth
 gnome-calculator
 gnome-characters
 gnome-color-manager
-gnome-common
 gnome-desktop
 gnome-disk-utility
 gnome-font-viewer
@@ -183,7 +180,6 @@ gnu-free-fonts
 gnupg
 gnutls
 go
-gobject-introspection
 gobject-introspection-runtime
 goland
 goland-jre
@@ -239,12 +235,10 @@ ijs
 imagemagick
 imath
 imv
-intltool
 iproute2
 iptables
 iputils
 iso-codes
-itstool
 jack
 jansson
 jasper
@@ -254,7 +248,6 @@ jmtpfs
 js78
 json-c
 json-glib
-jsoncpp
 jxrlib
 kbd
 keyutils
@@ -504,7 +497,6 @@ m4
 mailcap
 mailspring
 make
-mallard-ducktype
 man-db
 man-pages
 mariadb
@@ -595,7 +587,6 @@ perl-timedate
 perl-try-tiny
 perl-uri
 perl-www-robotrules
-perl-xml-parser
 pinentry
 pipewire
 pipewire-media-session
@@ -619,11 +610,9 @@ pygtk
 python
 python-anytree
 python-appdirs
-python-asn1crypto
 python-atspi
 python-attrs
 python-bcrypt
-python-beaker
 python-cachecontrol
 python-cached-property
 python-cairo
@@ -646,9 +635,6 @@ python-idna
 python-importlib-metadata
 python-jsonschema
 python-lxml
-python-mako
-python-markdown
-python-markupsafe
 python-msgpack
 python-numpy
 python-ordered-set
@@ -717,7 +703,6 @@ readline
 recode
 reflector
 rest
-rhash
 ripgrep
 rsync
 rtkit
@@ -906,7 +891,6 @@ xz
 yarn
 yay
 yelp
-yelp-tools
 yelp-xsl
 zenity
 zeromq
