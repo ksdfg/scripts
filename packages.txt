@@ -513,6 +513,7 @@ mariadb-libs
 md4c
 mdadm
 mesa
+minikube
 minizip
 mkinitcpio
 mkinitcpio-busybox
