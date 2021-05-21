@@ -119,6 +119,7 @@ firefox
 flac
 flashplugin
 flex
+fltk
 fontconfig
 fortune-mod
 freeimage
@@ -261,6 +262,8 @@ lapack
 lcms2
 ldns
 less
+lib32-attr
+lib32-glibc
 libaio
 libappindicator-gtk3
 libarchive
@@ -769,6 +772,7 @@ telepathy-glib
 texinfo
 thin-provisioning-tools
 tidy
+tigervnc
 timezonemap
 tk
 tmux
@@ -864,6 +868,7 @@ xorg-xdriinfo
 xorg-xev
 xorg-xgamma
 xorg-xhost
+xorg-xinit
 xorg-xinput
 xorg-xkbcomp
 xorg-xkbevd
