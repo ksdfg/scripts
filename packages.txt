@@ -638,6 +638,7 @@ python-idna
 python-importlib-metadata
 python-jsonschema
 python-lxml
+python-more-itertools
 python-msgpack
 python-numpy
 python-ordered-set
