@@ -123,6 +123,9 @@ alias fcookie="fortune ~/.local/share/fortune-cookie/fortune"
 alias bt="bluetoothctl"
 alias jbl-batt="bluetooth_battery ${JBL}.1 | sed 's/${JBL}/JBL T450BT/'"
 
+# set nano as default editor
+export EDITOR=nano
+
 # startup visuals
 figlet -f slant madness sense | lolcat -as 427
 fcookie | lolcat -as 427
@@ -142,6 +145,8 @@ if [ -f '/home/ksdfg/.local/lib/google-cloud-sdk/completion.zsh.inc' ]; then . '
 # The next line hooks direnv into the shell
 eval "$(direnv hook zsh)"
 
+# add local bin to path
 export PATH=$PATH:/usr/local/bin
 
+# add az completions
 source '/usr/local/lib/azure-cli/az.completion'

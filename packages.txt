@@ -284,6 +284,7 @@ libcddb
 libcdio
 libcdio-paranoia
 libcloudproviders
+libcolord
 libcroco
 libcue
 libcups
