@@ -6,6 +6,7 @@
 	gpgsign = true
 [core]
 	editor = nano
+	autocrlf = input
 [alias]
 	s = status
 	p = push

@@ -277,7 +277,6 @@ libblockdev
 libbluray
 libbytesize
 libcanberra
-libcanberra-pulse
 libcap
 libcap-ng
 libcddb
