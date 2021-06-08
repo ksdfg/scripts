@@ -767,7 +767,6 @@ taglib
 tar
 tcl
 tdb
-teams
 telegram-desktop
 telepathy-glib
 texinfo
