@@ -184,6 +184,7 @@ go
 gobject-introspection-runtime
 goland
 goland-jre
+google-chrome
 gpgme
 gpm
 gptfdisk
