@@ -184,7 +184,6 @@ go
 gobject-introspection-runtime
 goland
 goland-jre
-google-chrome
 gpgme
 gpm
 gptfdisk
@@ -511,6 +510,7 @@ mariadb-libs
 md4c
 mdadm
 mesa
+microsoft-edge-dev-bin
 minikube
 minizip
 mkinitcpio
