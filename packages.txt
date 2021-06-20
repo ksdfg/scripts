@@ -538,6 +538,7 @@ nm-connection-editor
 node-gyp
 nodejs
 nodejs-nopt
+noto-fonts
 noto-fonts-cjk
 noto-fonts-emoji-blob
 npm
@@ -749,7 +750,6 @@ shotwell
 simple-scan
 slack-desktop
 slang
-snappy
 sound-theme-freedesktop
 soundtouch
 spandsp
