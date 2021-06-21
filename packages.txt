@@ -17,6 +17,7 @@ archlinux-appstream-data
 archlinux-keyring
 argon2
 aribb24
+ark
 asar
 at-spi2-atk
 at-spi2-core
@@ -60,8 +61,6 @@ ca-certificates
 ca-certificates-mozilla
 ca-certificates-utils
 cairo
-cairo-dock
-cairo-dock-plug-ins
 cairomm
 cantarell-fonts
 caribou
@@ -327,6 +326,7 @@ kirigami2
 kitemmodels
 kitemviews
 kjobwidgets
+kjs
 kmenuedit
 kmod
 knewstuff
@@ -353,6 +353,7 @@ kuserfeedback
 kvantum-qt5
 kwallet
 kwallet-pam
+kwalletmanager
 kwayland
 kwayland-integration
 kwayland-server
@@ -454,6 +455,7 @@ libinih
 libinput
 libiptcdata
 libjpeg-turbo
+libkexiv2
 libkeybinder2
 libkeybinder3
 libkipi
@@ -675,6 +677,7 @@ npth
 nspr
 nss
 ntfs-3g
+okular
 ookla-speedtest-bin
 openal
 opencore-amr
