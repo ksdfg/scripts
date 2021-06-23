@@ -122,6 +122,7 @@ alias gitalias="git config --global --get-regexp ^alias\. | sed -e s/^alias\.// 
 alias fcookie="fortune ~/.local/share/fortune-cookie/fortune"
 alias bt="bluetoothctl"
 alias jbl-batt="bluetooth_battery ${JBL}.1 | sed 's/${JBL}/JBL T450BT/'"
+alias autoremove="yay -Qtdq | yay -Rns -"
 
 # set nano as default editor
 export EDITOR=nano
