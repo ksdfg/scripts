@@ -5,14 +5,15 @@
 # update everything
 update() {
     # update icon pack
-    echo "----- updating icon theme -----"
-    cd "$HOME"/.icons/candy-icons || exit
-    git fetch
-    git pull origin master
-    cd - >/dev/null || exit
+    # echo "----- updating icon theme -----"
+    # cd "$HOME"/.icons/candy-icons || exit
+    # git fetch
+    # git pull origin master
+    # cd - >/dev/null || exit
+	# echo
 
     # update heroku cli
-    echo "\n--- updating heroku cli ---"
+    echo "--- updating heroku cli ---"
     heroku update
 
 	# update google cloud sdk
