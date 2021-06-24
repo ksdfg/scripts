@@ -548,6 +548,7 @@ mpfr
 mtdev
 mtpfs
 nano
+ncdu
 ncurses
 ndctl
 neofetch
@@ -713,7 +714,6 @@ python-yaml
 python-zipp
 python2
 python2-appdirs
-python2-numpy
 python2-ordered-set
 python2-packaging
 python2-pyparsing
