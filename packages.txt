@@ -749,6 +749,7 @@ recode
 reflector
 rest
 ripgrep
+rnnoise
 rsync
 rtkit
 ruby
