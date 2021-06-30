@@ -653,6 +653,7 @@ prison
 procps-ng
 psmisc
 pulseaudio
+pulseaudio-bluetooth
 purpose
 pycharm-professional
 python
