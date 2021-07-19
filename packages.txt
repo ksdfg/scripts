@@ -185,6 +185,7 @@ guile
 gzip
 harfbuzz
 harfbuzz-icu
+helm
 hicolor-icon-theme
 hidapi
 htop
@@ -707,6 +708,7 @@ python-setuptools
 python-six
 python-texttable
 python-toml
+python-tomli
 python-urllib3
 python-webencodings
 python-websocket-client
