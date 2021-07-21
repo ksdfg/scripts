@@ -81,7 +81,6 @@ device-mapper
 dhcpcd
 diffutils
 direnv
-discord
 discount
 discover
 djvulibre
@@ -213,7 +212,6 @@ js78
 json-c
 json-glib
 jxrlib
-k9s
 kaccounts-integration
 kactivities
 kactivities-stats
@@ -548,7 +546,6 @@ mpfr
 mtdev
 mtpfs
 nano
-ncdu
 ncurses
 ndctl
 neofetch
