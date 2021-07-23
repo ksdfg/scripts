@@ -184,6 +184,7 @@ guile
 gzip
 harfbuzz
 harfbuzz-icu
+helm
 hicolor-icon-theme
 hidapi
 htop
@@ -212,6 +213,7 @@ js78
 json-c
 json-glib
 jxrlib
+k9s
 kaccounts-integration
 kactivities
 kactivities-stats
