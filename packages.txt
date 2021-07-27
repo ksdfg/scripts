@@ -61,6 +61,7 @@ cairomm
 cantarell-fonts
 cblas
 cdparanoia
+celt
 cifs-utils
 cloudflared-bin
 containerd
@@ -203,7 +204,7 @@ iproute2
 iptables
 iputils
 iso-codes
-jack
+jack2
 jansson
 jasper
 jbig2dec
@@ -213,7 +214,6 @@ js78
 json-c
 json-glib
 jxrlib
-k9s
 kaccounts-integration
 kactivities
 kactivities-stats
