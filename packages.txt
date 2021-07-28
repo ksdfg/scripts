@@ -79,6 +79,7 @@ dconf
 desktop-file-utils
 desmume
 device-mapper
+devilspie
 dhcpcd
 diffutils
 direnv
@@ -468,6 +469,7 @@ libvorbis
 libvpx
 libwacom
 libwebp
+libwnck3
 libwpe
 libx11
 libxau
@@ -805,6 +807,7 @@ speexdsp
 spirv-tools
 sqlite
 srt
+startup-notification
 sudo
 svt-av1
 syndication
