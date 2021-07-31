@@ -352,6 +352,7 @@ libexif
 libfdk-aac
 libffi
 libfontenc
+libfreeaptx
 libgcrypt
 libgdata
 libgee
