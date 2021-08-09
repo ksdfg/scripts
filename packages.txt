@@ -387,6 +387,7 @@ libmad
 libmanette
 libmatroska
 libmbim
+libmd
 libmfx
 libmicrohttpd
 libmm-glib
@@ -448,6 +449,7 @@ libstemmer
 libtar
 libtasn1
 libteam
+libtg_owt
 libthai
 libtheora
 libtiff
@@ -653,6 +655,7 @@ powerdevil
 ppp
 prison
 procps-ng
+protobuf
 psmisc
 pulseaudio
 pulseaudio-bluetooth
