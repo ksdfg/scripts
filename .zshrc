@@ -83,6 +83,7 @@ plugins=(
 	archlinux
 	poetry
 	zbell
+	kubectl
 )
 
 source $ZSH/oh-my-zsh.sh
