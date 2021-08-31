@@ -625,6 +625,7 @@ phonon-qt5
 phonon-qt5-vlc
 pinentry
 pipewire
+pipewire-media-session
 pixman
 pkgconf
 plasma-browser-integration
