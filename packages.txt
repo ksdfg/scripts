@@ -836,6 +836,7 @@ tidy
 tigervnc
 tk
 tmux
+tracker3
 tslib
 ttf-arphic-uming
 ttf-hack
@@ -949,6 +950,7 @@ yarn
 yay
 zeromq
 zimg
+zip
 zita-alsa-pcmi
 zita-resampler
 zlib
