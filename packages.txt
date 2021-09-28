@@ -442,6 +442,7 @@ libsm
 libsndfile
 libsodium
 libsoup
+libsoup3
 libsoxr
 libspectre
 libssh
