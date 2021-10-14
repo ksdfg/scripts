@@ -929,6 +929,7 @@ xvidcore
 xxhash
 xz
 yarn
+yasm
 yay
 zeromq
 zimg
