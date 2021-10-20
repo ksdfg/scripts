@@ -841,8 +841,10 @@ vlc
 vmaf
 volume_key
 vulkan-icd-loader
+vulkan-tools
 wayland
 wayland-protocols
+wayland-utils
 webkit2gtk
 webrtc-audio-processing
 webstorm
