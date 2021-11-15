@@ -942,4 +942,5 @@ zita-resampler
 zlib
 zsh
 zstd
+zxing-cpp
 zziplib
