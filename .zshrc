@@ -109,7 +109,7 @@ source $ZSH/oh-my-zsh.sh
 zstyle ':completion:*' menu select
 
 # source in functions
-source $HOME/scripts/functions.sh
+source $HOME/.scripts/functions.sh
 
 # Set personal aliases, overriding those provided by oh-my-zsh libs,
 # plugins, and themes. Aliases can be placed here, though oh-my-zsh
@@ -128,21 +128,11 @@ alias autoremove="yay -Qtdq | yay -Rns -"
 # set nano as default editor
 export EDITOR=nano
 
-# startup visuals
-figlet -f slant madness sense | lolcat -as 427
-fcookie | lolcat -as 427
-echo
-
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
 [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
 
-export PATH="$HOME/.poetry/bin:/home/ksdfg/.local/lib/google-cloud-sdk/bin/docker-credential-gcloud:$PATH"
-
-# The next line updates PATH for the Google Cloud SDK.
-if [ -f '/home/ksdfg/.local/lib/google-cloud-sdk/path.zsh.inc' ]; then . '/home/ksdfg/.local/lib/google-cloud-sdk/path.zsh.inc'; fi
-
-# The next line enables shell command completion for gcloud.
-if [ -f '/home/ksdfg/.local/lib/google-cloud-sdk/completion.zsh.inc' ]; then . '/home/ksdfg/.local/lib/google-cloud-sdk/completion.zsh.inc'; fi
+# add poetry to path
+export PATH="$PATH:$HOME/.poetry/bin"
 
 # The next line hooks direnv into the shell
 eval "$(direnv hook zsh)"
@@ -152,3 +142,8 @@ source '/usr/local/lib/azure-cli/az.completion'
 
 # add golang bin to path
 export PATH=$PATH:$HOME/stuff/code/.go/bin
+
+# startup visuals
+figlet -f slant madness sense | lolcat -as 427
+fcookie | lolcat -as 427
+echo
