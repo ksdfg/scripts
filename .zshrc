@@ -6,7 +6,7 @@
 # fi
 
 # If you come from bash you might have to change your $PATH.
-# export PATH=$HOME/bin:/usr/local/bin:$PATH
+# export PATH=$HOME/.local/bin:/usr/local/bin:$PATH
 
 # Path to your oh-my-zsh installation.
 export ZSH="$HOME/.oh-my-zsh"
@@ -147,8 +147,8 @@ if [ -f '/home/ksdfg/.local/lib/google-cloud-sdk/completion.zsh.inc' ]; then . '
 # The next line hooks direnv into the shell
 eval "$(direnv hook zsh)"
 
-# add local bin to path
-export PATH=$PATH:/usr/local/bin
-
 # add az completions
 source '/usr/local/lib/azure-cli/az.completion'
+
+# add golang bin to path
+export PATH=$PATH:$HOME/stuff/code/.go/bin

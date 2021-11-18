@@ -678,6 +678,7 @@ python-distro
 python-dnspython
 python-html5lib
 python-idna
+python-importlib-metadata
 python-lxml
 python-markdown
 python-more-itertools
@@ -703,6 +704,7 @@ python-tomli
 python-urllib3
 python-webencodings
 python-xlib
+python-zipp
 python2
 python2-appdirs
 python2-ordered-set

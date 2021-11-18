@@ -11,8 +11,10 @@
 	s = status
 	p = push
 	pf = push -f
+	pt = push -f --tags
 	psu = push --set-upstream
 	pl = pull
+	plt = pull -f --tags
 	f = fetch
 	r = remote
 	rv = remote --verbose
@@ -20,6 +22,7 @@
 	rrm = remote remove
 	rsu = remote set-url
 	ra = remote add
+	rp = remote prune
 	rev = revert
 	re = reset
 	cp = cherry-pick
