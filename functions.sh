@@ -16,10 +16,6 @@ update() {
     echo "--- updating heroku cli ---"
     heroku update
 
-    # update google cloud sdk
-    echo "\n--- updating google cloud sdk ---"
-    gcloud components update
-
     # update libraries
     echo "\n----- updating libraries -----"
     if [[ $1 == "-m" ]]; then
@@ -53,7 +49,7 @@ rebye() {
 
 # connect to JBL headphones
 jbl() {
-    echo -en "\033]0;Connecting to JBL T450BT\a"
+    echo -en "\033]0;Connecting to JBL headphones\a"
     bluetoothctl power on
     if bluetoothctl connect ${JBL}; then
         bluetooth_battery ${JBL}.1
