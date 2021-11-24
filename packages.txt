@@ -461,6 +461,7 @@ libtorrent-rasterbar
 libunistring
 libunwind
 libupnp
+liburcu
 libusb
 libusbmuxd
 libutempter
