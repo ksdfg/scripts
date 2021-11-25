@@ -114,6 +114,7 @@ file
 filesystem
 findutils
 firefox
+firefox-profile-switcher-connector
 flac
 flashplugin
 flex
