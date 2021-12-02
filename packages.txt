@@ -257,7 +257,6 @@ kiconthemes
 kidletime
 kimageannotator
 kinfocenter
-kinit
 kio
 kio-extras
 kio-fuse
