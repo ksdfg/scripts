@@ -30,6 +30,7 @@ automake
 avahi
 awesome-terminal-fonts
 azcopy
+azure-cli
 baloo
 baloo-widgets
 base

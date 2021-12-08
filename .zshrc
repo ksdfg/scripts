@@ -138,7 +138,7 @@ export PATH="$PATH:$HOME/.poetry/bin"
 eval "$(direnv hook zsh)"
 
 # add az completions
-source '/usr/local/lib/azure-cli/az.completion'
+# source '/usr/local/lib/azure-cli/az.completion'
 
 # add golang bin to path
 export PATH=$PATH:$HOME/stuff/code/.go/bin
