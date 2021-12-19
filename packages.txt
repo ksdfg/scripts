@@ -1,4 +1,5 @@
 a52dec
+abseil-cpp
 accounts-qml-module
 accountsservice
 acl
@@ -202,6 +203,7 @@ ijs
 imagemagick
 imath
 imv
+iniparser
 iproute2
 iptables
 iputils
@@ -514,6 +516,7 @@ libyaml
 libyuv
 libzip
 licenses
+lilv
 linux
 linux-api-headers
 linux-firmware
@@ -528,6 +531,7 @@ lsof
 lua
 lua52
 luit
+lv2
 lvm2
 lz4
 lzo
@@ -732,6 +736,7 @@ qt5-speech
 qt5-styleplugins
 qt5-svg
 qt5-tools
+qt5-translations
 qt5-wayland
 qt5-webchannel
 qt5-webengine
@@ -775,6 +780,7 @@ sdl
 sdl2
 sed
 semver
+serd
 shaderc
 shadow
 shared-mime-info
@@ -791,6 +797,7 @@ snappy
 socat
 solid
 sonnet
+sord
 sound-theme-freedesktop
 soundtouch
 source-highlight
@@ -799,6 +806,7 @@ speex
 speexdsp
 spirv-tools
 sqlite
+sratom
 srt
 startup-notification
 sudo
