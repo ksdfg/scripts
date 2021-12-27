@@ -291,7 +291,7 @@ ktextwidgets
 kubectl
 kunitconversion
 kuserfeedback
-kvantum-qt5
+kvantum
 kwallet
 kwallet-pam
 kwalletmanager
@@ -324,6 +324,7 @@ libasyncns
 libatasmart
 libavc1394
 libavif
+libb2
 libblockdev
 libbluray
 libbsd
@@ -741,6 +742,9 @@ qt5-wayland
 qt5-webchannel
 qt5-webengine
 qt5-x11extras
+qt6-base
+qt6-svg
+qt6-translations
 raptor
 rar
 rav1e
@@ -854,6 +858,7 @@ visual-studio-code-bin
 vlc
 vmaf
 volume_key
+vulkan-headers
 vulkan-icd-loader
 vulkan-tools
 wayland
