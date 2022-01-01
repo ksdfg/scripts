@@ -744,9 +744,13 @@ qt5-wayland
 qt5-webchannel
 qt5-webengine
 qt5-x11extras
+qt6-5compat
 qt6-base
+qt6-declarative
+qt6-imageformats
 qt6-svg
 qt6-translations
+qt6-wayland
 raptor
 rar
 rav1e
