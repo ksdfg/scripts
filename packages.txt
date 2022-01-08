@@ -453,6 +453,7 @@ libspectre
 libssh
 libssh2
 libstemmer
+libsysprof-capture
 libtar
 libtasn1
 libteam
