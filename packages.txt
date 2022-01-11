@@ -195,7 +195,7 @@ hidapi
 htop
 http-parser
 hunspell
-hwids
+hwdata
 hyphen
 iana-etc
 icu
