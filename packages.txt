@@ -771,6 +771,7 @@ ruby-irb
 ruby-manpages
 ruby-optimist
 ruby-paint
+ruby-psych
 ruby-rainbow
 ruby-rdoc
 ruby-reline
@@ -779,6 +780,7 @@ ruby-rspec-core
 ruby-rspec-expectations
 ruby-rspec-mocks
 ruby-rspec-support
+ruby-stringio
 ruby-term-ansicolor
 ruby-tins
 rubygems
