@@ -524,6 +524,7 @@ lilv
 linux
 linux-api-headers
 linux-firmware
+linux-firmware-whence
 linux-headers
 llvm-libs
 lm_sensors
@@ -552,7 +553,6 @@ md4c
 mdadm
 media-player-info
 mesa
-microsoft-edge-dev-bin
 milou
 minikube
 minizip
