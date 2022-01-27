@@ -64,9 +64,9 @@ cairomm
 cantarell-fonts
 cblas
 cdparanoia
-celt
 cifs-utils
-cmake
+colord
+colord-kde
 containerd
 convertlit
 coreutils
@@ -219,7 +219,6 @@ jmtpfs
 js78
 json-c
 json-glib
-jsoncpp
 jxrlib
 k9s
 kaccounts-integration
@@ -369,6 +368,7 @@ libglvnd
 libgpg-error
 libgphoto2
 libgudev
+libgusb
 libheif
 libibus
 libical
@@ -458,7 +458,6 @@ libsysprof-capture
 libtar
 libtasn1
 libteam
-libtg_owt
 libthai
 libtheora
 libtiff
@@ -586,6 +585,7 @@ nspr
 nss
 ntfs-3g
 okular
+oniguruma
 ookla-speedtest-bin
 openal
 opencore-amr
@@ -761,7 +761,6 @@ readline
 recode
 reflector
 rest
-rhash
 ripgrep
 rnnoise
 rsync
@@ -961,13 +960,10 @@ xvidcore
 xxhash
 xz
 yarn
-yasm
 yay
 zeromq
 zimg
 zip
-zita-alsa-pcmi
-zita-resampler
 zlib
 zsh
 zstd
