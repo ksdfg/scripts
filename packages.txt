@@ -345,6 +345,7 @@ libdbusmenu-gtk3
 libdbusmenu-qt5
 libdca
 libde265
+libdispatch
 libdmtx
 libdrm
 libdvbpsi
