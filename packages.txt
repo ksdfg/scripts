@@ -65,6 +65,7 @@ cantarell-fonts
 cblas
 cdparanoia
 cifs-utils
+cloudflared-bin
 colord
 colord-kde
 containerd
