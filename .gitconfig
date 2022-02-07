@@ -40,3 +40,5 @@
 	c = commit --signoff --gpg-sign
 	ca = commit --amend --signoff --gpg-sign
 	can = commit --amend --no-edit --signoff --gpg-sign
+[pull]
+	rebase = true
