@@ -473,6 +473,7 @@ libunwind
 libupnp
 liburcu
 libusb
+libusb-compat
 libusbmuxd
 libutempter
 libuv
