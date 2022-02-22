@@ -106,7 +106,6 @@ ebook-tools
 editorconfig-core-c
 efibootmgr
 efivar
-elfutils
 enchant
 exiv2
 expat
