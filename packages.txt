@@ -107,6 +107,7 @@ editorconfig-core-c
 efibootmgr
 efivar
 enchant
+erlang-nox
 exiv2
 expat
 faad2
@@ -206,6 +207,7 @@ ijs
 imagemagick
 imath
 imv
+inetutils
 iniparser
 iproute2
 iptables
@@ -758,6 +760,7 @@ qt6-imageformats
 qt6-svg
 qt6-translations
 qt6-wayland
+rabbitmq
 raptor
 rar
 rav1e
@@ -852,6 +855,7 @@ tidy
 tigervnc
 tk
 tmux
+tpm2-tss
 tracker3
 tslib
 ttf-arphic-uming
