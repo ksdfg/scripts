@@ -386,6 +386,7 @@ libimobiledevice
 libindicator-gtk3
 libinih
 libinput
+libisl
 libjpeg-turbo
 libkexiv2
 libkipi
