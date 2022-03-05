@@ -339,7 +339,6 @@ libcap
 libcap-ng
 libcloudproviders
 libcolord
-libcroco
 libcups
 libcurl-gnutls
 libdaemon
