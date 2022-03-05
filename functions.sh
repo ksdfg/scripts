@@ -57,8 +57,11 @@ jbl() {
 }
 
 # create a git repo and set navana user configs
-git-navana() {
+clone-navana-repo() {
+	git clone git@github-navana:navana-tech/$1
+	cd $1
     git config user.email "kshitish@navanatech.in"
     git config user.name "Kshitish Deshpande"
     git config user.signingkey 38AA49997E22451B5536A8F8543211343CAA6F66
+	cd -
 }
