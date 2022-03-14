@@ -123,7 +123,6 @@ firefox-profile-switcher-connector
 flac
 flashplugin
 flex
-fltk
 fontconfig
 fortune-mod
 frameworkintegration
@@ -852,7 +851,6 @@ texinfo
 thin-provisioning-tools
 threadweaver
 tidy
-tigervnc
 tk
 tmux
 tpm2-tss
@@ -944,7 +942,6 @@ xorg-xdriinfo
 xorg-xev
 xorg-xgamma
 xorg-xhost
-xorg-xinit
 xorg-xinput
 xorg-xkbcomp
 xorg-xkbevd

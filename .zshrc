@@ -143,7 +143,10 @@ eval "$(direnv hook zsh)"
 # add golang bin to path
 export PATH=$PATH:$HOME/stuff/code/.go/bin
 
+# add catsay to path
+export PATH="$PATH:$HOME/stuff/code/catsay"
+
 # startup visuals
 figlet -f slant madness sense | lolcat -as 427
-fcookie | lolcat -as 427
+fcookie | catsay | lolcat -as 427
 echo
