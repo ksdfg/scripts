@@ -32,6 +32,7 @@ avahi
 awesome-terminal-fonts
 azcopy
 azure-cli
+azure-functions-core-tools-bin
 baloo
 baloo-widgets
 base
