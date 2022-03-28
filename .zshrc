@@ -143,8 +143,8 @@ eval "$(direnv hook zsh)"
 # add golang bin to path
 export PATH=$PATH:$HOME/stuff/code/.go/bin
 
-# add catsay to path
-export PATH="$PATH:$HOME/stuff/code/catsay"
+# add gem executables to path
+export PATH="$PATH:$HOME/.local/share/gem/ruby/3.0.0/bin"
 
 # startup visuals
 figlet -f slant madness sense | lolcat -as 427
