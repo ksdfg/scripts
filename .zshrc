@@ -148,5 +148,4 @@ export PATH="$PATH:$HOME/.local/share/gem/ruby/3.0.0/bin"
 
 # startup visuals
 figlet -f slant madness sense | lolcat -as 427
-fcookie | catsay | lolcat -as 427
-echo
+fcookie | catsay -c leroy | lolcat -as 427
