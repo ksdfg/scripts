@@ -332,6 +332,7 @@ libavif
 libb2
 libblockdev
 libbluray
+libbpf
 libbsd
 libbytesize
 libcanberra
