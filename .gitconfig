@@ -43,4 +43,4 @@
 [pull]
 	rebase = true
 [safe]
-	directory = /home/ksdfg/stuff
+	directory = /home/ksdfg/stuff/*
