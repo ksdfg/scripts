@@ -42,3 +42,5 @@
 	can = commit --amend --no-edit --signoff --gpg-sign
 [pull]
 	rebase = true
+[safe]
+	directory = /home/ksdfg/stuff
