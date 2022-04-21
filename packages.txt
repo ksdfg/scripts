@@ -601,7 +601,6 @@ openexr
 openjpeg2
 openssh
 openssl
-openssl-1.0
 opus
 orc
 os-prober
@@ -894,7 +893,6 @@ which
 woff2
 wpa_supplicant
 wpebackend-fdo
-wps-office
 x264
 x265
 xcb-proto
