@@ -390,6 +390,7 @@ libisl
 libjpeg-turbo
 libkexiv2
 libkipi
+libkipi-debug
 libksba
 libkscreen
 libksysguard
