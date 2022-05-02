@@ -389,8 +389,6 @@ libinput
 libisl
 libjpeg-turbo
 libkexiv2
-libkipi
-libkipi-debug
 libksba
 libkscreen
 libksysguard
@@ -799,7 +797,7 @@ rust
 sbc
 sddm
 sddm-kcm
-sdl
+sdl12-compat
 sdl2
 sed
 semver
