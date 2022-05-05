@@ -216,9 +216,12 @@ iso-codes
 jack2
 jansson
 jasper
+java-runtime-common
 jbig2dec
 jemalloc
 jmtpfs
+jre-openjdk
+jre-openjdk-headless
 js78
 json-c
 json-glib
@@ -412,6 +415,7 @@ libmpeg2
 libmtp
 libnautilus-extension
 libndp
+libnet
 libnetfilter_conntrack
 libnewt
 libnfnetlink
@@ -852,6 +856,7 @@ thin-provisioning-tools
 threadweaver
 tidy
 tk
+tlauncher
 tmux
 tpm2-tss
 tracker3
