@@ -35,6 +35,9 @@ update() {
     git c -am "automated update"
     git p
     cd - >/dev/null || exit
+
+	# prune docker resources eating up space for no reason
+	docker system prune --volumes --force
 }
 
 # update stuff and get lost
