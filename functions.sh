@@ -35,19 +35,22 @@ update() {
     git c -am "automated update"
     git p
     cd - >/dev/null || exit
+}
 
+docker-prune() {
 	# prune docker resources eating up space for no reason
+    echo "\n----- pruning docker resources -----"
 	docker system prune --volumes --force
 }
 
 # update stuff and get lost
 bbye() {
-    update "$*" && poweroff
+    update "$*" && docker-prune && poweroff
 }
 
 # update stuff and reboot
 rebye() {
-    update "$*" && reboot
+    update "$*" && docker-prune && reboot
 }
 
 # connect to JBL headphones
