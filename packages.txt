@@ -342,7 +342,6 @@ libcap-ng
 libcloudproviders
 libcolord
 libcups
-libcurl-gnutls
 libdaemon
 libdatrie
 libdbusmenu-glib
@@ -827,7 +826,6 @@ spectacle
 speex
 speexdsp
 spirv-tools
-spotify
 sqlite
 sratom
 srt
