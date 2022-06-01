@@ -115,6 +115,7 @@ faad2
 fakeroot
 ffmpeg
 ffmpeg4.4
+fftw
 figlet
 file
 filesystem
@@ -200,6 +201,7 @@ htop
 http-parser
 hunspell
 hwdata
+hwloc
 hyphen
 iana-etc
 icu
@@ -598,6 +600,7 @@ openal
 opencore-amr
 openexr
 openjpeg2
+openmpi
 openssh
 openssl
 opus
