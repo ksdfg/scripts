@@ -25,11 +25,11 @@
 	rp = remote prune
 	rev = revert
 	re = reset
+	rh = reset --hard
+	rs = reset --soft
 	cp = cherry-pick
 	cpc = cherry-pick --continue
 	cpa = cherry-pick --abort
-	rh = reset --hard
-	rs = reset --soft
 	rb = rebase
 	rbi = rebase --interactive
 	rbc = rebase --continue
