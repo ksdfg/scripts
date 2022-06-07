@@ -602,6 +602,7 @@ opencore-amr
 openexr
 openjpeg2
 openmpi
+openpmix
 openssh
 openssl
 opus
