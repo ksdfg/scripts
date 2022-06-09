@@ -484,6 +484,7 @@ libutempter
 libuv
 libva
 libvdpau
+libverto
 libvisual
 libvorbis
 libvpx
