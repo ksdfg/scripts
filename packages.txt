@@ -703,10 +703,14 @@ python-dnspython
 python-html5lib
 python-idna
 python-importlib-metadata
+python-jaraco.context
+python-jaraco.functools
+python-jaraco.text
 python-lxml
 python-markdown
 python-more-itertools
 python-msgpack
+python-nspektr
 python-numpy
 python-ordered-set
 python-packaging
