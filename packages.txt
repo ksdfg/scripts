@@ -5,6 +5,7 @@ accountsservice
 acl
 adobe-source-code-pro-fonts
 adwaita-icon-theme
+aha
 alsa-card-profiles
 alsa-lib
 alsa-topology-conf
@@ -69,6 +70,7 @@ cifs-utils
 cloudflared-bin
 colord
 colord-kde
+confuse
 containerd
 convertlit
 coreutils
@@ -82,7 +84,6 @@ dbus
 dbus-glib
 dconf
 desktop-file-utils
-desmume
 device-mapper
 devilspie
 dhcpcd
@@ -91,6 +92,7 @@ direnv
 discount
 discover
 djvulibre
+dmidecode
 dmraid
 dnsmasq
 dnssec-anchors
@@ -124,6 +126,7 @@ firefox
 firefox-profile-switcher-connector
 flac
 flashplugin
+flashrom
 flex
 fontconfig
 fortune-mod
@@ -135,6 +138,8 @@ fribidi
 fuse-common
 fuse2
 fuse3
+fwupd
+fwupd-efi
 fzf
 gawk
 gc
@@ -167,6 +172,7 @@ gnu-free-fonts
 gnupg
 gnutls
 go
+gobject-introspection-runtime
 goland
 goland-jre
 gpgme
@@ -305,7 +311,6 @@ kwallet-pam
 kwalletmanager
 kwayland
 kwayland-integration
-kwayland-server
 kwidgetsaddons
 kwin
 kwindowsystem
@@ -341,6 +346,7 @@ libbytesize
 libcanberra
 libcap
 libcap-ng
+libcbor
 libcloudproviders
 libcolord
 libcups
@@ -367,6 +373,7 @@ libfdk-aac
 libffi
 libfontenc
 libfreeaptx
+libftdi
 libgcrypt
 libgdata
 libgee
@@ -390,6 +397,7 @@ libindicator-gtk3
 libinih
 libinput
 libisl
+libjcat
 libjpeg-turbo
 libkexiv2
 libksba
@@ -453,6 +461,7 @@ libseccomp
 libsecret
 libsigc++
 libsm
+libsmbios
 libsndfile
 libsodium
 libsoup
@@ -539,7 +548,6 @@ linux-headers
 llvm-libs
 lm_sensors
 lmdb
-loginized
 lolcat
 lsd
 lsof
@@ -610,6 +618,7 @@ opus
 orc
 os-prober
 oxygen
+oxygen-sounds
 p11-kit
 pacman
 pacman-contrib
@@ -683,6 +692,7 @@ ppp
 prison
 procps-ng
 protobuf
+protobuf-c
 psmisc
 pulseaudio
 pulseaudio-bluetooth
@@ -809,7 +819,6 @@ rust
 sbc
 sddm
 sddm-kcm
-sdl12-compat
 sdl2
 sed
 semver
@@ -832,7 +841,6 @@ solid
 sonnet
 sord
 sound-theme-freedesktop
-soundtouch
 source-highlight
 spectacle
 speex
@@ -987,4 +995,3 @@ zlib
 zsh
 zstd
 zxing-cpp
-zziplib
