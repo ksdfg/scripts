@@ -147,7 +147,7 @@ export PATH=$PATH:$HOME/stuff/code/.go/bin
 export PATH="$PATH:$HOME/.local/share/gem/ruby/3.0.0/bin"
 
 # add heroku autocomplete
-eval "$(heroku autocomplete:script zsh)"
+# eval "$(heroku autocomplete:script zsh)"
 
 # startup visuals
 figlet -f slant madness sense | lolcat -as 427
