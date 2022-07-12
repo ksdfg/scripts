@@ -912,8 +912,6 @@ wayland-protocols
 wayland-utils
 webkit2gtk
 webrtc-audio-processing
-webstorm
-webstorm-jre
 wget
 which
 woff2
