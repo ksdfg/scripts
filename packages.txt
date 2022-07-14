@@ -567,6 +567,7 @@ man-pages
 mariadb
 mariadb-clients
 mariadb-libs
+mbedtls
 md4c
 mdadm
 media-player-info
