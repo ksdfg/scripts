@@ -53,6 +53,24 @@ rebye() {
     update "$*" && docker-prune && reboot
 }
 
+# clean cache
+clear-cache() {
+    echo "space before cleanup"
+    echo "--------------------"
+    df / -h
+
+    echo
+    echo "cleaning cache"
+    echo "--------------"
+    yay -Scc
+    rm -rf ~/.cache/*
+
+    echo
+    echo "space after cleanup"
+    echo "--------------------"
+    df / -h
+}
+
 # connect to JBL headphones
 jbl() {
     echo -en "\033]0;Connecting to JBL headphones\a"

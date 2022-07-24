@@ -228,7 +228,6 @@ jasper
 jbig2dec
 jemalloc
 jmtpfs
-js78
 json-c
 json-glib
 jxrlib
@@ -324,8 +323,6 @@ lcms2
 ldb
 ldns
 less
-lib32-attr
-lib32-glibc
 libaccounts-glib
 libaccounts-qt
 libaio
@@ -567,7 +564,6 @@ man-pages
 mariadb
 mariadb-clients
 mariadb-libs
-mbedtls
 md4c
 mdadm
 media-player-info
@@ -637,7 +633,6 @@ pciutils
 pcre
 pcre2
 perl
-perl-clone
 perl-encode-locale
 perl-error
 perl-file-listing
@@ -708,7 +703,6 @@ python-cffi
 python-chardet
 python-colorama
 python-commonmark
-python-contextlib2
 python-cryptography
 python-distlib
 python-distro
@@ -733,19 +727,16 @@ python-pep517
 python-pip
 python-platformdirs
 python-ply
-python-progress
 python-pycparser
 python-pygments
 python-pyopenssl
 python-pyparsing
 python-requests
 python-resolvelib
-python-retrying
 python-rich
 python-setuptools
 python-six
 python-tenacity
-python-toml
 python-tomli
 python-trove-classifiers
 python-typing_extensions
