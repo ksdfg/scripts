@@ -787,6 +787,7 @@ rav1e
 re2
 readline
 recode
+redis
 reflector
 rest
 ripgrep
