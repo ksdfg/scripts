@@ -89,6 +89,7 @@ devilspie
 dhcpcd
 diffutils
 direnv
+discord
 discount
 discover
 djvulibre
