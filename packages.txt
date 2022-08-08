@@ -798,11 +798,14 @@ rtkit
 ruby
 ruby-bundledgems
 ruby-bundler
+ruby-date
 ruby-diff-lcs
 ruby-irb
 ruby-json
 ruby-manpages
 ruby-minitest
+ruby-net-http
+ruby-open-uri
 ruby-optimist
 ruby-paint
 ruby-power_assert
@@ -821,7 +824,9 @@ ruby-stdlib
 ruby-stringio
 ruby-term-ansicolor
 ruby-test-unit
+ruby-time
 ruby-tins
+ruby-uri
 rubygems
 run-parts
 runc
