@@ -84,12 +84,12 @@ dbus
 dbus-glib
 dconf
 desktop-file-utils
+desmume
 device-mapper
 devilspie
 dhcpcd
 diffutils
 direnv
-discord
 discount
 discover
 djvulibre
@@ -856,6 +856,7 @@ solid
 sonnet
 sord
 sound-theme-freedesktop
+soundtouch
 source-highlight
 spectacle
 speex
@@ -1008,3 +1009,4 @@ zlib
 zsh
 zstd
 zxing-cpp
+zziplib
