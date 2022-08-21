@@ -17,7 +17,7 @@ update() {
     #heroku update
 
     # update libraries
-    echo "\n----- updating libraries -----"
+    echo "----- updating libraries -----"
     if [[ $1 == "-m" ]]; then
         sudo echo "Updating mirror list may take a while ..." # sudo here just so that it asks for pwd before showing this string
         sudo reflector --latest 200 --protocol http --protocol https --sort rate --save /etc/pacman.d/mirrorlist
