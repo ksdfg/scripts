@@ -63,33 +63,10 @@ clear-cache() {
     echo "--------------"
     yay -Scc
     rm -rf ~/.cache/*
+    go clean -testcache -modcache
 
     echo
     echo "space after cleanup"
     echo "--------------------"
     df / -h
-}
-
-# connect to JBL headphones
-jbl() {
-    echo -en "\033]0;Connecting to JBL headphones\a"
-    bluetoothctl power on
-    if bluetoothctl connect ${JBL}; then
-        bluetooth_battery ${JBL}.1
-    fi
-}
-
-# create a git repo and set navana user configs
-clone-navana-repo() {
-    if [ -z "$2" ]; then
-        folder="$1"
-    else
-        folder="$2"
-    fi
-    git clone git@github-navana:navana-tech/$1 "$folder"
-    pushd "$folder"
-    git config user.email "kshitish@navanatech.in"
-    git config user.name "Kshitish Deshpande"
-    git config user.signingkey 38AA49997E22451B5536A8F8543211343CAA6F66
-    popd
 }
