@@ -7,13 +7,13 @@ echo "Changing shell to zsh"
 chsh -s /usr/bin/zsh
 
 echo "Copying oh my zsh files"
-cp -rv .oh-my-zsh $(HOME)/.oh-my-zsh
+cp -rv .oh-my-zsh $HOME/.oh-my-zsh
 
 echo "Replacing .p10k.zsh"
-cp -v .p10k.zsh $(HOME)/.p10k.zsh
+cp -v .p10k.zsh $HOME/.p10k.zsh
 
 echo "Replacing .zshrc"
-cp -v .zshrc $(HOME)/.zshrc
+cp -v .zshrc $HOME/.zshrc
 
 echo "Replacing .gitconfig"
-cp -v .gitconfig $(HOME)/.gitconfig
+cp -v .gitconfig $HOME/.gitconfig

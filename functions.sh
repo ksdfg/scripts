@@ -13,8 +13,8 @@ update() {
     # echo
 
     # update heroku cli
-    echo "--- updating heroku cli ---"
-    heroku update
+    #echo "--- updating heroku cli ---"
+    #heroku update
 
     # update libraries
     echo "\n----- updating libraries -----"
