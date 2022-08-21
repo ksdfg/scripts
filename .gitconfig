@@ -2,11 +2,14 @@
 	name = ksdfg
 	email = ksdfg123@gmail.com
 	signingkey = 34A2765B29E156704720E46350D061227F1119C2
+
 [commit]
 	gpgsign = true
+
 [core]
 	editor = nano
 	autocrlf = input
+
 [alias]
 	s = status
 	p = push
@@ -40,7 +43,12 @@
 	c = commit --signoff --gpg-sign
 	ca = commit --amend --signoff --gpg-sign
 	can = commit --amend --no-edit --signoff --gpg-sign
+
 [pull]
 	rebase = true
+
 [safe]
 	directory = *
+
+[includeIf "gitdir:~/stuff/navana/"]
+	path = ~/stuff/navana/.gitconfig
