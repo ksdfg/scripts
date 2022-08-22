@@ -84,6 +84,7 @@ plugins=(
 	poetry
 	zbell
 	kubectl
+	poetry
 )
 
 source $ZSH/oh-my-zsh.sh
@@ -131,7 +132,7 @@ export EDITOR=nano
 [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
 
 # add poetry to path
-export PATH="$PATH:$HOME/.poetry/bin"
+export PATH="$PATH:$HOME/.local/bin"
 
 # The next line hooks direnv into the shell
 eval "$(direnv hook zsh)"

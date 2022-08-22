@@ -59,11 +59,27 @@ clear-cache() {
     df / -h
 
     echo
-    echo "cleaning cache"
+    echo "cleaning yay cache"
     echo "--------------"
     yay -Scc
+    
+    echo
+    echo "cleaning local cache folder"
+    echo "--------------"
     rm -rf ~/.cache/*
+    
+    echo
+    echo "cleaning golang cache"
+    echo "--------------"
     go clean -testcache -modcache
+    
+    echo
+    echo "cleaning poetry cache"
+    echo "--------------"
+    for cache in $(poetry cache list)                                                                                                                        ─╯
+    do
+        poetry cache clear $cache --all
+    done
 
     echo
     echo "space after cleanup"
