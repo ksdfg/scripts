@@ -181,7 +181,6 @@ imagemagick
 imath
 imv
 iniparser
-iriunwebcam-bin
 iso-codes
 jack2
 jasper
