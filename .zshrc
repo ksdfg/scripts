@@ -146,6 +146,9 @@ export PATH="$PATH:$HOME/.local/share/gem/ruby/3.0.0/bin"
 # add heroku autocomplete
 # eval "$(heroku autocomplete:script zsh)"
 
+# Update LS_COLORS
+source ~/.dircolors
+
 # startup visuals
 figlet -f slant madness sense | lolcat -as 427
 fcookie | catsay -c leroy | lolcat -as 427
