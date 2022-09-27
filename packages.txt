@@ -18,9 +18,7 @@ archlinux-keyring
 aribb24
 ark
 asar
-at-spi2-atk
 at-spi2-core
-atk
 atkmm
 attica
 autoconf
