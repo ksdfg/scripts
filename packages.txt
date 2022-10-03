@@ -629,12 +629,6 @@ python-validate-pyproject
 python-webencodings
 python-xlib
 python-zipp
-python2
-python2-appdirs
-python2-ordered-set
-python2-packaging
-python2-pyparsing
-python2-setuptools
 python2-six
 qbittorrent
 qca-qt5
