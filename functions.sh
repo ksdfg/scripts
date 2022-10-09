@@ -37,9 +37,9 @@ update() {
 }
 
 docker-prune() {
-	# prune docker resources eating up space for no reason
+    # prune docker resources eating up space for no reason
     echo "\n----- pruning docker resources -----"
-	docker system prune --volumes --force
+    docker system prune --volumes --force
 }
 
 # update stuff and get lost
@@ -60,22 +60,27 @@ clear-cache() {
 
     echo
     echo "cleaning yay cache"
-    echo "--------------"
+    echo "------------------"
     yay -Scc
     
     echo
     echo "cleaning local cache folder"
-    echo "--------------"
+    echo "---------------------------"
     rm -rf ~/.cache/*
     
     echo
     echo "cleaning golang cache"
-    echo "--------------"
+    echo "---------------------"
     go clean -testcache -modcache
     
     echo
+    echo "cleaning docker cache"
+    echo "---------------------"
+    docker system prune --all --volumes --force
+    
+    echo
     echo "cleaning poetry cache"
-    echo "--------------"
+    echo "---------------------"
     for cache in $(poetry cache list)                                                                                                                        ─╯
     do
         poetry cache clear $cache --all
@@ -83,6 +88,6 @@ clear-cache() {
 
     echo
     echo "space after cleanup"
-    echo "--------------------"
+    echo "-------------------"
     df / -h
 }
