@@ -139,6 +139,7 @@ glu
 gnome-keyring
 gnome-online-accounts
 gnu-free-fonts
+go
 gobject-introspection-runtime
 goland
 goland-jre
