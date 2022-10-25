@@ -32,6 +32,7 @@ baloo
 baloo-widgets
 base
 bat
+bind
 binutils
 bison
 blas
