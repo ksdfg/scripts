@@ -187,6 +187,7 @@ jasper
 jbig2dec
 jemalloc
 jmtpfs
+jq
 json-glib
 jxrlib
 k9s
