@@ -754,6 +754,7 @@ spotify
 sratom
 srt
 startup-notification
+step-cli
 sudo
 svt-av1
 syndication
