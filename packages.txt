@@ -63,6 +63,8 @@ containerd
 convertlit
 ctemplate
 cython
+datagrip
+datagrip-jre
 dav1d
 dbus-glib
 dconf
