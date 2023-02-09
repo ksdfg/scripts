@@ -24,12 +24,28 @@ update() {
     fi
     yay
 
-    # update scripts upstream
     echo "\n----- updating scripts upstream -----"
+
+    # update zsh config
     sudo cp "$HOME"/.zshrc "$HOME"/.scripts/.zshrc
+
+    # update gitconfig
     sudo cp "$HOME"/.gitconfig "$HOME"/.scripts/.gitconfig
+
+    # update p10k config
     sudo cp "$HOME"/.p10k.zsh "$HOME"/.scripts/.p10k.zsh
+
+    # update ssh config
+    sudo cp "$HOME"/.ssh/id_rsa "$HOME"/.scripts/.ssh/id_rsa
+    sudo cp "$HOME"/.ssh/id_rsa.pub "$HOME"/.scripts/.ssh/id_rsa.pub
+    sudo cp "$HOME"/.ssh/id_navana "$HOME"/.scripts/.ssh/id_navana
+    sudo cp "$HOME"/.ssh/id_navana.pub "$HOME"/.scripts/.ssh/id_navana.pub
+    sudo cp "$HOME"/.ssh/config "$HOME"/.scripts/.ssh/config
+
+    # update installed packages
     yay -Qeq >"$HOME"/.scripts/packages.txt
+
+    # update scripts upstream
     cd "$HOME"/.scripts || exit
     git c -am "automated update"
     git p
@@ -81,7 +97,7 @@ clear-cache() {
     echo
     echo "cleaning poetry cache"
     echo "---------------------"
-    for cache in $(poetry cache list)                                                                                                                        ─╯
+    for cache in $(poetry cache list)                                                                                                                       
     do
         poetry cache clear $cache --all
     done
