@@ -568,7 +568,6 @@ polkit-kde-agent
 polkit-qt5
 poppler
 poppler-qt5
-postgresql
 postgresql-libs
 postman-bin
 powerdevil
