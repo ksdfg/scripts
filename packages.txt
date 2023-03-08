@@ -479,7 +479,6 @@ mdadm
 media-player-info
 mesa
 mesa-utils
-microsoft-edge-stable-bin
 milou
 minikube
 minizip
