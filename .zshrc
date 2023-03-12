@@ -5,6 +5,9 @@
 #   source "${XDG_CACHE_HOME:-$HOME/.cache}/p10k-instant-prompt-${(%):-%n}.zsh"
 # fi
 
+# Update LS_COLORS
+source ~/.dircolors
+
 # If you come from bash you might have to change your $PATH.
 export PATH=$HOME/.local/bin:/usr/local/bin:$PATH
 
@@ -145,9 +148,6 @@ export PATH="$PATH:$HOME/.local/share/gem/ruby/3.0.0/bin"
 
 # add heroku autocomplete
 # eval "$(heroku autocomplete:script zsh)"
-
-# Update LS_COLORS
-source ~/.dircolors
 
 # startup visuals
 figlet -f slant madness sense | lolcat -as 427
