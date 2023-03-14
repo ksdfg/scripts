@@ -90,6 +90,8 @@ plugins=(
 	poetry
 )
 
+ZSH_AUTOSUGGEST_HIGHLIGHT_STYLE='fg=244'
+
 source $ZSH/oh-my-zsh.sh
 
 # User configuration
