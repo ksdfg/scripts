@@ -44,6 +44,7 @@ update() {
 
     # update installed packages
     yay -Qeq >"$HOME"/.scripts/packages.txt
+    yay -Qe >"$HOME"/.scripts/packages-versioned.txt
 
     # update scripts upstream
     cd "$HOME"/.scripts || exit
