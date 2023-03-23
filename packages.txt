@@ -31,6 +31,7 @@ azure-functions-core-tools-bin
 baloo
 baloo-widgets
 base
+base-devel
 bat
 bind
 binutils
@@ -104,6 +105,8 @@ fftw
 figlet
 file
 findutils
+firefox
+firefox-profile-switcher-connector
 flac
 flashplugin
 flashrom
@@ -502,6 +505,7 @@ noto-fonts-cjk
 noto-fonts-emoji-blob
 npm
 ntfs-3g
+nvidia-beta
 okular
 oniguruma
 ookla-speedtest-bin
