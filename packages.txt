@@ -505,7 +505,7 @@ noto-fonts-cjk
 noto-fonts-emoji-blob
 npm
 ntfs-3g
-nvidia-beta
+nvidia
 okular
 oniguruma
 ookla-speedtest-bin
