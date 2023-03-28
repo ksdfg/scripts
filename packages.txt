@@ -105,8 +105,6 @@ fftw
 figlet
 file
 findutils
-firefox
-firefox-profile-switcher-connector
 flac
 flashplugin
 flashrom
