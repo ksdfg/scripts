@@ -50,5 +50,5 @@
 [safe]
 	directory = *
 
-[includeIf "gitdir:~/stuff/navana/"]
-	path = ~/stuff/navana/.gitconfig
+[includeIf "gitdir:~/navana/"]
+	path = ~/navana/.gitconfig
