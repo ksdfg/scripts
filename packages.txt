@@ -15,6 +15,7 @@ appstream-glib
 appstream-qt
 archlinux-appstream-data
 archlinux-keyring
+aria2
 aribb24
 ark
 asar
