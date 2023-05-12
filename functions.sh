@@ -36,11 +36,11 @@ update() {
     sudo cp "$HOME"/.p10k.zsh "$HOME"/.scripts/.p10k.zsh
 
     # update ssh config
-    sudo cp "$HOME"/.ssh/id_rsa "$HOME"/.scripts/.ssh/id_rsa
-    sudo cp "$HOME"/.ssh/id_rsa.pub "$HOME"/.scripts/.ssh/id_rsa.pub
-    sudo cp "$HOME"/.ssh/id_navana "$HOME"/.scripts/.ssh/id_navana
-    sudo cp "$HOME"/.ssh/id_navana.pub "$HOME"/.scripts/.ssh/id_navana.pub
-    sudo cp "$HOME"/.ssh/config "$HOME"/.scripts/.ssh/config
+    # sudo cp "$HOME"/.ssh/id_rsa "$HOME"/.scripts/.ssh/id_rsa
+    # sudo cp "$HOME"/.ssh/id_rsa.pub "$HOME"/.scripts/.ssh/id_rsa.pub
+    # sudo cp "$HOME"/.ssh/id_navana "$HOME"/.scripts/.ssh/id_navana
+    # sudo cp "$HOME"/.ssh/id_navana.pub "$HOME"/.scripts/.ssh/id_navana.pub
+    # sudo cp "$HOME"/.ssh/config "$HOME"/.scripts/.ssh/config
 
     # update installed packages
     yay -Qeq >"$HOME"/.scripts/packages.txt
