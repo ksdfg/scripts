@@ -472,9 +472,9 @@ mailspring 1.10.8-1
 make 4.4.1-2
 man-db 2.11.2-1
 man-pages 6.04-1
-mariadb 10.11.2-2
-mariadb-clients 10.11.2-2
-mariadb-libs 10.11.2-2
+mariadb 10.11.3-1
+mariadb-clients 10.11.3-1
+mariadb-libs 10.11.3-1
 md4c 0.4.8-1
 mdadm 4.2-2
 media-player-info 24-2
@@ -525,7 +525,7 @@ pacman-contrib 1.9.0-1
 pahole 1:1.25-4
 pango 1:1.50.14-1
 pangomm 2.46.3-1
-parallel 20230322-1
+parallel 20230422-1
 parted 3.6-1
 patch 2.7.6-9
 pavucontrol 1:5.0+r61+gee77d86-2
@@ -616,7 +616,7 @@ python-ordered-set 4.1.0-4
 python-packaging 23.0-3
 python-pep517 0.13.0-1
 python-pip 23.1.2-1
-python-platformdirs 3.5.0-2
+python-platformdirs 3.5.1-1
 python-ply 3.11-12
 python-pycparser 2.21-5
 python-pydantic 1.10.7-4
@@ -686,7 +686,7 @@ ruby-base64 0.1.1-4
 ruby-benchmark 0.2.0-4
 ruby-bigdecimal 3.1.2-4
 ruby-bundledgems 3.0.5-1
-ruby-bundler 2.4.1-1
+ruby-bundler 2.4.12-1
 ruby-cgi 0.3.6-1
 ruby-csv 3.2.5-4
 ruby-date 3.2.2-4
@@ -779,7 +779,7 @@ threadweaver 5.105.0-1
 tidy 5.8.0-2
 tk 8.6.13-1
 tmux 3.3_a-3
-tracker3 3.5.1-1
+tracker3 3.5.2-1
 tslib 1.22-1
 ttf-arphic-uming 0.2.20080216.2-2
 ttf-hack 3.003-3
