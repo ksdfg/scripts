@@ -486,6 +486,7 @@ minikube
 minizip
 modemmanager
 modemmanager-qt
+mongodb-compass
 mtdev
 mtools
 mtpfs
