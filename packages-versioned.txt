@@ -64,7 +64,7 @@ confuse 3.3-3
 containerd 1.7.1-1
 convertlit 1.8-11
 ctemplate 2.4-2
-cython 0.29.34-3
+cython 0.29.35-1
 datagrip 2023.1.2-1
 datagrip-jre 2023.1.2-1
 dav1d 1.2.0-1
@@ -114,7 +114,7 @@ fontconfig 2:2.14.2-1
 fortune-mod 3.18.0-1
 frameworkintegration 5.106.0-1
 freeglut 3.4.0-1
-freeimage 3.18.0-18
+freeimage 3.18.0-19
 freetype2 2.13.0-1
 fribidi 1.0.13-1
 fuse3 3.14.1-1
@@ -157,9 +157,9 @@ grub 2:2.06.r499.ge67a551a4-1
 gsettings-desktop-schemas 44.0-1
 gsfonts 20200910-3
 gsm 1.0.22-1
-gst-plugins-base 1.22.3-1
-gst-plugins-base-libs 1.22.3-1
-gstreamer 1.22.3-1
+gst-plugins-base 1.22.3-2
+gst-plugins-base-libs 1.22.3-2
+gstreamer 1.22.3-2
 gtk-doc 1.33.2-1
 gtk-update-icon-cache 1:4.10.3-2
 gtk2 2.24.33-3
@@ -172,7 +172,7 @@ harfbuzz-icu 7.3.0-1
 helm 3.12.0-1
 heroku-cli 8.1.3-1
 hicolor-icon-theme 0.17-3
-hidapi 0.13.1-2
+hidapi 0.14.0-1
 htop 3.2.2-1
 http-parser 2.9.4-1
 hunspell 1.7.2-1
@@ -181,7 +181,7 @@ hyphen 2.8.8-5
 icu67 67.1-1
 ijs 0.35-5
 imagemagick 7.1.1.10-1
-imath 3.1.7-2
+imath 3.1.8-1
 imv 4.4.0-1
 iniparser 4.1-4
 iso-codes 4.15.0-1
@@ -451,9 +451,9 @@ libyaml 0.2.5-2
 libyuv r2322+3aebf69d-1
 libzip 1.9.2-1
 lilv 0.24.20-2
-linux 6.3.3.arch1-1
+linux 6.3.4.arch1-1
 linux-firmware 20230404.2e92a49f-1
-linux-headers 6.3.3.arch1-1
+linux-headers 6.3.4.arch1-1
 llvm-libs 15.0.7-3
 lm_sensors 1:3.6.0.r41.g31d1f125-2
 lmdb 0.9.30-3
@@ -486,7 +486,7 @@ minikube 1.30.1-1
 minizip 1:1.2.13-2
 modemmanager 1.20.6-1
 modemmanager-qt 5.106.0-1
-mongodb-compass 1.36.4-1
+mongodb-compass 1.37.0-1
 mtdev 1.1.6-2
 mtools 1:4.0.43-1
 mtpfs 1.1-4
@@ -505,13 +505,13 @@ noto-fonts-cjk 20220126-1
 noto-fonts-emoji-blob 1:15.0-1
 npm 8.19.2-2
 ntfs-3g 2022.10.3-1
-nvidia 530.41.03-12
+nvidia 530.41.03-13
 okular 23.04.1-1
 oniguruma 6.9.8-1
 ookla-speedtest-bin 1.2.0-1
 openal 1.23.1-1
 opencore-amr 0.1.6-1
-openexr 3.1.7-1
+openexr 3.1.7-2
 openjpeg2 2.5.0-2
 openmpi 4.1.5-2
 openpmix 4.2.3-2
@@ -528,7 +528,7 @@ pango 1:1.50.14-1
 pangomm 2.46.3-1
 parallel 20230522-1
 parted 3.6-1
-patch 2.7.6-9
+patch 2.7.6-10
 pavucontrol 1:5.0+r61+gee77d86-2
 perl-encode-locale 1.05-10
 perl-file-listing 6.15-2
@@ -795,7 +795,7 @@ upower 1.90.0-4
 usbmuxd 1.1.1-3
 usbutils 015-2
 v4l-utils 1.24.1-1
-vala 0.56.7-1
+vala 0.56.8-1
 vid.stab 1.1.1-1
 visual-studio-code-bin 1.78.2-1
 vlc 3.0.18-9
