@@ -87,7 +87,7 @@ docbook-xsl 1.79.2-7
 docker 1:24.0.0-1
 docker-buildx 0.10.5-1
 docker-compose 2.18.1-1
-dolphin 23.04.1-1
+dolphin 23.04.1-2
 dosfstools 4.2-3
 double-conversion 3.3.0-1
 downgrade 11.3.0-1
@@ -100,7 +100,7 @@ enchant 2.3.4-1
 exiv2 0.27.6-2
 faad2 2.10.1-1
 fakeroot 1.31-2
-ffmpeg 2:6.0-7
+ffmpeg 2:6.0-8
 ffmpeg4.4 4.4.3-2
 fftw 3.3.10-4
 figlet 2.2.5-4
@@ -620,7 +620,7 @@ python-pip 23.1.2-1
 python-platformdirs 3.5.1-1
 python-ply 3.11-12
 python-pycparser 2.21-5
-python-pydantic 1.10.7-4
+python-pydantic 1.10.8-1
 python-pygments 2.15.1-1
 python-pyopenssl 23.1.1-2
 python-pyparsing 3.0.9-3
