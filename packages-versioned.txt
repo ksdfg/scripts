@@ -26,7 +26,7 @@ autoconf 2.71-4
 automake 1.16.5-2
 avahi 0.8+22+gfd482a7-4
 awesome-terminal-fonts 1.1.0-4
-azcopy 10.18.1-1
+azcopy 10.19.0-1
 azure-cli 2.49.0-1
 azure-functions-core-tools-bin 4.0.5198-1
 baloo 5.106.0-1
@@ -114,7 +114,7 @@ fontconfig 2:2.14.2-1
 fortune-mod 3.18.0-1
 frameworkintegration 5.106.0-1
 freeglut 3.4.0-1
-freeimage 3.18.0-19
+freeimage 3.18.0-20
 freetype2 2.13.0-1
 fribidi 1.0.13-1
 fuse3 3.14.1-1
@@ -133,7 +133,7 @@ geckodriver 0.32.2-1
 gettext 0.21.1-5
 ghostscript 10.01.1-1
 giflib 5.2.1-2
-git 2.40.1-1
+git 2.41.0-1
 github-cli 2.30.0-1
 glib-networking 1:2.76.0-1
 glib2-docs 2.76.3-1
@@ -157,9 +157,9 @@ grub 2:2.06.r499.ge67a551a4-1
 gsettings-desktop-schemas 44.0-1
 gsfonts 20200910-3
 gsm 1.0.22-1
-gst-plugins-base 1.22.3-2
-gst-plugins-base-libs 1.22.3-2
-gstreamer 1.22.3-2
+gst-plugins-base 1.22.3-3
+gst-plugins-base-libs 1.22.3-3
+gstreamer 1.22.3-3
 gtk-doc 1.33.2-2
 gtk-update-icon-cache 1:4.10.3-4
 gtk2 2.24.33-3
@@ -181,7 +181,7 @@ hyphen 2.8.8-5
 icu67 67.1-1
 ijs 0.35-5
 imagemagick 7.1.1.11-2
-imath 3.1.8-1
+imath 3.1.9-1
 imv 4.4.0-1
 iniparser 4.1-4
 iso-codes 4.15.0-1
@@ -299,7 +299,7 @@ libcanberra 1:0.30+r2+gc0620e4-3
 libcbor 0.10.2-1
 libcloudproviders 0.3.1+r8+g3a229ee-1
 libcolord 1.4.6-1
-libcups 1:2.4.2-7
+libcups 1:2.4.3-1
 libcurl-gnutls 8.1.2-1
 libdatrie 0.2.13-4
 libdbusmenu-glib 16.04.0-5
@@ -395,7 +395,7 @@ libtar 1.2.20-6
 libthai 0.1.29-3
 libtheora 1.1.1-6
 libtiff 4.5.0-4
-libtommath 1.2.0-3
+libtommath 1.2.0-4
 libtool 2.4.7+4+g1ec8fa28-3
 libtorrent-rasterbar 1:2.0.9-1
 libunwind 1.6.2-2
@@ -511,7 +511,7 @@ oniguruma 6.9.8-1
 ookla-speedtest-bin 1.2.0-1
 openal 1.23.1-1
 opencore-amr 0.1.6-1
-openexr 3.1.7-2
+openexr 3.1.7-3
 openjpeg2 2.5.0-2
 openmpi 4.1.5-2
 openpmix 4.2.3-2
@@ -643,7 +643,7 @@ qbittorrent 4.5.3-1
 qca-qt5 2.3.6-2
 qqc2-desktop-style 5.106.0-1
 qrencode 4.1.1-2
-qt5-base 5.15.9+kde+r154-1
+qt5-base 5.15.9+kde+r155-1
 qt5-declarative 5.15.9+kde+r26-1
 qt5-graphicaleffects 5.15.9-1
 qt5-imageformats 5.15.9+kde+r9-1
@@ -670,7 +670,7 @@ qt6-translations 6.5.1-1
 qt6-wayland 6.5.1-1
 rabbitmq 3.11.16-1
 raptor 2.0.16-2
-rar 6.21.0-1
+rar 6.22.0-1
 rav1e 0.6.6-1
 re2 1:20230301-1
 recode 3.7.14-1
@@ -744,7 +744,7 @@ signon-ui 0.17+20171022-3
 signond 8.61-1
 slack-desktop 4.32.122-1
 smartmontools 7.3-1
-smbclient 4.18.2-2
+smbclient 4.18.3-1
 snappy 1.1.9-2
 socat 1.7.4.4-1
 solid 5.106.0-1
