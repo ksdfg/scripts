@@ -10,6 +10,7 @@ alsa-lib
 alsa-topology-conf
 alsa-ucm-conf
 aom
+appmenu-gtk-module
 appstream
 appstream-glib
 appstream-qt
