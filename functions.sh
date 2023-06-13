@@ -73,7 +73,7 @@ rebye() {
 clear-cache() {
     echo "space before cleanup"
     echo "--------------------"
-    df / -h
+    df -h / ~
 
     echo
     echo "cleaning yay cache"
@@ -106,5 +106,5 @@ clear-cache() {
     echo
     echo "space after cleanup"
     echo "-------------------"
-    df / -h
+    df -h / ~
 }
