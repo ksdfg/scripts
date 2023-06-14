@@ -160,9 +160,9 @@ grub 2:2.06.r499.ge67a551a4-1
 gsettings-desktop-schemas 44.0-1
 gsfonts 20200910-3
 gsm 1.0.22-1
-gst-plugins-base 1.22.3-5
-gst-plugins-base-libs 1.22.3-5
-gstreamer 1.22.3-5
+gst-plugins-base 1.22.3-6
+gst-plugins-base-libs 1.22.3-6
+gstreamer 1.22.3-6
 gtk-doc 1.33.2-2
 gtk-update-icon-cache 1:4.10.4-1
 gtk2 2.24.33-3
