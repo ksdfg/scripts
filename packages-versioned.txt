@@ -484,7 +484,6 @@ mdadm 4.2-2
 media-player-info 24-2
 mesa 23.1.2-1
 mesa-utils 9.0.0-2
-microsoft-edge-stable-bin 114.0.1823.51-1
 milou 5.27.5-1
 minikube 1.30.1-2
 minizip 1:1.2.13-2
