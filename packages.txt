@@ -671,7 +671,6 @@ qt6-imageformats
 qt6-svg
 qt6-translations
 qt6-wayland
-rabbitmq
 raptor
 rar
 rav1e
