@@ -118,7 +118,7 @@ fortune-mod 3.20.0-1
 frameworkintegration 5.107.0-1
 freeglut 3.4.0-1
 freeimage 3.18.0-20
-freetype2 2.13.0-1
+freetype2 2.13.1-1
 fribidi 1.0.13-2
 fuse3 3.14.1-1
 fwupd 1.9.2-2
@@ -183,7 +183,7 @@ hwloc 2.9.1-1
 hyphen 2.8.8-5
 icu67 67.1-1
 ijs 0.35-5
-imagemagick 7.1.1.11-2
+imagemagick 7.1.1.12-1
 imath 3.1.9-1
 imv 4.4.0-1
 iniparser 4.1-4
@@ -501,7 +501,7 @@ netpbm 10.73.43-1
 networkmanager 1.42.6-1
 networkmanager-qt 5.107.0-1
 node-gyp 9.4.0-1
-nodejs 20.3.0-1
+nodejs 20.3.1-1
 nodejs-nopt 7.2.0-1
 noto-fonts 20230601-1
 noto-fonts-cjk 20220126-1
@@ -516,7 +516,7 @@ oniguruma 6.9.8-1
 ookla-speedtest-bin 1.2.0-1
 openal 1.23.1-1
 opencore-amr 0.1.6-1
-openexr 3.1.8-1
+openexr 3.1.9-1
 openjpeg2 2.5.0-2
 openmpi 4.1.5-2
 openpmix 4.2.3-2
@@ -804,9 +804,9 @@ visual-studio-code-bin 1.79.2-1
 vlc 3.0.18-11
 vmaf 2.3.1-1
 volume_key 0.3.12-8
-vulkan-headers 1:1.3.253-1
-vulkan-icd-loader 1.3.251-1
-vulkan-tools 1.3.245-1
+vulkan-headers 1:1.3.255-1
+vulkan-icd-loader 1.3.255-1
+vulkan-tools 1.3.255-1
 wayland 1.22.0-1
 wayland-protocols 1.31-1
 wayland-utils 1.2.0-1
