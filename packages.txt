@@ -585,6 +585,7 @@ ppp
 prison
 protobuf
 protobuf-c
+protonvpn-cli
 pulseaudio
 pulseaudio-bluetooth
 purpose
