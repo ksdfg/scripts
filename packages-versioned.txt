@@ -28,7 +28,7 @@ automake 1.16.5-2
 avahi 1:0.8+r22+gfd482a7-1
 awesome-terminal-fonts 1.1.0-4
 azcopy 10.19.0-1
-azure-cli 2.49.0-1
+azure-cli 2.50.0-1
 azure-functions-core-tools-bin 4.0.5198-1
 baloo 5.108.0-1
 baloo-widgets 23.04.3-1
@@ -121,7 +121,7 @@ freeimage 3.18.0-20
 freetype2 2.13.1-1
 fribidi 1.0.13-2
 fuse3 3.14.1-1
-fwupd 1.9.2-2
+fwupd 1.9.3-1
 fwupd-efi 1.4-1
 fzf 0.42.0-1
 gawk 5.2.2-1
@@ -173,7 +173,7 @@ gzip 1.12-2
 harfbuzz 7.3.0-2
 harfbuzz-icu 7.3.0-2
 helm 3.12.0-1
-heroku-cli 8.1.3-1
+heroku-cli 8.1.9-1
 hicolor-icon-theme 0.17-3
 hidapi 0.14.0-1
 htop 3.2.2-1
@@ -183,7 +183,7 @@ hwloc 2.9.1-1
 hyphen 2.8.8-5
 icu67 67.1-1
 ijs 0.35-5
-imagemagick 7.1.1.12-1
+imagemagick 7.1.1.12-2
 imath 3.1.9-1
 imv 4.4.0-2
 iniparser 4.1-4
@@ -622,7 +622,7 @@ python-numpy 1.25.1-1
 python-ordered-set 4.1.0-4
 python-packaging 23.1-1
 python-pip 23.1.2-1
-python-platformdirs 3.5.1-1
+python-platformdirs 3.8.1-1
 python-ply 3.11-12
 python-pycparser 2.21-5
 python-pydantic 1.10.9-1
@@ -677,7 +677,7 @@ rar 6.22.0-1
 rav1e 0.6.6-1
 re2 1:20230301-1
 recode 3.7.14-1
-redis 7.0.11-1
+redis 7.0.12-1
 reflector 2023-1
 rest 0.8.1+r4+ge5ee6ef-1
 ripgrep 13.0.0-3
@@ -801,7 +801,7 @@ v4l-utils 1.24.1-2
 v4l2loopback-dkms 0.12.7-2
 vala 0.56.9-1
 vid.stab 1.1.1-1
-visual-studio-code-bin 1.79.2-1
+visual-studio-code-bin 1.80.0-1
 vlc 3.0.18-12
 vmaf 2.3.1-1
 volume_key 0.3.12-8
