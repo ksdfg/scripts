@@ -5,7 +5,7 @@ accountsservice 23.13.9-1
 adobe-source-code-pro-fonts 2.042u+1.062i+1.026vf-1
 adwaita-icon-theme 44.0-1
 aha 0.5.1-2
-alsa-card-profiles 1:0.3.73-2
+alsa-card-profiles 1:0.3.74-1
 alsa-lib 1.2.9-1
 alsa-topology-conf 1.2.5.1-3
 alsa-ucm-conf 1.2.9-1
@@ -14,7 +14,7 @@ appmenu-gtk-module 0.7.6-1
 appstream 0.16.2-1
 appstream-glib 0.8.2-3
 appstream-qt 0.16.2-1
-archlinux-appstream-data 20230526-1
+archlinux-appstream-data 20230715-1
 archlinux-keyring 20230704-1
 aria2 1.36.0-1
 aribb24 1.0.3-3
@@ -100,7 +100,7 @@ efibootmgr 18-2
 enchant 2.3.4-2
 exiv2 0.28.0-3
 faad2 2.10.1-1
-fakeroot 1.32-1
+fakeroot 1.32.1-1
 ffmpeg 2:6.0-8
 ffmpeg4.4 4.4.4-1
 fftw 3.3.10-4
@@ -126,7 +126,7 @@ fwupd-efi 1.4-1
 fzf 0.42.0-1
 gawk 5.2.2-1
 gcab 1.6-1
-gcc 13.1.1-1
+gcc 13.1.1-2
 gcr 3.41.1-4
 gd 2.3.3-6
 gdb 13.1-3
@@ -146,7 +146,7 @@ glu 9.0.2-3
 gnome-keyring 1:42.1-3
 gnome-online-accounts 3.48.0-2
 gnu-free-fonts 20120503-8
-go 2:1.20.5-1
+go 2:1.20.6-1
 gobject-introspection-runtime 1.76.1-3
 goland 2023.1.4-1
 goland-jre 2023.1.4-1
@@ -170,8 +170,8 @@ gtk3 1:3.24.38-1
 gtkmm3 3.24.7-1
 gts 0.7.6.121130-2
 gzip 1.12-2
-harfbuzz 7.3.0-2
-harfbuzz-icu 7.3.0-2
+harfbuzz 8.0.1-1
+harfbuzz-icu 8.0.1-1
 helm 3.12.0-1
 heroku-cli 8.1.9-1
 hicolor-icon-theme 0.17-3
@@ -183,7 +183,7 @@ hwloc 2.9.1-1
 hyphen 2.8.8-5
 icu67 67.1-1
 ijs 0.35-5
-imagemagick 7.1.1.12-2
+imagemagick 7.1.1.13-1
 imath 3.1.9-1
 imv 4.4.0-2
 iniparser 4.1-4
@@ -371,7 +371,7 @@ libomxil-bellagio 0.9.3-4
 libpaper 2.1.1-1
 libpciaccess 0.17-1
 libpipeline 1.5.7-1
-libplacebo 5.229.2-2
+libplacebo 5.264.1-1
 libplist 2.3.0-2
 libpng 1.6.40-2
 libproxy 0.5.3-1
@@ -400,7 +400,7 @@ libthai 0.1.29-3
 libtheora 1.1.1-6
 libtiff 4.5.1-1
 libtommath 1.2.0-4
-libtool 2.4.7+4+g1ec8fa28-3
+libtool 2.4.7+4+g1ec8fa28-4
 libtorrent-rasterbar 1:2.0.9-1
 libunwind 1.6.2-2
 libupnp 1.14.17-1
@@ -455,9 +455,9 @@ libyaml 0.2.5-2
 libyuv r2322+3aebf69d-1
 libzip 1.10.0-1
 lilv 0.24.20-2
-linux 6.4.3.arch1-1
+linux 6.4.3.arch1-2
 linux-firmware 20230625.ee91452d-4
-linux-headers 6.4.3.arch1-1
+linux-headers 6.4.3.arch1-2
 llvm-libs 15.0.7-3
 lm_sensors 1:3.6.0.r41.g31d1f125-2
 lmdb 0.9.30-3
@@ -489,7 +489,7 @@ minikube 1.30.1-2
 minizip 1:1.2.13-3
 modemmanager 1.20.6-1
 modemmanager-qt 5.108.0-1
-mongodb-compass 1.38.2-1
+mongodb-compass 1.39.0-1
 mtdev 1.1.6-2
 mtools 1:4.0.43-1
 mtpfs 1.1-4
@@ -508,7 +508,7 @@ noto-fonts-cjk 20220126-1
 noto-fonts-emoji-blob 1:15.0-1
 npm 9.8.0-3
 ntfs-3g 2022.10.3-1
-nvidia 535.54.03-8
+nvidia 535.54.03-9
 obs-backgroundremoval 0.5.17-1
 obs-studio 29.1.3-1
 okular 23.04.3-1
@@ -527,7 +527,7 @@ os-prober 1.81-1
 oxygen 5.27.6-1
 oxygen-sounds 5.27.6-1
 pacman 6.0.2-7
-pacman-contrib 1.9.0-1
+pacman-contrib 1.9.1-1
 pahole 1:1.25-4
 pango 1:1.50.14-1
 pangomm 2.46.3-1
@@ -553,7 +553,7 @@ perl-uri 5.19-1
 perl-www-robotrules 6.02-11
 phonon-qt5 4.11.1-3
 phonon-qt5-vlc 0.11.3-2
-pipewire 1:0.3.73-2
+pipewire 1:0.3.74-1
 pipewire-media-session 1:0.4.2-2
 pixman 0.42.2-1
 pkgconf 1.8.1-1
@@ -575,8 +575,8 @@ plasma-workspace-wallpapers 5.27.6-1
 polkit 122-1
 polkit-kde-agent 5.27.6-1
 polkit-qt5 0.114.0-1
-poppler 23.06.0-1
-poppler-qt5 23.06.0-1
+poppler 23.07.0-1
+poppler-qt5 23.07.0-1
 postgresql 15.3-2
 postgresql-libs 15.3-2
 postman-bin 10.15.0-1
@@ -589,7 +589,7 @@ protonvpn-cli 3.13.0-2
 pulseaudio 16.1-6
 pulseaudio-bluetooth 16.1-6
 purpose 5.108.0-1
-pycharm-professional 2023.1.3-1
+pycharm-professional 2023.1.4-1
 python 3.11.3-2
 python-anytree 2.8.0-6
 python-appdirs 1.4.4-8
@@ -600,7 +600,7 @@ python-cffi 1.15.1-3
 python-chardet 5.1.0-3
 python-colorama 0.4.6-2
 python-commonmark 0.9.1-9
-python-cryptography 41.0.1-2
+python-cryptography 41.0.2-1
 python-distlib 0.3.6-3
 python-distro 1.8.0-3
 python-dnspython 1:2.3.0-3
@@ -647,8 +647,8 @@ qbittorrent 4.5.4-1
 qca-qt5 2.3.6-2
 qqc2-desktop-style 5.108.0-1
 qrencode 4.1.1-2
-qt5-base 5.15.10+kde+r130-1
-qt5-declarative 5.15.10+kde+r26-1
+qt5-base 5.15.10+kde+r135-1
+qt5-declarative 5.15.10+kde+r29-1
 qt5-graphicaleffects 5.15.10-1
 qt5-imageformats 5.15.10+kde+r9-1
 qt5-location 5.15.10+kde+r4-2
@@ -661,7 +661,7 @@ qt5-styleplugins 5.0.0.20170311-35
 qt5-svg 5.15.10+kde+r8-1
 qt5-tools 5.15.10+kde+r3-1
 qt5-translations 5.15.10-1
-qt5-wayland 5.15.10+kde+r51-1
+qt5-wayland 5.15.10+kde+r52-1
 qt5-webchannel 5.15.10+kde+r3-1
 qt5-webengine 5.15.14-4
 qt5-x11extras 5.15.10-1
@@ -730,13 +730,13 @@ ruby-uri 0.12.1-1
 rubygems 3.3.25-1
 run-parts 5.5-1
 runc 1.1.7-1
-rust 1:1.70.0-1
+rust 1:1.71.0-1
 sbc 2.0-1
 sddm 0.20.0-1
 sddm-kcm 5.27.6-1
 sdl2 2.28.1-1
 sed 4.9-3
-semver 7.4.0-1
+semver 7.5.0-1
 serd 0.30.16-1
 shaderc 2023.3-1
 shared-mime-info 2.2+13+ga2ffb28-1
@@ -801,11 +801,11 @@ v4l-utils 1.24.1-2
 v4l2loopback-dkms 0.12.7-2
 vala 0.56.9-1
 vid.stab 1.1.1-1
-visual-studio-code-bin 1.80.0-1
-vlc 3.0.18-12
+visual-studio-code-bin 1.80.1-1
+vlc 3.0.18-13
 vmaf 2.3.1-1
 volume_key 0.3.12-8
-vulkan-headers 1:1.3.256-1
+vulkan-headers 1:1.3.257-1
 vulkan-icd-loader 1.3.255-1
 vulkan-tools 1.3.255-1
 wayland 1.22.0-1
