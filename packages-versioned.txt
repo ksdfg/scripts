@@ -155,7 +155,7 @@ graphene 1.10.8-1
 graphite 1:1.3.14-3
 graphviz 8.0.5-2
 grep 3.11-1
-groff 1.23.0-2
+groff 1.23.0-3
 grub 2:2.12rc1-1
 gsettings-desktop-schemas 44.0-1
 gsfonts 20200910-3
@@ -163,7 +163,7 @@ gsm 1.0.22-1
 gst-plugins-base 1.22.4-2
 gst-plugins-base-libs 1.22.4-2
 gstreamer 1.22.4-2
-gtk-doc 1.33.2-2
+gtk-doc 1.33.2-3
 gtk-update-icon-cache 1:4.10.4-1
 gtk2 2.24.33-3
 gtk3 1:3.24.38-1
@@ -410,7 +410,7 @@ libusb-compat 0.1.8-1
 libusbmuxd 2.0.2-3
 libutempter 1.2.1-3
 libuv 1.46.0-1
-libva 2.18.0-1
+libva 2.19.0-1
 libvdpau 1.5-1
 libvisual 0.4.2-1
 libvorbis 1.3.7-3
@@ -579,7 +579,7 @@ poppler 23.07.0-1
 poppler-qt5 23.07.0-1
 postgresql 15.3-2
 postgresql-libs 15.3-2
-postman-bin 10.15.0-1
+postman-bin 10.16.0-1
 powerdevil 5.27.6-3
 ppp 2.4.9-3
 prison 5.108.0-1
@@ -622,7 +622,7 @@ python-numpy 1.25.1-1
 python-ordered-set 4.1.0-4
 python-packaging 23.1-1
 python-pip 23.1.2-1
-python-platformdirs 3.8.1-1
+python-platformdirs 3.9.1-1
 python-ply 3.11-12
 python-pycparser 2.21-5
 python-pydantic 1.10.9-1
@@ -637,12 +637,12 @@ python-six 1.16.0-8
 python-tenacity 8.2.2-3
 python-tomli 2.0.1-3
 python-trove-classifiers 2023.7.6-1
-python-typing_extensions 4.7.0-1
+python-typing_extensions 4.7.1-1
 python-urllib3 1.26.15-1
 python-validate-pyproject 0.13-1
 python-webencodings 0.5.1-10
 python-xlib 0.33-2
-python-zipp 3.15.0-2
+python-zipp 3.16.0-1
 qbittorrent 4.5.4-1
 qca-qt5 2.3.6-2
 qqc2-desktop-style 5.108.0-1
@@ -765,7 +765,7 @@ sratom 0.6.14-1
 srt 1.5.2-1
 startup-notification 0.12-8
 step-cli 0.24.4-1
-sudo 1.9.14.p1-1
+sudo 1.9.14.p2-1
 svt-av1 1.6.0-1
 syndication 5.108.0-1
 syntax-highlighting 5.108.0-1
@@ -892,7 +892,7 @@ xvidcore 1.3.7-2
 xxhash 0.8.1-4
 yarn 1.22.19-1
 yay-git 12.1.0.r9.g0dcf911-1
-zimg 3.0.4-1
+zimg 3.0.5-1
 zip 3.0-10
 zsh 5.9-4
 zxing-cpp 2.1.0-1
