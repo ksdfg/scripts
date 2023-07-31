@@ -1,11 +1,11 @@
 a52dec 0.8.0-2
-abseil-cpp 20230125.3-1
+abseil-cpp 20230125.3-2
 accounts-qml-module 0.7-4
 accountsservice 23.13.9-1
 adobe-source-code-pro-fonts 2.042u+1.062i+1.026vf-1
 adwaita-icon-theme 44.0-1
 aha 0.5.1-2
-alsa-card-profiles 1:0.3.75-2
+alsa-card-profiles 1:0.3.76-2
 alsa-lib 1.2.9-1
 alsa-topology-conf 1.2.5.1-3
 alsa-ucm-conf 1.2.9-1
@@ -49,7 +49,7 @@ breeze 5.27.6-1
 breeze-gtk 5.27.6-1
 breeze-icons 5.108.0-1
 bridge-utils 1.7.1-1
-btrfs-progs 6.3.2-1
+btrfs-progs 6.3.3-1
 bubblewrap 0.8.0-1
 c-ares 1.19.1-1
 cairo 1.17.8-2
@@ -89,6 +89,7 @@ docker 1:24.0.5-1
 docker-buildx 0.11.0-1
 docker-compose 2.20.2-1
 dolphin 23.04.3-1
+dos2unix 7.5.0-1
 dosfstools 4.2-3
 double-conversion 3.3.0-1
 downgrade 11.3.0-1
@@ -107,7 +108,7 @@ fftw 3.3.10-4
 figlet 2.2.5-4
 file 5.44-3
 findutils 4.9.0-3
-firefox 115.0.2-1
+firefox 115.0.3-1
 firefox-profile-switcher-connector 0.1.1-1
 flac 1.4.3-1
 flashplugin 32.0.0.465-1
@@ -141,7 +142,7 @@ github-cli 2.32.1-1
 glib-networking 1:2.76.1-1
 glib2-docs 2.76.4-1
 glibmm 2.66.6-1
-glslang 12.3.1-1
+glslang 12.3.1-2
 glu 9.0.2-3
 gnome-keyring 1:42.1-3
 gnome-online-accounts 3.48.0-2
@@ -153,7 +154,7 @@ goland-jre 2023.2-1
 gptfdisk 1.0.9-2
 graphene 1.10.8-1
 graphite 1:1.3.14-3
-graphviz 8.0.5-2
+graphviz 8.1.0-1
 grep 3.11-1
 groff 1.23.0-3
 grub 2:2.12rc1-1
@@ -183,7 +184,7 @@ hwloc 2.9.1-1
 hyphen 2.8.8-5
 icu67 67.1-1
 ijs 0.35-5
-imagemagick 7.1.1.14-1
+imagemagick 7.1.1.15-1
 imath 3.1.9-1
 imv 4.4.0-2
 iniparser 4.1-4
@@ -304,7 +305,7 @@ libcbor 0.10.2-1
 libcloudproviders 0.3.1+r8+g3a229ee-1
 libcolord 1.4.6-1
 libcups 1:2.4.6-1
-libcurl-gnutls 8.2.0-2
+libcurl-gnutls 8.2.1-1
 libdatrie 0.2.13-4
 libdbusmenu-glib 16.04.0.r498-1
 libdbusmenu-gtk3 16.04.0.r498-1
@@ -455,9 +456,9 @@ libyaml 0.2.5-2
 libyuv r2322+3aebf69d-1
 libzip 1.10.0-1
 lilv 0.24.20-2
-linux 6.4.6.arch1-1
+linux 6.4.7.arch1-1
 linux-firmware 20230625.ee91452d-5
-linux-headers 6.4.6.arch1-1
+linux-headers 6.4.7.arch1-1
 llvm-libs 15.0.7-3
 lm_sensors 1:3.6.0.r41.g31d1f125-2
 lmdb 0.9.30-3
@@ -472,7 +473,7 @@ lvm2 2.03.21-1
 lzo 2.10-5
 m4 1.4.19-3
 mailcap 2.1.54-1
-mailspring 1.10.8-1
+mailspring 1.11.0-1
 make 4.4.1-2
 man-db 2.11.2-1
 man-pages 6.04-1
@@ -504,11 +505,11 @@ node-gyp 9.4.0-1
 nodejs 20.4.0-1
 nodejs-nopt 7.2.0-1
 noto-fonts 1:23.7.1-1
-noto-fonts-cjk 20220126-1
+noto-fonts-cjk 20220126-2
 noto-fonts-emoji-blob 1:15.0-1
 npm 9.8.1-1
 ntfs-3g 2022.10.3-1
-nvidia 535.86.05-4
+nvidia 535.86.05-5
 obs-backgroundremoval 0.5.17-1
 obs-studio 29.1.3-1
 okular 23.04.3-1
@@ -536,7 +537,7 @@ parted 3.6-1
 patch 2.7.6-10
 pavucontrol 1:5.0+r64+geba9ca6-1
 perl-encode-locale 1.05-10
-perl-file-listing 6.15-2
+perl-file-listing 6.16-1
 perl-html-parser 3.81-1
 perl-html-tagset 3.20-13
 perl-http-cookies 6.10-3
@@ -553,7 +554,7 @@ perl-uri 5.19-1
 perl-www-robotrules 6.02-11
 phonon-qt5 4.11.1-3
 phonon-qt5-vlc 0.11.3-2
-pipewire 1:0.3.75-2
+pipewire 1:0.3.76-2
 pipewire-media-session 1:0.4.2-2
 pixman 0.42.2-1
 pkgconf 1.8.1-1
@@ -589,7 +590,7 @@ protonvpn-cli 3.13.0-2
 pulseaudio 16.1-6
 pulseaudio-bluetooth 16.1-6
 purpose 5.108.0-1
-pycharm-professional 2023.1.4-1
+pycharm-professional 2023.2-1
 python 3.11.3-2
 python-anytree 2.8.0-6
 python-appdirs 1.4.4-8
@@ -631,7 +632,7 @@ python-pyopenssl 23.2.0-1
 python-pyparsing 3.0.9-3
 python-requests 2.28.2-4
 python-resolvelib 1.0.1-1
-python-rich 13.4.2-1
+python-rich 13.5.0-1
 python-setuptools 1:68.0.0-1
 python-six 1.16.0-8
 python-tenacity 8.2.2-3
@@ -775,10 +776,10 @@ taglib 1.13.1-1
 talloc 2.4.1-1
 tcl 8.6.13-1
 tdb 1.4.9-1
-telegram-desktop 4.8.9-1
+telegram-desktop 4.8.10-1
 tevent 1:0.15.0-1
 texinfo 7.0.3-1
-thin-provisioning-tools 1.0.4-1
+thin-provisioning-tools 1.0.5-1
 threadweaver 5.108.0-1
 tidy 5.8.0-2
 tk 8.6.13-1
@@ -801,7 +802,7 @@ v4l-utils 1.24.1-2
 v4l2loopback-dkms 0.12.7-2
 vala 0.56.9-1
 vid.stab 1.1.1-1
-visual-studio-code-bin 1.80.1-1
+visual-studio-code-bin 1.80.2-1
 vlc 3.0.18-13
 vmaf 2.3.1-1
 volume_key 0.3.12-8
@@ -891,7 +892,7 @@ xorgproto 2023.2-1
 xvidcore 1.3.7-2
 xxhash 0.8.2-1
 yarn 1.22.19-1
-yay-git 12.1.0.r9.g0dcf911-1
+yay-git 12.1.2.r0.g9aefb84-1
 zimg 3.0.5-1
 zip 3.0-10
 zsh 5.9-4

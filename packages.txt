@@ -89,6 +89,7 @@ docker
 docker-buildx
 docker-compose
 dolphin
+dos2unix
 dosfstools
 double-conversion
 downgrade
