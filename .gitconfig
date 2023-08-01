@@ -52,3 +52,6 @@
 
 [includeIf "gitdir:~/navana/"]
 	path = ~/navana/.gitconfig
+
+[includeIf "gitdir:~/growthx/"]
+	path = ~/growthx/.gitconfig
