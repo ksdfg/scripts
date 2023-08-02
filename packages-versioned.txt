@@ -146,7 +146,7 @@ glu 9.0.2-3
 gnome-keyring 1:42.1-3
 gnome-online-accounts 3.48.0-2
 gnu-free-fonts 20120503-8
-go 2:1.20.6-1
+go 2:1.20.7-1
 gobject-introspection-runtime 1.76.1-3
 goland 2023.2-1
 goland-jre 2023.2-1
@@ -642,7 +642,7 @@ python-urllib3 1.26.15-1
 python-validate-pyproject 0.13-1
 python-webencodings 0.5.1-10
 python-xlib 0.33-2
-python-zipp 3.16.0-1
+python-zipp 3.16.1-1
 qbittorrent 4.5.4-1
 qca-qt5 2.3.7-1
 qqc2-desktop-style 5.108.0-1
@@ -896,6 +896,7 @@ yarn 1.22.19-1
 yay-git 12.1.2.r0.g9aefb84-1
 zimg 3.0.5-1
 zip 3.0-10
+zoom 5.15.5-1
 zsh 5.9-4
 zxing-cpp 2.1.0-1
 zziplib 0.13.72-2
