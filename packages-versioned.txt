@@ -27,7 +27,7 @@ autoconf 2.71-4
 automake 1.16.5-2
 avahi 1:0.8+r22+gfd482a7-1
 awesome-terminal-fonts 1.1.0-4
-azcopy 10.19.0-1
+azcopy 10.20.0-1
 azure-functions-core-tools-bin 4.0.5198-1
 baloo 5.108.0-1
 baloo-widgets 23.04.3-1
@@ -35,7 +35,7 @@ base 3-1
 base-devel 1-1
 bat 0.23.0-3
 bind 9.18.17-1
-binutils 2.41-2
+binutils 2.41-3
 bison 3.8.2-6
 blas 3.11.0-2
 bluedevil 1:5.27.7-1
@@ -107,7 +107,7 @@ fftw 3.3.10-4
 figlet 2.2.5-4
 file 5.44-3
 findutils 4.9.0-3
-firefox 116.0-1
+firefox 116.0.1-1
 firefox-profile-switcher-connector 0.1.1-1
 flac 1.4.3-1
 flashplugin 32.0.0.465-1
@@ -170,8 +170,8 @@ gtk3 1:3.24.38-1
 gtkmm3 3.24.7-1
 gts 0.7.6.121130-2
 gzip 1.12-2
-harfbuzz 8.0.1-1
-harfbuzz-icu 8.0.1-1
+harfbuzz 8.1.1-1
+harfbuzz-icu 8.1.1-1
 helm 3.12.0-1
 heroku-cli 8.1.9-1
 hicolor-icon-theme 0.17-3
@@ -355,7 +355,7 @@ libmanette 0.2.6-5
 libmatroska 1.7.1-1
 libmbim 1.28.4-1
 libmd 1.1.0-1
-libmfx 23.2.2-1
+libmfx 23.2.2-2
 libmicrohttpd 0.9.77-1
 libmng 2.0.3-3
 libmodplug 0.8.9.0-5
@@ -455,9 +455,9 @@ libyaml 0.2.5-2
 libyuv r2322+3aebf69d-1
 libzip 1.10.0-1
 lilv 0.24.20-2
-linux 6.4.7.arch1-3
+linux 6.4.8.arch1-1
 linux-firmware 20230625.ee91452d-5
-linux-headers 6.4.7.arch1-3
+linux-headers 6.4.8.arch1-1
 llvm-libs 15.0.7-3
 lm_sensors 1:3.6.0.r41.g31d1f125-2
 lmdb 0.9.30-3
@@ -468,7 +468,7 @@ lua 5.4.6-1
 lua52 5.2.4-5
 luit 20230201-1
 lv2 1.18.10-1
-lvm2 2.03.21-1
+lvm2 2.03.22-1
 lzo 2.10-5
 m4 1.4.19-3
 mailcap 2.1.54-1
@@ -482,10 +482,10 @@ mariadb-libs 11.0.2-2
 md4c 0.4.8-1
 mdadm 4.2-2
 media-player-info 24-2
-mesa 23.1.4-2
+mesa 1:23.1.5-1
 mesa-utils 9.0.0-2
 milou 5.27.7-1
-minikube 1.30.1-2
+minikube 1.31.1-1
 minizip 1:1.2.13-3
 modemmanager 1.20.6-1
 modemmanager-qt 5.108.0-1
@@ -508,7 +508,7 @@ noto-fonts-cjk 20220126-2
 noto-fonts-emoji-blob 1:15.0-1
 npm 9.8.1-1
 ntfs-3g 2022.10.3-1
-nvidia 535.86.05-7
+nvidia 535.86.05-8
 obs-backgroundremoval 0.5.17-1
 obs-studio 29.1.3-1
 okular 23.04.3-1
@@ -516,7 +516,7 @@ oniguruma 6.9.8-1
 ookla-speedtest-bin 1.2.0-1
 openal 1.23.1-1
 opencore-amr 0.1.6-1
-openexr 3.1.9-1
+openexr 3.1.10-1
 openjpeg2 2.5.0-2
 openmpi 4.1.5-2
 openpmix 4.2.3-2
@@ -558,7 +558,7 @@ pipewire-media-session 1:0.4.2-2
 pixman 0.42.2-1
 pkgconf 1.8.1-1
 plasma-browser-integration 5.27.7-1
-plasma-desktop 5.27.7-1
+plasma-desktop 5.27.7.1-1
 plasma-disks 5.27.7-1
 plasma-firewall 5.27.7-1
 plasma-framework 5.108.0-1
@@ -572,7 +572,7 @@ plasma-thunderbolt 5.27.7-1
 plasma-vault 5.27.7-1
 plasma-workspace 5.27.7-1
 plasma-workspace-wallpapers 5.27.7-1
-polkit 122-1
+polkit 123-1
 polkit-kde-agent 5.27.7-1
 polkit-qt5 0.114.0-1
 poppler 23.07.0-1
@@ -615,7 +615,7 @@ python-jaraco.functools 3.8.0-1
 python-jaraco.text 3.11.1-3
 python-lxml 4.9.2-3
 python-markdown 3.4.4-1
-python-more-itertools 9.1.1-4
+python-more-itertools 10.0.1-1
 python-msgpack 1.0.5-1
 python-nspektr 0.4.0-3
 python-numpy 1.25.1-1
@@ -673,7 +673,7 @@ qt6-svg 6.5.2-1
 qt6-translations 6.5.2-1
 qt6-wayland 6.5.2-1
 raptor 2.0.16-3
-rar 6.22.0-1
+rar 6.23.0-1
 rav1e 0.6.6-1
 re2 1:20230301-1
 recode 3.7.14-1
@@ -730,7 +730,7 @@ ruby-uri 0.12.1-1
 rubygems 3.3.25-1
 run-parts 5.5-1
 runc 1.1.8-1
-rust 1:1.71.0-1
+rust 1:1.71.1-1
 sbc 2.0-1
 sddm 0.20.0-1
 sddm-kcm 5.27.7-1
@@ -746,7 +746,7 @@ signon-plugin-oauth2 0.25-1
 signon-ui 0.17+20171022-3
 signond 8.61-1
 slack-desktop 4.33.73-1
-smartmontools 7.3-1
+smartmontools 7.4-1
 smbclient 4.18.5-2
 snappy 1.1.9-2
 socat 1.7.4.4-1
@@ -801,7 +801,7 @@ v4l-utils 1.24.1-2
 v4l2loopback-dkms 0.12.7-2
 vala 0.56.9-1
 vid.stab 1.1.1-1
-visual-studio-code-bin 1.80.2-1
+visual-studio-code-bin 1.81.0-1
 vlc 3.0.18-13
 vmaf 2.3.1-1
 volume_key 0.3.12-8
@@ -896,7 +896,6 @@ yarn 1.22.19-1
 yay-git 12.1.2.r0.g9aefb84-1
 zimg 3.0.5-1
 zip 3.0-10
-zoom 5.15.5-1
 zsh 5.9-4
 zxing-cpp 2.1.0-1
 zziplib 0.13.72-2

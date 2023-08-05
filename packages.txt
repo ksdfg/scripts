@@ -896,7 +896,6 @@ yarn
 yay-git
 zimg
 zip
-zoom
 zsh
 zxing-cpp
 zziplib
