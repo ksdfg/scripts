@@ -86,7 +86,7 @@ docbook-xml 4.5-9
 docbook-xsl 1.79.2-7
 docker 1:24.0.5-1
 docker-buildx 0.11.2-1
-docker-compose 2.20.2-1
+docker-compose 2.20.3-1
 dolphin 23.04.3-1
 dos2unix 7.5.0-1
 dosfstools 4.2-3
@@ -520,7 +520,7 @@ openexr 3.1.10-1
 openjpeg2 2.5.0-2
 openmpi 4.1.5-2
 openpmix 4.2.3-2
-openssh 9.4p1-1
+openssh 9.4p1-2
 opus 1.4-1
 orc 0.4.34-1
 os-prober 1.81-1
@@ -729,7 +729,7 @@ ruby-tins 1.32.1-1
 ruby-uri 0.12.1-1
 rubygems 3.3.25-1
 run-parts 5.5-1
-runc 1.1.8-1
+runc 1.1.9-1
 rust 1:1.71.1-1
 sbc 2.0-1
 sddm 0.20.0-2
