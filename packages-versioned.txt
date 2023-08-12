@@ -27,7 +27,7 @@ autoconf 2.71-4
 automake 1.16.5-2
 avahi 1:0.8+r22+gfd482a7-1
 awesome-terminal-fonts 1.1.0-4
-azcopy 10.20.0-1
+azcopy 10.20.1-1
 azure-functions-core-tools-bin 4.0.5198-1
 baloo 5.108.0-1
 baloo-widgets 23.04.3-1
@@ -455,9 +455,9 @@ libyaml 0.2.5-2
 libyuv r2322+3aebf69d-1
 libzip 1.10.0-1
 lilv 0.24.20-2
-linux 6.4.9.arch1-1
+linux 6.4.10.arch1-1
 linux-firmware 20230804.7be2766d-2
-linux-headers 6.4.9.arch1-1
+linux-headers 6.4.10.arch1-1
 llvm-libs 15.0.7-3
 lm_sensors 1:3.6.0.r41.g31d1f125-2
 lmdb 0.9.30-3
@@ -487,7 +487,7 @@ mesa-utils 9.0.0-2
 milou 5.27.7-1
 minikube 1.31.1-1
 minizip 1:1.2.13-3
-modemmanager 1.20.6-1
+modemmanager 1.20.6-2
 modemmanager-qt 5.108.0-1
 mongodb-compass 1.39.1-1
 mtdev 1.1.6-2
@@ -508,7 +508,7 @@ noto-fonts-cjk 20220126-2
 noto-fonts-emoji-blob 1:15.0-1
 npm 9.8.1-1
 ntfs-3g 2022.10.3-1
-nvidia 535.98-1
+nvidia 535.98-2
 obs-backgroundremoval 0.5.17-1
 obs-studio 29.1.3-1
 okular 23.04.3-1
@@ -519,7 +519,7 @@ opencore-amr 0.1.6-1
 openexr 3.1.10-1
 openjpeg2 2.5.0-2
 openmpi 4.1.5-2
-openpmix 4.2.3-2
+openpmix 4.2.5-1
 openssh 9.4p1-2
 opus 1.4-1
 orc 0.4.34-1
@@ -642,7 +642,7 @@ python-urllib3 1.26.15-1
 python-validate-pyproject 0.13-1
 python-webencodings 0.5.1-10
 python-xlib 0.33-2
-python-zipp 3.16.1-1
+python-zipp 3.16.2-1
 qbittorrent 4.5.4-1
 qca-qt5 2.3.7-1
 qqc2-desktop-style 5.108.0-1
