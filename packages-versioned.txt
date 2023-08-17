@@ -34,7 +34,7 @@ baloo-widgets 23.04.3-1
 base 3-1
 base-devel 1-1
 bat 0.23.0-3
-bind 9.18.17-1
+bind 9.18.18-1
 binutils 2.41-3
 bison 3.8.2-6
 blas 3.11.0-2
@@ -107,7 +107,7 @@ fftw 3.3.10-4
 figlet 2.2.5-4
 file 5.45-1
 findutils 4.9.0-3
-firefox 116.0.2-1
+firefox 116.0.3-1
 firefox-profile-switcher-connector 0.1.1-1
 flac 1.4.3-1
 flashplugin 32.0.0.465-1
@@ -142,7 +142,7 @@ glib-networking 1:2.76.1-1
 glib2-docs 2.76.4-1
 glibmm 2.66.6-1
 glslang 12.3.1-2
-glu 9.0.2-3
+glu 9.0.3-1
 gnome-keyring 1:42.1-3
 gnome-online-accounts 3.48.0-2
 gnu-free-fonts 20120503-8
@@ -475,7 +475,7 @@ mailcap 2.1.54-1
 mailspring 1.11.0-1
 make 4.4.1-2
 man-db 2.11.2-1
-man-pages 6.04-1
+man-pages 6.05.01-1
 mariadb 11.0.2-2
 mariadb-clients 11.0.2-2
 mariadb-libs 11.0.2-2
@@ -575,8 +575,8 @@ plasma-workspace-wallpapers 5.27.7-1
 polkit 123-1
 polkit-kde-agent 5.27.7-1
 polkit-qt5 0.114.0-1
-poppler 23.07.0-1
-poppler-qt5 23.07.0-1
+poppler 23.08.0-1
+poppler-qt5 23.08.0-1
 postgresql 15.3-5
 postgresql-libs 15.3-5
 postman-bin 10.17.0-1
@@ -622,7 +622,7 @@ python-numpy 1.25.1-1
 python-ordered-set 4.1.0-4
 python-packaging 23.1-1
 python-pip 23.2.1-1
-python-platformdirs 3.9.1-1
+python-platformdirs 3.10.0-1
 python-ply 3.11-12
 python-pycparser 2.21-5
 python-pydantic 1.10.9-1
@@ -634,7 +634,7 @@ python-resolvelib 1.0.1-1
 python-rich 13.5.2-1
 python-setuptools 1:68.0.0-1
 python-six 1.16.0-8
-python-tenacity 8.2.2-3
+python-tenacity 8.2.3-1
 python-tomli 2.0.1-3
 python-trove-classifiers 2023.8.7-1
 python-typing_extensions 4.7.1-1
@@ -663,7 +663,7 @@ qt5-tools 5.15.10+kde+r3-1
 qt5-translations 5.15.10-1
 qt5-wayland 5.15.10+kde+r52-1
 qt5-webchannel 5.15.10+kde+r3-1
-qt5-webengine 5.15.14-4
+qt5-webengine 5.15.14-5
 qt5-x11extras 5.15.10-1
 qt6-5compat 6.5.2-1
 qt6-base 6.5.2-1
@@ -675,7 +675,7 @@ qt6-wayland 6.5.2-1
 raptor 2.0.16-3
 rar 6.23.0-1
 rav1e 0.6.6-1
-re2 1:20230301-1
+re2 1:20230801-1
 recode 3.7.14-1
 redis 7.0.12-1
 reflector 2023-1
@@ -723,7 +723,7 @@ ruby-ruby2_keywords 0.0.5-1
 ruby-stdlib 3.0.6-1
 ruby-stringio 3.0.2-4
 ruby-term-ansicolor 1.7.1-2
-ruby-test-unit 3.6.0-1
+ruby-test-unit 3.6.1-1
 ruby-time 0.2.0-4
 ruby-tins 1.32.1-1
 ruby-uri 0.12.1-1
@@ -745,9 +745,9 @@ signon-kwallet-extension 23.04.3-1
 signon-plugin-oauth2 0.25-1
 signon-ui 0.17+20171022-3
 signond 8.61-1
-slack-desktop 4.33.84-1
+slack-desktop 4.33.90-1
 smartmontools 7.4-1
-smbclient 4.18.5-2
+smbclient 4.18.6-1
 snappy 1.1.9-2
 socat 1.7.4.4-1
 solid 5.108.0-1
@@ -775,7 +775,7 @@ taglib 1.13.1-1
 talloc 2.4.1-1
 tcl 8.6.13-1
 tdb 1.4.9-1
-telegram-desktop 4.8.10-1
+telegram-desktop 4.9.1-1
 tevent 1:0.15.0-1
 texinfo 7.0.3-1
 thin-provisioning-tools 1.0.6-1
