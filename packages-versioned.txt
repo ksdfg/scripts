@@ -137,7 +137,7 @@ gettext 0.22-1
 ghostscript 10.01.2-1
 giflib 5.2.1-2
 git 2.41.0-2
-github-cli 2.32.1-1
+github-cli 2.33.0-1
 glib-networking 1:2.76.1-1
 glib2-docs 2.76.4-1
 glibmm 2.66.6-1
@@ -713,7 +713,7 @@ ruby-rainbow 3.1.1-1
 ruby-rake 13.0.6-1
 ruby-rdoc 6.4.0-4
 ruby-reline 0.3.1-2
-ruby-rexml 3.2.5-1
+ruby-rexml 3.2.6-1
 ruby-rspec 3.12.0-1
 ruby-rspec-core 3.12.0-1
 ruby-rspec-expectations 3.12.0-1
