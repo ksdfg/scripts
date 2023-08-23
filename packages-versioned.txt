@@ -121,7 +121,7 @@ freeimage 3.18.0-20
 freetype2 2.13.1-1
 fribidi 1.0.13-2
 fuse3 3.16.1-1
-fwupd 1.9.3-1
+fwupd 1.9.4-1
 fwupd-efi 1.4-1
 fzf 0.42.0-1
 gawk 5.2.2-1
@@ -136,7 +136,7 @@ geckodriver 0.32.2-1
 gettext 0.22-1
 ghostscript 10.01.2-1
 giflib 5.2.1-2
-git 2.41.0-2
+git 2.42.0-1
 github-cli 2.33.0-1
 glib-networking 1:2.76.1-1
 glib2-docs 2.76.4-1
@@ -403,7 +403,7 @@ libtommath 1.2.0-4
 libtool 2.4.7+4+g1ec8fa28-6
 libtorrent-rasterbar 1:2.0.9-1
 libunwind 1.6.2-2
-libupnp 1.14.17-1
+libupnp 1.14.18-1
 liburcu 0.14.0-1
 libusb 1.0.26-2
 libusb-compat 0.1.8-1
@@ -489,7 +489,7 @@ minikube 1.31.2-1
 minizip 1:1.2.13-3
 modemmanager 1.20.6-2
 modemmanager-qt 5.109.0-1
-mongodb-compass 1.39.1-1
+mongodb-compass 1.39.2-1
 mtdev 1.1.6-2
 mtools 1:4.0.43-1
 mtpfs 1.1-4
@@ -775,13 +775,13 @@ taglib 1.13.1-1
 talloc 2.4.1-1
 tcl 8.6.13-1
 tdb 1.4.9-1
-telegram-desktop 4.9.1-1
+telegram-desktop 4.9.3-1
 tevent 1:0.15.0-1
 texinfo 7.0.3-1
 thin-provisioning-tools 1.0.6-1
 threadweaver 5.109.0-1
 tidy 5.8.0-2
-tk 8.6.13-1
+tk 8.6.13-2
 tmux 3.3_a-7
 tracker3 3.5.3-2
 tslib 1.22-1
