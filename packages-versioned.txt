@@ -249,7 +249,7 @@ kmenuedit 5.27.7-1
 knewstuff 5.109.0-1
 knotifications 5.109.0-1
 knotifyconfig 5.109.0-1
-konsole 23.08.0-1
+konsole 23.08.0-2
 kpackage 5.109.0-1
 kparts 5.109.0-1
 kpeople 5.109.0-1
@@ -263,7 +263,7 @@ ksshaskpass 5.27.7-1
 ksystemstats 5.27.7-1
 ktexteditor 5.109.0-1
 ktextwidgets 5.109.0-1
-kubectl 1.27.4-1
+kubectl 1.28.1-1
 kunitconversion 5.109.0-1
 kuserfeedback 1.2.0-1
 kvantum 1.0.10-1
@@ -503,7 +503,7 @@ networkmanager-qt 5.109.0-1
 node-gyp 9.4.0-1
 nodejs 20.5.1-1
 nodejs-nopt 7.2.0-1
-noto-fonts 1:23.8.1-1
+noto-fonts 1:23.9.1-1
 noto-fonts-cjk 20230817-1
 noto-fonts-emoji-blob 1:15.0-1
 npm 9.8.1-1
@@ -675,7 +675,7 @@ qt6-wayland 6.5.2-2
 raptor 2.0.16-3
 rar 6.23.0-1
 rav1e 0.6.6-1
-re2 1:20230801-1
+re2 1:20230901-1
 recode 3.7.14-1
 redis 7.0.12-1
 reflector 2023-1
