@@ -25,7 +25,7 @@ atkmm 2.28.3-1
 attica 5.109.0-1
 autoconf 2.71-4
 automake 1.16.5-2
-avahi 1:0.8+r22+gfd482a7-1
+avahi 1:0.8+r127+g55d783d-1
 awesome-terminal-fonts 1.1.0-4
 azcopy 10.20.1-1
 azure-functions-core-tools-bin 4.0.5198-1
@@ -193,7 +193,7 @@ jasper 4.0.0-1
 jbig2dec 0.19-1
 jemalloc 1:5.3.0-2
 jmtpfs 0.5-3
-jq 1.6-4
+jq 1.7-1
 json-glib 1.6.6-2
 junction 1.6-2
 jxrlib 0.2.4-2
@@ -301,7 +301,7 @@ libbsd 0.11.7-1
 libbytesize 2.8-2
 libcanberra 1:0.30+r2+gc0620e4-3
 libcbor 0.10.2-1
-libcloudproviders 0.3.3-1
+libcloudproviders 0.3.4-1
 libcolord 1.4.6-1
 libcups 1:2.4.6-1
 libcurl-gnutls 8.2.1-1
@@ -518,7 +518,7 @@ openal 1.23.1-1
 opencore-amr 0.1.6-1
 openexr 3.2.0-2
 openjpeg2 2.5.0-3
-openmpi 4.1.5-4
+openmpi 4.1.5-5
 openpmix 4.2.5-1
 openssh 9.4p1-3
 opus 1.4-1
@@ -762,7 +762,7 @@ speexdsp 1.2.1-1
 spirv-tools 2022.4-1
 spotify 1:1.2.18.999-1
 sratom 0.6.14-1
-srt 1.5.2-1
+srt 1.5.3-1
 startup-notification 0.12-8
 step-cli 0.24.4-1
 sudo 1.9.14.p3-1
