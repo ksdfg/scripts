@@ -88,7 +88,7 @@ docker 1:24.0.5-1
 docker-buildx 0.11.2-1
 docker-compose 2.20.3-1
 dolphin 23.08.0-1
-dos2unix 7.5.0-1
+dos2unix 7.5.1-1
 dosfstools 4.2-3
 double-conversion 3.3.0-1
 downgrade 11.3.0-1
@@ -137,7 +137,7 @@ gettext 0.22-1
 ghostscript 10.01.2-1
 giflib 5.2.1-2
 git 2.42.0-1
-github-cli 2.33.0-1
+github-cli 2.34.0-1
 glib-networking 1:2.76.1-1
 glib2-docs 2.76.5-1
 glibmm 2.66.6-1
@@ -398,7 +398,7 @@ libstemmer 2.2.0-2
 libtar 1.2.20-6
 libthai 0.1.29-3
 libtheora 1.1.1-6
-libtiff 4.5.1-2
+libtiff 4.6.0rc1-1
 libtommath 1.2.0-4
 libtool 2.4.7+4+g1ec8fa28-6
 libtorrent-rasterbar 1:2.0.9-2
@@ -677,7 +677,7 @@ rar 6.23.0-1
 rav1e 0.6.6-1
 re2 1:20230901-1
 recode 3.7.14-1
-redis 7.0.12-1
+redis 7.2.1-1
 reflector 2023-1
 rest 0.8.1+r4+ge5ee6ef-1
 ripgrep 13.0.0-3
@@ -760,7 +760,7 @@ spectacle 23.08.0-1
 speex 1.2.1-1
 speexdsp 1.2.1-1
 spirv-tools 2022.4-1
-spotify 1:1.2.18.999-1
+spotify 1:1.2.20.1210-1
 sratom 0.6.14-1
 srt 1.5.3-1
 startup-notification 0.12-8
@@ -801,7 +801,7 @@ v4l-utils 1.24.1-2
 v4l2loopback-dkms 0.12.7-2
 vala 0.56.13-1
 vid.stab 1.1.1-1
-visual-studio-code-bin 1.81.1-1
+visual-studio-code-bin 1.82.0-1
 vlc 3.0.18-15
 vmaf 2.3.1-1
 volume_key 0.3.12-8
@@ -840,7 +840,7 @@ xfsprogs 6.4.0-1
 xkeyboard-config 2.39-1
 xorg-bdftopcf 1.1.1-1
 xorg-docs 1.7.2-2
-xorg-font-util 1.4.0-1
+xorg-font-util 1.4.1-1
 xorg-fonts-100dpi 1.0.4-2
 xorg-fonts-75dpi 1.0.4-1
 xorg-fonts-alias-100dpi 1.0.5-1
