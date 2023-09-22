@@ -1,5 +1,5 @@
 a52dec 0.8.0-2
-abseil-cpp 20230125.3-3
+abseil-cpp 20230802.1-1
 accounts-qml-module 0.7-4
 accountsservice 23.13.9-1
 adobe-source-code-pro-fonts 2.042u+1.062i+1.026vf-1
@@ -20,7 +20,7 @@ aria2 1.36.0-1
 aribb24 1.0.3-3
 ark 23.08.1-1
 asar 3.2.4-1
-at-spi2-core 2.48.4-1
+at-spi2-core 2.50.0-1
 atkmm 2.28.3-1
 attica 5.110.0-1
 autoconf 2.71-4
@@ -34,7 +34,7 @@ baloo-widgets 23.08.1-1
 base 3-1
 base-devel 1-1
 bat 0.23.0-3
-bind 9.18.18-1
+bind 9.18.19-1
 binutils 2.41-3
 bison 3.8.2-6
 blas 3.11.0-2
@@ -138,7 +138,7 @@ ghostscript 10.02.0-1
 giflib 5.2.1-2
 git 2.42.0-1
 github-cli 2.35.0-1
-glib-networking 1:2.76.1-1
+glib-networking 1:2.78.0-1
 glib2-docs 2.78.0-2
 glibmm 2.66.6-1
 glslang 13.0.0-1
@@ -160,18 +160,18 @@ grub 2:2.12rc1-1
 gsettings-desktop-schemas 44.0-1
 gsfonts 20200910-3
 gsm 1.0.22-1
-gst-plugins-base 1.22.5-2
-gst-plugins-base-libs 1.22.5-2
-gstreamer 1.22.5-2
+gst-plugins-base 1.22.6-1
+gst-plugins-base-libs 1.22.6-1
+gstreamer 1.22.6-1
 gtk-doc 1.33.2-3
-gtk-update-icon-cache 1:4.12.1-1
+gtk-update-icon-cache 1:4.12.2-1
 gtk2 2.24.33-3
 gtk3 1:3.24.38-1
 gtkmm3 3.24.8-1
 gts 0.7.6.121130-2
 gzip 1.13-2
-harfbuzz 8.2.0-1
-harfbuzz-icu 8.2.0-1
+harfbuzz 8.2.1-1
+harfbuzz-icu 8.2.1-1
 helm 3.12.0-1
 heroku-cli 8.1.9-1
 hicolor-icon-theme 0.17-3
@@ -191,7 +191,7 @@ iso-codes 4.15.0-1
 jack2 1.9.22-1
 jasper 4.0.0-1
 jbig2dec 0.19-1
-jemalloc 1:5.3.0-2
+jemalloc 1:5.3.0-3
 jmtpfs 0.5-3
 jq 1.7-1
 json-glib 1.8.0-1
@@ -295,7 +295,7 @@ libatasmart 0.19-6
 libavc1394 0.5.4-6
 libavif 1.0.1-1
 libb2 0.98.1-2
-libblockdev 2.28-4
+libblockdev 3.0.3-4
 libbluray 1.3.4-1
 libbsd 0.11.7-1
 libbytesize 2.8-2
@@ -303,7 +303,7 @@ libcanberra 1:0.30+r2+gc0620e4-3
 libcbor 0.10.2-1
 libcloudproviders 0.3.4-1
 libcolord 1.4.6-1
-libcups 1:2.4.6-1
+libcups 1:2.4.7-1
 libcurl-gnutls 8.3.0-1
 libdatrie 0.2.13-4
 libdbusmenu-glib 16.04.0.r498-1
@@ -390,7 +390,7 @@ libsm 1.2.4-1
 libsmbios 2.4.3-6
 libsndfile 1.2.2-1
 libsoup 2.74.3-1
-libsoup3 3.4.2-1
+libsoup3 3.4.3-1
 libsoxr 0.1.3-3
 libspectre 0.2.12-1
 libssh 0.10.5-1
@@ -455,9 +455,9 @@ libyaml 0.2.5-2
 libyuv r2322+3aebf69d-1
 libzip 1.10.1-1
 lilv 0.24.20-2
-linux 6.5.3.arch1-1
+linux 6.5.4.arch2-1
 linux-firmware 20230804.7be2766d-2
-linux-headers 6.5.3.arch1-1
+linux-headers 6.5.4.arch2-1
 llvm-libs 16.0.6-1
 lm_sensors 1:3.6.0.r41.g31d1f125-2
 lmdb 0.9.30-3
@@ -465,7 +465,7 @@ lolcat 100.0.1-1
 lsd 1.0.0-1
 lsof 4.98.0-1
 lua 5.4.6-2
-lua52 5.2.4-5
+lua52 5.2.4-6
 luit 20230201-1
 lv2 1.18.10-1
 lvm2 2.03.22-2
@@ -482,7 +482,7 @@ mariadb-libs 11.1.2-1
 md4c 0.4.8-1
 mdadm 4.2-2
 media-player-info 24-2
-mesa 1:23.1.7-1
+mesa 1:23.1.8-1
 mesa-utils 9.0.0-2
 milou 5.27.8-1
 minikube 1.31.2-1
@@ -508,7 +508,7 @@ noto-fonts-cjk 20230817-1
 noto-fonts-emoji-blob 1:15.0-1
 npm 10.1.0-1
 ntfs-3g 2022.10.3-1
-nvidia 535.104.05-6
+nvidia 535.104.05-7
 obs-backgroundremoval 0.5.17-1
 obs-studio 29.1.3-1
 okular 23.08.1-1
@@ -583,8 +583,8 @@ postman-bin 10.17.4-1
 powerdevil 5.27.8-1
 ppp 2.5.0-1
 prison 5.110.0-1
-protobuf 24.2-1
-protobuf-c 1.4.1-3
+protobuf 24.2-2
+protobuf-c 1.4.1-4
 protonvpn-cli 3.13.0-2
 pulseaudio 16.1-6
 pulseaudio-bluetooth 16.1-6
@@ -618,7 +618,7 @@ python-markdown 3.4.4-1
 python-more-itertools 10.1.0-1
 python-msgpack 1.0.5-1
 python-nspektr 0.4.0-3
-python-numpy 1.25.2-1
+python-numpy 1.26.0-1
 python-ordered-set 4.1.0-4
 python-packaging 23.1-1
 python-pip 23.2.1-1
@@ -628,7 +628,7 @@ python-pycparser 2.21-5
 python-pydantic 2.3.0-1
 python-pygments 2.16.1-1
 python-pyopenssl 23.2.0-1
-python-pyparsing 3.0.9-3
+python-pyparsing 3.1.1-1
 python-requests 2.28.2-4
 python-resolvelib 1.0.1-1
 python-rich 13.5.3-1
@@ -636,7 +636,7 @@ python-setuptools 1:68.0.0-1
 python-six 1.16.0-8
 python-tenacity 8.2.3-1
 python-tomli 2.0.1-3
-python-trove-classifiers 2023.8.7-1
+python-trove-classifiers 2023.9.19-1
 python-typing_extensions 4.8.0-1
 python-urllib3 1.26.15-1
 python-validate-pyproject 0.13-1
@@ -647,7 +647,7 @@ qbittorrent 4.5.5-1
 qca-qt5 2.3.7-1
 qqc2-desktop-style 5.110.0-1
 qrencode 4.1.1-2
-qt5-base 5.15.10+kde+r155-1
+qt5-base 5.15.10+kde+r158-1
 qt5-declarative 5.15.10+kde+r31-1
 qt5-graphicaleffects 5.15.10-1
 qt5-imageformats 5.15.10+kde+r9-2
@@ -661,7 +661,7 @@ qt5-styleplugins 5.0.0.20170311-35
 qt5-svg 5.15.10+kde+r8-1
 qt5-tools 5.15.10+kde+r3-2
 qt5-translations 5.15.10-1
-qt5-wayland 5.15.10+kde+r57-1
+qt5-wayland 5.15.10+kde+r58-1
 qt5-webchannel 5.15.10+kde+r3-1
 qt5-webengine 5.15.15-1
 qt5-x11extras 5.15.10-1
@@ -675,7 +675,7 @@ qt6-wayland 6.5.2-2
 raptor 2.0.16-3
 rar 6.23.0-1
 rav1e 0.6.6-1
-re2 1:20230901-1
+re2 1:20230901-2
 recode 3.7.14-1
 redis 7.2.1-1
 reflector 2023-1
@@ -730,7 +730,7 @@ ruby-uri 0.12.1-1
 rubygems 3.3.25-1
 run-parts 5.5-1
 runc 1.1.9-1
-rust 1:1.72.0-1
+rust 1:1.72.1-1
 sbc 2.0-1
 sddm 0.20.0-2
 sddm-kcm 5.27.8-1
@@ -775,7 +775,7 @@ taglib 1.13.1-1
 talloc 2.4.1-1
 tcl 8.6.13-1
 tdb 1.4.9-1
-telegram-desktop 4.9.9-1
+telegram-desktop 4.9.9-2
 tevent 1:0.15.0-1
 texinfo 7.0.3-1
 thin-provisioning-tools 1.0.6-1
@@ -783,7 +783,7 @@ threadweaver 5.110.0-1
 tidy 5.8.0-2
 tk 8.6.13-2
 tmux 3.3_a-7
-tracker3 3.5.3-2
+tracker3 3.6.0-1
 tslib 1.22-1
 ttf-arphic-uming 0.2.20080216.2-2
 ttf-hack 3.003-6
@@ -792,7 +792,7 @@ ttf-jetbrains-mono 2.304-1
 ttf-meslo-nerd-font-powerlevel10k 2.3.3-1
 ttf-opensans 1.101-2
 ttf-roboto 2.138-4
-udisks2 2.9.4-4
+udisks2 2.10.1-1
 unzip 6.0-19
 upower 1.90.2-1
 usbmuxd 1.1.1-3
@@ -802,7 +802,7 @@ v4l2loopback-dkms 0.12.7-2
 vala 0.56.13-1
 vid.stab 1.1.1-1
 visual-studio-code-bin 1.82.2-1
-vlc 3.0.18-15
+vlc 3.0.18-16
 vmaf 2.3.1-1
 volume_key 0.3.12-8
 vulkan-headers 1:1.3.264-2
@@ -811,7 +811,7 @@ vulkan-tools 1.3.263-1
 wayland 1.22.0-1
 wayland-protocols 1.32-1
 wayland-utils 1.2.0-1
-webkit2gtk 2.40.5-2
+webkit2gtk 2.42.0-1
 webrtc-audio-processing 0.3.1-4
 webstorm 2023.2.2-1
 webstorm-jre 2023.2.2-1
@@ -885,7 +885,7 @@ xorg-xrefresh 1.0.7-1
 xorg-xset 1.2.5-1
 xorg-xsetroot 1.1.3-1
 xorg-xvinfo 1.1.5-1
-xorg-xwayland 23.2.0-1
+xorg-xwayland 23.2.1-1
 xorg-xwd 1.0.9-1
 xorg-xwininfo 1.1.6-1
 xorg-xwud 1.0.6-1
