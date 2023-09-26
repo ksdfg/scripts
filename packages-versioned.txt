@@ -28,7 +28,7 @@ automake 1.16.5-2
 avahi 1:0.8+r127+g55d783d-1
 awesome-terminal-fonts 1.1.0-4
 azcopy 10.20.1-1
-azure-functions-core-tools-bin 4.0.5198-1
+azure-functions-core-tools-bin 4.0.5348-1
 baloo 5.110.0-1
 baloo-widgets 23.08.1-1
 base 3-1
@@ -107,7 +107,7 @@ fftw 3.3.10-4
 figlet 2.2.5-5
 file 5.45-1
 findutils 4.9.0-3
-firefox 117.0.1-1
+firefox 118.0-1
 firefox-profile-switcher-connector 0.1.1-1
 flac 1.4.3-1
 flashplugin 32.0.0.465-1
@@ -133,7 +133,7 @@ gdb 13.2-1
 gdb-common 13.2-1
 gdk-pixbuf2 2.42.10-2
 geckodriver 0.33.0-1
-gettext 0.22-1
+gettext 0.22.2-1
 ghostscript 10.02.0-1
 giflib 5.2.1-2
 git 2.42.0-1
@@ -183,7 +183,7 @@ hwloc 2.9.1-1
 hyphen 2.8.8-5
 icu67 67.1-1
 ijs 0.35-5
-imagemagick 7.1.1.17-1
+imagemagick 7.1.1.18-1
 imath 3.1.9-2
 imv 4.4.0-2
 iniparser 4.1-4
@@ -501,14 +501,14 @@ netpbm 10.73.43-2
 networkmanager 1.44.0-1
 networkmanager-qt 5.110.0-1
 node-gyp 9.4.0-1
-nodejs 20.6.1-1
+nodejs 20.7.0-1
 nodejs-nopt 7.2.0-1
 noto-fonts 1:23.9.1-1
 noto-fonts-cjk 20230817-1
 noto-fonts-emoji-blob 1:15.0-1
 npm 10.1.0-1
 ntfs-3g 2022.10.3-1
-nvidia 535.104.05-7
+nvidia 535.113.01-1
 obs-backgroundremoval 0.5.17-1
 obs-studio 29.1.3-1
 okular 23.08.1-1
@@ -531,7 +531,7 @@ pacman-contrib 1.9.1-1
 pahole 1:1.25-4
 pango 1:1.50.14-1
 pangomm 2.46.3-1
-parallel 20230822-1
+parallel 20230922-1
 parted 3.6-1
 patch 2.7.6-10
 pavucontrol 1:5.0+r64+geba9ca6-1
@@ -545,7 +545,7 @@ perl-http-date 6.06-1
 perl-http-message 6.44-2
 perl-http-negotiate 6.01-12
 perl-io-html 1.004-4
-perl-libwww 6.67-2
+perl-libwww 6.72-1
 perl-lwp-mediatypes 6.04-4
 perl-net-http 6.23-2
 perl-try-tiny 0.31-3
@@ -579,7 +579,7 @@ poppler 23.08.0-1
 poppler-qt5 23.08.0-1
 postgresql 15.4-2
 postgresql-libs 15.4-2
-postman-bin 10.17.4-1
+postman-bin 10.18.6-1
 powerdevil 5.27.8-1
 ppp 2.5.0-1
 prison 5.110.0-1
@@ -651,7 +651,7 @@ qt5-base 5.15.10+kde+r158-1
 qt5-declarative 5.15.10+kde+r31-1
 qt5-graphicaleffects 5.15.10-1
 qt5-imageformats 5.15.10+kde+r9-2
-qt5-location 5.15.10+kde+r4-2
+qt5-location 5.15.10+kde+r5-1
 qt5-multimedia 5.15.10+kde+r3-1
 qt5-quickcontrols 5.15.10-1
 qt5-quickcontrols2 5.15.10+kde+r6-1
@@ -682,7 +682,7 @@ reflector 2023-1
 rest 0.8.1+r4+ge5ee6ef-1
 ripgrep 13.0.0-3
 rnnoise 0.4.1-1
-rsync 3.2.7-4
+rsync 3.2.7-6
 rtkit 0.13-2
 ruby 3.0.6-1
 ruby-abbrev 0.1.0-4
@@ -775,7 +775,7 @@ taglib 1.13.1-1
 talloc 2.4.1-1
 tcl 8.6.13-1
 tdb 1.4.9-1
-telegram-desktop 4.9.9-2
+telegram-desktop 4.10.1-1
 tevent 1:0.15.0-1
 texinfo 7.0.3-1
 thin-provisioning-tools 1.0.6-1
