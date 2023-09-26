@@ -28,7 +28,6 @@ automake
 avahi
 awesome-terminal-fonts
 azcopy
-azure-functions-core-tools-bin
 baloo
 baloo-widgets
 base
