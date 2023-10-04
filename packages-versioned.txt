@@ -47,7 +47,7 @@ breeze 5.27.8-2
 breeze-gtk 5.27.8-1
 breeze-icons 5.110.0-1
 bridge-utils 1.7.1-1
-btrfs-progs 6.5.1-1
+btrfs-progs 6.5.2-1
 bubblewrap 0.8.0-1
 c-ares 1.19.1-1
 cairo 1.18.0-1
@@ -578,7 +578,7 @@ poppler 23.08.0-1
 poppler-qt5 23.08.0-1
 postgresql 15.4-2
 postgresql-libs 15.4-2
-postman-bin 10.18.7-2
+postman-bin 10.18.10-1
 powerdevil 5.27.8-2
 ppp 2.5.0-1
 prison5 5.110.0-1
