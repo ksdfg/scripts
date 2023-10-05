@@ -560,7 +560,7 @@ plasma-browser-integration
 plasma-desktop
 plasma-disks
 plasma-firewall
-plasma-framework
+plasma-framework5
 plasma-integration
 plasma-meta
 plasma-nm
