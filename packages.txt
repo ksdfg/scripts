@@ -64,8 +64,6 @@ containerd
 convertlit
 ctemplate
 cython
-datagrip
-datagrip-jre
 dav1d
 dbus-glib
 dconf
@@ -488,7 +486,6 @@ minikube
 minizip
 modemmanager
 modemmanager-qt5
-mongodb-compass
 mtdev
 mtools
 mtpfs
