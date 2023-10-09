@@ -143,7 +143,7 @@ glu 9.0.3-1
 gnome-keyring 1:42.1-3
 gnome-online-accounts 3.48.0-2
 gnu-free-fonts 20120503-8
-go 2:1.21.1-1
+go 2:1.21.2-1
 gobject-introspection-runtime 1.78.1-1
 goland 2023.2.2-1
 goland-jre 2023.2.2-1
@@ -180,7 +180,7 @@ hwloc 2.9.1-1
 hyphen 2.8.8-5
 icu67 67.1-1
 ijs 0.35-5
-imagemagick 7.1.1.19-1
+imagemagick 7.1.1.20-1
 imath 3.1.9-2
 imv 4.4.0-2
 iniparser 4.1-4
@@ -486,7 +486,7 @@ minikube 1.31.2-1
 minizip 1:1.3-1
 modemmanager 1.20.6-2
 modemmanager-qt5 5.110.0-1
-mongodb-compass 1.40.2-1
+mongodb-compass 1.39.4-1
 mtdev 1.1.6-2
 mtools 1:4.0.43-1
 mtpfs 1.1-4
@@ -611,7 +611,7 @@ python-jaraco.context 4.3.0-3
 python-jaraco.functools 3.9.0-1
 python-jaraco.text 3.11.1-3
 python-lxml 4.9.2-3
-python-markdown 3.4.4-1
+python-markdown 3.5-1
 python-more-itertools 10.1.0-1
 python-msgpack 1.0.5-1
 python-nspektr 0.4.0-3
