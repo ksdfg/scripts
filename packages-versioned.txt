@@ -15,7 +15,7 @@ appstream 0.16.3-1
 appstream-glib 0.8.2-3
 appstream-qt 0.16.3-1
 archlinux-appstream-data 20231010-1
-archlinux-keyring 20230918-1
+archlinux-keyring 20231011-1
 aria2 1.36.0-1
 aribb24 1.0.3-3
 ark 23.08.1-1
@@ -98,8 +98,8 @@ enchant 2.6.0-1
 exiv2 0.28.0-3
 faad2 2.10.1-1
 fakeroot 1.32.1-1
-ffmpeg 2:6.0-12
-ffmpeg4.4 4.4.4-2
+ffmpeg 2:6.0-13
+ffmpeg4.4 4.4.4-3
 fftw 3.3.10-4
 figlet 2.2.5-5
 file 5.45-1
@@ -143,7 +143,7 @@ glu 9.0.3-1
 gnome-keyring 1:42.1-3
 gnome-online-accounts 3.48.0-2
 gnu-free-fonts 20120503-8
-go 2:1.21.2-1
+go 2:1.21.3-1
 gobject-introspection-runtime 1.78.1-1
 goland 2023.2.2-1
 goland-jre 2023.2.2-1
@@ -290,7 +290,7 @@ libass 0.17.1-1
 libasyncns 1:0.8+r3+g68cd5af-2
 libatasmart 0.19-6
 libavc1394 0.5.4-6
-libavif 1.0.1-2
+libavif 1.0.1-3
 libb2 0.98.1-2
 libblockdev 3.0.3-4
 libbluray 1.3.4-1
@@ -301,7 +301,7 @@ libcbor 0.10.2-1
 libcloudproviders 0.3.4-1
 libcolord 1.4.6-1
 libcups 1:2.4.7-2
-libcurl-gnutls 8.3.0-1
+libcurl-gnutls 8.4.0-1
 libdatrie 0.2.13-4
 libdbusmenu-glib 16.04.0.r498-2
 libdbusmenu-gtk3 16.04.0.r498-2
@@ -329,7 +329,7 @@ libglvnd 1.7.0-1
 libgphoto2 2.5.31-1
 libgudev 238-1
 libgusb 0.4.7-1
-libheif 1.16.2-2
+libheif 1.16.2-3
 libibus 1.5.28-4
 libical 3.0.16-5
 libice 1.1.1-2
@@ -588,7 +588,7 @@ pulseaudio-bluetooth 16.1-6
 purpose5 5.110.0-1
 pycharm-professional 2023.2.2-1
 python 3.11.5-2
-python-anytree 2.9.0-1
+python-anytree 2.9.2-1
 python-appdirs 1.4.4-9
 python-autocommand 2.2.2-4
 python-cachecontrol 1:0.13.1-1
@@ -644,7 +644,7 @@ qbittorrent 4.5.5-1
 qca-qt5 2.3.7-2
 qqc2-desktop-style5 5.110.0-1
 qrencode 4.1.1-2
-qt5-base 5.15.11+kde+r134-1
+qt5-base 5.15.11+kde+r136-1
 qt5-declarative 5.15.11+kde+r30-1
 qt5-graphicaleffects 5.15.11-1
 qt5-imageformats 5.15.11+kde+r12-1
@@ -671,7 +671,7 @@ qt6-translations 6.5.3-1
 qt6-wayland 6.5.3-1
 raptor 2.0.16-3
 rar 6.24.0-1
-rav1e 0.6.6-1
+rav1e 0.6.6-3
 re2 1:20230901-2
 recode 3.7.14-1
 redis 7.2.1-1
