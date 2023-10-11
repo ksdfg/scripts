@@ -744,7 +744,7 @@ signon-ui 0.17+20171022-3
 signond 8.61-1
 slack-desktop 4.34.121-1
 smartmontools 7.4-1
-smbclient 4.19.0-1
+smbclient 4.19.1-1
 snappy 1.1.9-2
 socat 1.7.4.4-1
 solid5 5.110.0-1
