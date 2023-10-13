@@ -292,7 +292,7 @@ libatasmart 0.19-6
 libavc1394 0.5.4-6
 libavif 1.0.1-3
 libb2 0.98.1-2
-libblockdev 3.0.3-4
+libblockdev 3.0.4-1
 libbluray 1.3.4-1
 libbsd 0.11.7-1
 libbytesize 2.8-2
@@ -301,7 +301,7 @@ libcbor 0.10.2-1
 libcloudproviders 0.3.4-1
 libcolord 1.4.6-1
 libcups 1:2.4.7-2
-libcurl-gnutls 8.4.0-1
+libcurl-gnutls 8.4.0-2
 libdatrie 0.2.13-4
 libdbusmenu-glib 16.04.0.r498-2
 libdbusmenu-gtk3 16.04.0.r498-2
@@ -486,7 +486,7 @@ minikube 1.31.2-1
 minizip 1:1.3-1
 modemmanager 1.20.6-2
 modemmanager-qt5 5.110.0-1
-mongodb-compass 1.39.4-1
+mongodb-compass 1.40.3-1
 mtdev 1.1.6-2
 mtools 1:4.0.43-1
 mtpfs 1.1-4
@@ -619,7 +619,7 @@ python-numpy 1.26.0-3
 python-ordered-set 4.1.0-4
 python-packaging 23.1-1
 python-pip 23.2.1-1
-python-platformdirs 3.10.0-1
+python-platformdirs 3.11.0-1
 python-ply 3.11-12
 python-pycparser 2.21-5
 python-pydantic 2.3.0-1
