@@ -615,7 +615,7 @@ python-markdown 3.5-1
 python-more-itertools 10.1.0-1
 python-msgpack 1.0.5-1
 python-nspektr 0.4.0-3
-python-numpy 1.26.0-3
+python-numpy 1.26.1-1
 python-ordered-set 4.1.0-4
 python-packaging 23.1-1
 python-pip 23.2.1-1
