@@ -94,7 +94,7 @@ duktape 2.7.0-6
 ebook-tools 0.2.2-7
 editorconfig-core-c 0.12.6-1
 efibootmgr 18-2
-enchant 2.6.0-1
+enchant 2.6.1-1
 exiv2 0.28.0-3
 faad2 2.10.1-1
 fakeroot 1.32.1-1
@@ -134,7 +134,7 @@ gettext 0.22.3-1
 ghostscript 10.02.0-2
 giflib 5.2.1-2
 git 2.42.0-1
-github-cli 2.36.0-1
+github-cli 2.37.0-1
 glib-networking 1:2.78.0-1
 glib2-docs 2.78.0-3
 glibmm 2.66.6-1
@@ -329,7 +329,7 @@ libglvnd 1.7.0-1
 libgphoto2 2.5.31-1
 libgudev 238-1
 libgusb 0.4.7-1
-libheif 1.16.2-3
+libheif 1.17.0-1
 libibus 1.5.28-4
 libical 3.0.17-1
 libice 1.1.1-2
@@ -744,7 +744,7 @@ signon-ui 0.17+20171022-3
 signond 8.61-1
 slack-desktop 4.34.121-1
 smartmontools 7.4-1
-smbclient 4.19.1-1
+smbclient 4.19.2-1
 snappy 1.1.9-2
 socat 1.7.4.4-1
 solid5 5.110.0-1
