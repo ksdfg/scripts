@@ -70,7 +70,7 @@ dconf 0.40.0-2
 desktop-file-utils 0.27-1
 desmume 0.9.13-1
 devilspie 0.23-4
-dhcpcd 10.0.3-1
+dhcpcd 10.0.4-1
 direnv 2.32.3-1
 discount 3.0.0.a-1
 discover 5.27.8-2
@@ -180,7 +180,7 @@ hwloc 2.9.1-1
 hyphen 2.8.8-5
 icu67 67.1-1
 ijs 0.35-5
-imagemagick 7.1.1.20-1
+imagemagick 7.1.1.21-1
 imath 3.1.9-2
 imv 4.4.0-2
 iniparser 4.1-4
@@ -260,7 +260,7 @@ ksshaskpass 5.27.8-2
 ksystemstats 5.27.8-2
 ktexteditor5 5.111.0-1
 ktextwidgets5 5.111.0-1
-kubectl 1.28.2-1
+kubectl 1.28.3-1
 kunitconversion5 5.111.0-1
 kuserfeedback 1.2.0-1
 kvantum 1.0.10-2
@@ -580,7 +580,7 @@ postman-bin 10.18.10-1
 powerdevil 5.27.8-2
 ppp 2.5.0-1
 prison5 5.111.0-1
-protobuf 24.3-1
+protobuf 24.4-1
 protobuf-c 1.4.1-4
 protonvpn-cli 3.13.0-2
 pulseaudio 16.1-6
@@ -618,7 +618,7 @@ python-nspektr 0.4.0-3
 python-numpy 1.26.1-1
 python-ordered-set 4.1.0-4
 python-packaging 23.1-1
-python-pip 23.3-1
+python-pip 23.3.1-1
 python-platformdirs 3.11.0-1
 python-ply 3.11-12
 python-pycparser 2.21-5
