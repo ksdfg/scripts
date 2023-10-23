@@ -359,7 +359,7 @@ libmodplug 0.8.9.0-5
 libmpcdec 1:0.1+r475-4
 libmpeg2 0.5.1-8
 libmtp 1.1.21-1
-libnautilus-extension 45.0-1
+libnautilus-extension 45.1-1
 libnotify 0.8.3-1
 libnsgif 0.2.1-8
 libnsl 2.0.0-3
@@ -640,7 +640,7 @@ python-validate-pyproject 0.13-1
 python-webencodings 0.5.1-10
 python-xlib 0.33-2
 python-zipp 3.17.0-1
-qbittorrent 4.5.5-1
+qbittorrent 4.6.0-1
 qca-qt5 2.3.7-2
 qqc2-desktop-style5 5.111.0-1
 qrencode 4.1.1-2
