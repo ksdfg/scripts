@@ -47,7 +47,7 @@ breeze 5.27.8-2
 breeze-gtk 5.27.8-1
 breeze-icons 5.111.0-1
 bridge-utils 1.7.1-1
-btrfs-progs 6.5.2-2
+btrfs-progs 6.5.3-1
 bubblewrap 0.8.0-1
 c-ares 1.20.1-1
 cairo 1.18.0-1
@@ -329,7 +329,7 @@ libglvnd 1.7.0-1
 libgphoto2 2.5.31-1
 libgudev 238-1
 libgusb 0.4.7-1
-libheif 1.17.0-1
+libheif 1.17.1-1
 libibus 1.5.28-4
 libical 3.0.17-1
 libice 1.1.1-2
@@ -645,7 +645,7 @@ qca-qt5 2.3.7-2
 qqc2-desktop-style5 5.111.0-1
 qrencode 4.1.1-2
 qt5-base 5.15.11+kde+r138-1
-qt5-declarative 5.15.11+kde+r30-1
+qt5-declarative 5.15.11+kde+r31-1
 qt5-graphicaleffects 5.15.11-1
 qt5-imageformats 5.15.11+kde+r12-1
 qt5-location 5.15.11+kde+r5-1
