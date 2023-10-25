@@ -523,6 +523,7 @@ orc
 os-prober
 oxygen
 oxygen-sounds
+p7zip
 pacman
 pacman-contrib
 pahole
