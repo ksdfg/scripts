@@ -27,7 +27,6 @@ autoconf
 automake
 avahi
 awesome-terminal-fonts
-azcopy
 baloo-widgets
 baloo5
 base

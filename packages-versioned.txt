@@ -27,7 +27,6 @@ autoconf 2.71-4
 automake 1.16.5-2
 avahi 1:0.8+r139+ge5b0bad-1
 awesome-terminal-fonts 1.1.0-4
-azcopy 10.20.1-1
 baloo-widgets 23.08.2-1
 baloo5 5.111.0-1
 base 3-2
@@ -161,7 +160,7 @@ gst-plugins-base 1.22.6-1
 gst-plugins-base-libs 1.22.6-1
 gstreamer 1.22.6-1
 gtk-doc 1.33.2-3
-gtk-update-icon-cache 1:4.12.3-1
+gtk-update-icon-cache 1:4.12.3-2
 gtk2 2.24.33-3
 gtk3 1:3.24.38-1
 gtkmm3 3.24.8-1
@@ -452,9 +451,9 @@ libyaml 0.2.5-2
 libyuv r2322+3aebf69d-1
 libzip 1.10.1-1
 lilv 0.24.20-2
-linux 6.5.8.arch1-1
+linux 6.5.9.arch2-1
 linux-firmware 20230804.7be2766d-2
-linux-headers 6.5.8.arch1-1
+linux-headers 6.5.9.arch2-1
 llvm-libs 16.0.6-1
 lm_sensors 1:3.6.0.r41.g31d1f125-2
 lmdb 0.9.30-3
@@ -483,7 +482,7 @@ mesa 1:23.2.1-2
 mesa-utils 9.0.0-3
 milou 5.27.9-1
 minikube 1.31.2-1
-minizip 1:1.3-1
+minizip 1:1.3-2
 modemmanager 1.22.0-1
 modemmanager-qt5 5.111.0-1
 mongodb-compass 1.40.4-1
@@ -505,7 +504,7 @@ noto-fonts-cjk 20230817-1
 noto-fonts-emoji-blob 1:15.0-1
 npm 10.2.1-1
 ntfs-3g 2022.10.3-1
-nvidia 535.113.01-6
+nvidia 535.113.01-8
 obs-backgroundremoval 1.1.7-1
 obs-studio 29.1.3-1
 okular 23.08.2-1
@@ -529,7 +528,7 @@ pacman-contrib 1.9.1-1
 pahole 1:1.25-4
 pango 1:1.51.1-1
 pangomm 2.46.3-1
-parallel 20230922-1
+parallel 20231022-1
 parted 3.6-1
 patch 2.7.6-10
 pavucontrol 1:5.0+r64+geba9ca6-1
@@ -811,8 +810,8 @@ wayland-protocols 1.32-1
 wayland-utils 1.2.0-1
 webkit2gtk 2.42.1-2
 webrtc-audio-processing 0.3.1-4
-webstorm 2023.2.3-1
-webstorm-jre 2023.2.3-1
+webstorm 2023.2.4-1
+webstorm-jre 2023.2.4-1
 wget 1.21.4-1
 which 2.21-6
 woff2 1.0.2-4
