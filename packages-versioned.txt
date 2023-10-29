@@ -59,7 +59,7 @@ cloudflared-bin 2023.8.2-1
 colord 1.4.6-1
 colord-kde 23.08.2-2
 confuse 3.3-3
-containerd 1.7.7-1
+containerd 1.7.8-1
 convertlit 1.8-11
 ctemplate 2.4-2
 cython 3.0.4-1
@@ -80,9 +80,9 @@ dnsmasq 2.89-1
 dnssec-anchors 20190629-3
 docbook-xml 4.5-9
 docbook-xsl 1.79.2-7
-docker 1:24.0.6-1
+docker 1:24.0.7-1
 docker-buildx 0.11.2-1
-docker-compose 2.22.0-1
+docker-compose 2.23.0-1
 dolphin 23.08.2-1
 dos2unix 7.5.1-1
 dosfstools 4.2-3
@@ -119,7 +119,7 @@ fribidi 1.0.13-2
 fuse3 3.16.2-1
 fwupd 1.9.6-1
 fwupd-efi 1.4-1
-fzf 0.42.0-1
+fzf 0.43.0-1
 gawk 5.2.2-1
 gcab 1.6-1
 gcc 13.2.1-3
@@ -496,7 +496,7 @@ net-tools 2.10-2
 netpbm 10.73.43-2
 networkmanager 1.44.2-3
 networkmanager-qt5 5.111.0-1
-node-gyp 9.4.0-1
+node-gyp 9.4.1-1
 nodejs 20.9.0-1
 nodejs-nopt 7.2.0-1
 noto-fonts 1:23.10.1-1
@@ -577,7 +577,7 @@ poppler-qt5 23.10.0-1
 postgresql 15.4-2
 postgresql-libs 15.4-2
 postman-bin 10.18.10-1
-powerdevil 5.27.9-1
+powerdevil 5.27.9-2
 ppp 2.5.0-1
 prison5 5.111.0-1
 protobuf 24.4-1
