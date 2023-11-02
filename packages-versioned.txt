@@ -742,7 +742,7 @@ signon-kwallet-extension 23.08.2-1
 signon-plugin-oauth2 0.25-1
 signon-ui 0.17+20171022-3
 signond 8.61-1
-slack-desktop 4.34.121-1
+slack-desktop 4.35.121-1
 smartmontools 7.4-1
 smbclient 4.19.2-1
 snappy 1.1.10-1
@@ -772,7 +772,7 @@ taglib 1.13.1-1
 talloc 2.4.1-1
 tcl 8.6.13-1
 tdb 1.4.9-1
-telegram-desktop 4.11.1-1
+telegram-desktop 4.11.2-1
 tevent 1:0.15.0-1
 texinfo 7.1-1
 thin-provisioning-tools 1.0.6-1
