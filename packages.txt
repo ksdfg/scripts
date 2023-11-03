@@ -261,7 +261,7 @@ ktexteditor5
 ktextwidgets5
 kubectl
 kunitconversion5
-kuserfeedback
+kuserfeedback5
 kvantum
 kwallet-pam
 kwallet5
@@ -372,7 +372,7 @@ libplist
 libpng
 libproxy
 libpulse
-libqaccessibilityclient
+libqaccessibilityclient-qt5
 libqalculate
 libqmi
 libqrtr-glib
