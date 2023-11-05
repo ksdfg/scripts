@@ -663,7 +663,7 @@ qt5-webchannel 5.15.11+kde+r3-1
 qt5-webengine 5.15.15-2
 qt5-x11extras 5.15.11-1
 qt6-5compat 6.6.0-1
-qt6-base 6.6.0-2
+qt6-base 6.6.0-3
 qt6-declarative 6.6.0-1
 qt6-imageformats 6.6.0-1
 qt6-svg 6.6.0-2
@@ -672,7 +672,7 @@ qt6-wayland 6.6.0-1
 raptor 2.0.16-3
 rar 6.24.0-1
 rav1e 0.6.6-3
-re2 1:20230901-2
+re2 1:20231101-1
 recode 3.7.14-1
 redis 7.2.3-1
 reflector 2023-1
@@ -775,7 +775,7 @@ tdb 1.4.9-1
 telegram-desktop 4.11.3-1
 tevent 1:0.15.0-1
 texinfo 7.1-1
-thin-provisioning-tools 1.0.6-1
+thin-provisioning-tools 1.0.7-1
 threadweaver5 5.111.0-1
 tidy 5.8.0-2
 tk 8.6.13-2
