@@ -497,7 +497,7 @@ netpbm 10.73.43-2
 networkmanager 1.44.2-3
 networkmanager-qt5 5.111.0-1
 node-gyp 10.0.1-1
-nodejs 20.9.0-1
+nodejs 21.1.0-1
 nodejs-nopt 7.2.0-1
 noto-fonts 1:23.11.1-1
 noto-fonts-cjk 20230817-1
