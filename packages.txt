@@ -486,6 +486,7 @@ minizip
 modemmanager
 modemmanager-qt5
 mongodb-compass
+mongodb-tools
 mtdev
 mtools
 mtpfs
