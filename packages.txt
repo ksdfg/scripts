@@ -219,7 +219,7 @@ kdelibs4support
 kdeplasma-addons
 kdesu5
 kdnssd5
-kdsoap
+kdsoap-qt5
 kdsoap-ws-discovery-client
 kemoticons
 kfilemetadata5
