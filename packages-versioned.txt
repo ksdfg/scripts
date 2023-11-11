@@ -18,7 +18,7 @@ archlinux-appstream-data 20231010-1
 archlinux-keyring 20231107-1
 aria2 1.36.0-1
 aribb24 1.0.3-3
-ark 23.08.2-2
+ark 23.08.3-1
 asar 3.2.4-1
 at-spi2-core 2.50.0-1
 atkmm 2.28.3-1
@@ -27,7 +27,7 @@ autoconf 2.71-4
 automake 1.16.5-2
 avahi 1:0.8+r139+ge5b0bad-1
 awesome-terminal-fonts 1.1.0-4
-baloo-widgets 23.08.2-1
+baloo-widgets 23.08.3-1
 baloo5 5.111.0-1
 base 3-2
 base-devel 1-1
@@ -57,7 +57,7 @@ cdparanoia 10.2-8
 cifs-utils 7.0-3
 cloudflared-bin 2023.10.0-1
 colord 1.4.6-1
-colord-kde 23.08.2-2
+colord-kde 23.08.3-1
 confuse 3.3-3
 containerd 1.7.8-1
 convertlit 1.8-11
@@ -83,7 +83,7 @@ docbook-xsl 1.79.2-7
 docker 1:24.0.7-1
 docker-buildx 0.11.2-1
 docker-compose 2.23.0-1
-dolphin 23.08.2-1
+dolphin 23.08.3-1
 dos2unix 7.5.1-1
 dosfstools 4.2-3
 double-conversion 3.3.0-1
@@ -194,7 +194,7 @@ json-glib 1.8.0-1
 junction 1.6-2
 jxrlib 0.2.4-2
 k9s 0.27.4-1
-kaccounts-integration 23.08.2-1
+kaccounts-integration 23.08.3-1
 kactivities-stats5 5.111.0-1
 kactivities5 5.111.0-1
 kactivitymanagerd 5.27.9-1
@@ -233,7 +233,7 @@ kiconthemes5 5.111.0-1
 kidletime5 5.111.0-1
 kimageannotator 0.6.1-1
 kinfocenter 5.27.9-1
-kio-extras 23.08.2-2
+kio-extras 23.08.3-1
 kio-fuse 5.0.1-2
 kio5 5.111.0-1
 kirigami2 5.111.0-1
@@ -245,7 +245,7 @@ kmenuedit 5.27.9-1
 knewstuff5 5.111.0-1
 knotifications5 5.111.0-1
 knotifyconfig5 5.111.0-1
-konsole 23.08.2-1
+konsole 23.08.3-1
 kpackage5 5.111.0-1
 kparts5 5.111.0-1
 kpeople5 5.111.0-1
@@ -261,11 +261,11 @@ ktexteditor5 5.111.0-1
 ktextwidgets5 5.111.0-1
 kubectl 1.28.3-1
 kunitconversion5 5.111.0-1
-kuserfeedback5 1.3.0-3
+kuserfeedback5 1.3.0-4
 kvantum 1.0.10-2
 kwallet-pam 5.27.9-1
 kwallet5 5.111.0-1
-kwalletmanager 23.08.2-1
+kwalletmanager 23.08.3-1
 kwayland-integration 5.27.9-1
 kwayland5 5.111.0-1
 kwidgetsaddons5 5.111.0-1
@@ -341,7 +341,7 @@ libinih 57-1
 libinput 1.24.0-1
 libjcat 0.1.14-1
 libjpeg-turbo 3.0.1-1
-libkexiv2 23.08.2-1
+libkexiv2 23.08.3-1
 libkscreen 5.27.9-1
 libksysguard 5.27.9-1
 libldac 2.0.2.3-1
@@ -508,7 +508,7 @@ ntfs-3g 2022.10.3-1
 nvidia 545.29.02-4
 obs-backgroundremoval 1.1.7-1
 obs-studio 29.1.3-1
-okular 23.08.2-1
+okular 23.08.3-1
 oniguruma 6.9.9-1
 ookla-speedtest-bin 1.2.0-1
 openal 1.23.1-1
@@ -550,7 +550,7 @@ perl-try-tiny 0.31-3
 perl-uri 5.21-1
 perl-www-robotrules 6.02-12
 phonon-qt5 4.12.0-3
-phonon-qt5-vlc 0.12.0-1
+phonon-qt5-vlc 0.12.0-2
 pipewire 1:0.3.84-1
 pipewire-media-session 1:0.4.2-2
 pixman 0.42.2-1
@@ -739,11 +739,11 @@ serd 0.32.0-1
 shaderc 2023.4-2
 shared-mime-info 2.3-1
 shotwell 2:0.32.2-1
-signon-kwallet-extension 23.08.2-1
+signon-kwallet-extension 23.08.3-1
 signon-plugin-oauth2 0.25-1
 signon-ui 0.17+20171022-3
 signond 8.61-1
-slack-desktop 4.35.121-1
+slack-desktop 4.35.126-1
 smartmontools 7.4-1
 smbclient 4.19.2-1
 snappy 1.1.10-1
@@ -754,7 +754,7 @@ sord 0.16.14-1
 sound-theme-freedesktop 0.8-5
 soundtouch 2.3.2-1
 source-highlight 3.1.9-11
-spectacle 23.08.2-1
+spectacle 23.08.3-1
 speex 1.2.1-1
 speexdsp 1.2.1-1
 spirv-tools 2022.4-1
@@ -763,7 +763,7 @@ sratom 0.6.14-1
 srt 1.5.3-1
 startup-notification 0.12-8
 step-cli 0.25.0-1
-sudo 1.9.15.p1-1
+sudo 1.9.15.p2-1
 svt-av1 1.7.0-1
 syndication5 5.111.0-1
 syntax-highlighting5 5.111.0-1
@@ -773,7 +773,7 @@ taglib 1.13.1-1
 talloc 2.4.1-1
 tcl 8.6.13-1
 tdb 1.4.9-1
-telegram-desktop 4.11.5-1
+telegram-desktop 4.11.6-1
 tevent 1:0.15.0-1
 texinfo 7.1-1
 thin-provisioning-tools 1.0.7-1
@@ -799,7 +799,7 @@ v4l-utils 1.24.1-2
 v4l2loopback-dkms 0.12.7-2
 vala 0.56.13-1
 vid.stab 1.1.1-1
-visual-studio-code-bin 1.84.1-1
+visual-studio-code-bin 1.84.2-1
 vlc 3.0.20-2
 vmaf 2.3.1-1
 volume_key 0.3.12-8
@@ -809,7 +809,7 @@ vulkan-tools 1.3.269-1
 wayland 1.22.0-1
 wayland-protocols 1.32-1
 wayland-utils 1.2.0-1
-webkit2gtk 2.42.1-2
+webkit2gtk 2.42.2-1
 webrtc-audio-processing 0.3.1-4
 webstorm 2023.2.4-1
 webstorm-jre 2023.2.4-1
