@@ -13,7 +13,7 @@ aom
 appmenu-gtk-module
 appstream
 appstream-glib
-appstream-qt
+appstream-qt5
 archlinux-appstream-data
 archlinux-keyring
 aria2
