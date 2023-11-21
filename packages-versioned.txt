@@ -97,7 +97,7 @@ enchant 2.6.2-1
 exiv2 0.28.1-1
 faad2 2.10.1-1
 fakeroot 1.32.2-1
-ffmpeg 2:6.0-13
+ffmpeg 2:6.1-1
 ffmpeg4.4 4.4.4-3
 fftw 3.3.10-4
 figlet 2.2.5-5
@@ -117,7 +117,7 @@ freeimage 3.18.0-21
 freetype2 2.13.2-1
 fribidi 1.0.13-2
 fuse3 3.16.2-1
-fwupd 1.9.8-3
+fwupd 1.9.9-1
 fwupd-efi 1.4-1
 fzf 0.43.0-1
 gawk 5.3.0-1
@@ -306,7 +306,7 @@ libdbusmenu-glib 16.04.0.r498-2
 libdbusmenu-gtk3 16.04.0.r498-2
 libdbusmenu-qt5 0.9.3+16.04.20160218-6
 libdca 0.0.7-2
-libde265 1.0.12-1
+libde265 1.0.13-1
 libdispatch 5.5.0-1
 libdmtx 0.7.7-1
 libdrm 2.4.118-1
@@ -327,7 +327,7 @@ libgit2 1:1.7.1-1
 libglvnd 1.7.0-1
 libgphoto2 2.5.31-1
 libgudev 238-1
-libgusb 0.4.7-1
+libgusb 0.4.8-1
 libheif 1.17.3-1
 libibus 1.5.28-4
 libical 3.0.17-1
