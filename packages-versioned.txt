@@ -469,7 +469,7 @@ lvm2 2.03.22-2
 lzo 2.10-5
 m4 1.4.19-3
 mailcap 2.1.54-1
-mailspring 1.12.0-1
+mailspring 1.13.1-1
 make 4.4.1-2
 man-db 2.12.0-1
 man-pages 6.05.01-2
@@ -759,7 +759,7 @@ spectacle 23.08.3-1
 speex 1.2.1-1
 speexdsp 1.2.1-1
 spirv-tools 2022.4-1
-spotify 1:1.2.25.1009-1
+spotify 1:1.2.25.1011-1
 sratom 0.6.14-1
 srt 1.5.3-1
 startup-notification 0.12-8
