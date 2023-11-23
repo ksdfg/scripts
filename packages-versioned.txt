@@ -170,7 +170,7 @@ gzip 1.13-2
 harfbuzz 8.3.0-1
 harfbuzz-icu 8.3.0-1
 helm 3.12.0-1
-heroku-cli 8.6.0-1
+heroku-cli 8.7.1-1
 hicolor-icon-theme 0.17-3
 hidapi 0.14.0-2
 htop 3.2.2-1
@@ -329,7 +329,7 @@ libglvnd 1.7.0-1
 libgphoto2 2.5.31-1
 libgudev 238-1
 libgusb 0.4.8-1
-libheif 1.17.3-1
+libheif 1.17.5-2
 libibus 1.5.28-4
 libical 3.0.17-1
 libice 1.1.1-2
@@ -617,7 +617,7 @@ python-markdown 3.5.1-1
 python-more-itertools 10.1.0-1
 python-msgpack 1.0.5-1
 python-nspektr 0.4.0-3
-python-numpy 1.26.1-1
+python-numpy 1.26.2-1
 python-ordered-set 4.1.0-4
 python-packaging 23.2-1
 python-pip 23.3.1-1
