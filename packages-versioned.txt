@@ -11,9 +11,9 @@ alsa-topology-conf 1.2.5.1-3
 alsa-ucm-conf 1.2.10-2
 aom 3.7.1-1
 appmenu-gtk-module 0.7.6-1
-appstream 1.0.0-4
+appstream 1.0.0-5
 appstream-glib 0.8.2-3
-appstream-qt5 1.0.0-4
+appstream-qt5 1.0.0-5
 archlinux-appstream-data 20231010-1
 archlinux-keyring 20231113-1
 aria2 1.37.0-1
