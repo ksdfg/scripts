@@ -146,7 +146,6 @@ go
 gobject-introspection-runtime
 goland
 goland-jre
-google-chrome
 gptfdisk
 graphene
 graphite
