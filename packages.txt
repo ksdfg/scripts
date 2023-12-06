@@ -223,7 +223,7 @@ kdsoap-qt5
 kdsoap-ws-discovery-client
 kemoticons
 kfilemetadata5
-kgamma5
+kgamma
 kglobalaccel5
 kguiaddons5
 kholidays5
