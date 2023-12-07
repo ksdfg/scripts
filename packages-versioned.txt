@@ -133,9 +133,9 @@ gettext 0.22.4-1
 ghostscript 10.02.1-1
 giflib 5.2.1-2
 git 2.43.0-1
-github-cli 2.39.2-1
+github-cli 2.40.0-1
 glib-networking 1:2.78.0-1
-glib2-docs 2.78.1-1
+glib2-docs 2.78.3-1
 glibmm 2.66.6-1
 glslang 13.1.1-2
 glu 9.0.3-1
@@ -300,7 +300,7 @@ libcbor 0.10.2-1
 libcloudproviders 0.3.5-1
 libcolord 1.4.6-1
 libcups 1:2.4.7-2
-libcurl-gnutls 8.4.0-2
+libcurl-gnutls 8.5.0-1
 libdatrie 0.2.13-4
 libdbusmenu-glib 16.04.0.r498-2
 libdbusmenu-gtk3 16.04.0.r498-2
@@ -587,7 +587,7 @@ protonvpn-cli 3.13.0-2
 pulseaudio 16.1-7
 pulseaudio-bluetooth 16.1-7
 purpose5 5.112.0-1
-pycharm-professional 2023.2.5-1
+pycharm-professional 2023.3-1
 python 3.11.6-1
 python-anytree 2.12.1-1
 python-appdirs 1.4.4-9
@@ -728,7 +728,7 @@ ruby-uri 0.12.1-1
 rubygems 3.3.25-1
 run-parts 5.5-1
 runc 1.1.10-1
-rust 1:1.74.0-1
+rust 1:1.74.1-1
 sbc 2.0-1
 sddm 0.20.0-2
 sddm-kcm 5.27.10-1
@@ -776,7 +776,7 @@ tdb 1.4.9-1
 telegram-desktop 4.12.2-1
 tevent 1:0.15.0-1
 texinfo 7.1-2
-thin-provisioning-tools 1.0.7-1
+thin-provisioning-tools 1.0.8-1
 threadweaver5 5.112.0-1
 tidy 5.8.0-2
 tk 8.6.13-2
@@ -799,7 +799,7 @@ v4l-utils 1.26.0-1
 v4l2loopback-dkms 0.12.7-2
 vala 0.56.14-1
 vid.stab 1.1.1-1
-visual-studio-code-bin 1.84.2-1
+visual-studio-code-bin 1.85.0-1
 vlc 3.0.20-2
 vmaf 2.3.1-1
 volume_key 0.3.12-8
