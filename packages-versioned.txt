@@ -59,7 +59,7 @@ cloudflared-bin 2023.10.0-1
 colord 1.4.6-1
 colord-kde 23.08.4-1
 confuse 3.3-3
-containerd 1.7.10-1
+containerd 1.7.11-1
 convertlit 1.8-11
 ctemplate 2.4-2
 cython 3.0.6-1
@@ -738,7 +738,7 @@ semver 7.5.4-1
 serd 0.32.0-1
 shaderc 2023.7-2
 shared-mime-info 2.4-1
-shotwell 2:0.32.3-1
+shotwell 2:0.32.4-1
 signon-kwallet-extension 23.08.4-1
 signon-plugin-oauth2 0.25-1
 signon-ui 0.17+20171022-3
@@ -895,5 +895,5 @@ yay-git 12.2.0.r1.g643830f-1
 zimg 3.0.5-1
 zip 3.0-11
 zsh 5.9-4
-zxing-cpp 2.1.0-1
+zxing-cpp 2.2.0-1
 zziplib 0.13.72-2
