@@ -587,7 +587,7 @@ protonvpn-cli 3.13.0-2
 pulseaudio 16.1-7
 pulseaudio-bluetooth 16.1-7
 purpose5 5.112.0-1
-pycharm-professional 2023.3-1
+pycharm-professional 2023.3-2
 python 3.11.6-1
 python-anytree 2.12.1-1
 python-appdirs 1.4.4-9
@@ -895,5 +895,5 @@ yay-git 12.2.0.r1.g643830f-1
 zimg 3.0.5-1
 zip 3.0-11
 zsh 5.9-4
-zxing-cpp 2.2.0-2
+zxing-cpp 2.2.1-1
 zziplib 0.13.72-2
