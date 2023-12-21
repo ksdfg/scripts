@@ -103,7 +103,7 @@ fftw 3.3.10-4
 figlet 2.2.5-5
 file 5.45-1
 findutils 4.9.0-3
-firefox 120.0.1-1
+firefox 121.0-1
 firefox-profile-switcher-connector 0.1.1-1
 flac 1.4.3-1
 flashplugin 32.0.0.465-1
@@ -162,7 +162,7 @@ gstreamer 1.22.8-1
 gtk-doc 1.33.2-3
 gtk-update-icon-cache 1:4.12.4-1
 gtk2 2.24.33-3
-gtk3 1:3.24.38-1
+gtk3 1:3.24.39-1
 gtkmm3 3.24.8-1
 gts 0.7.6.121130-2
 gzip 1.13-2
@@ -587,7 +587,7 @@ protonvpn-cli 3.13.0-2
 pulseaudio 16.1-7
 pulseaudio-bluetooth 16.1-7
 purpose5 5.113.0-1
-pycharm-professional 2023.3.1-1
+pycharm-professional 2023.3.2-1
 python 3.11.6-1
 python-anytree 2.12.1-1
 python-appdirs 1.4.4-9
