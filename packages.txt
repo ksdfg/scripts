@@ -203,7 +203,7 @@ kauth5
 kbookmarks5
 kcmutils5
 kcodecs5
-kcolorpicker
+kcolorpicker-qt5
 kcompletion5
 kconfig5
 kconfigwidgets5
@@ -231,7 +231,7 @@ khotkeys
 ki18n5
 kiconthemes5
 kidletime5
-kimageannotator
+kimageannotator-qt5
 kinfocenter
 kio-extras
 kio-fuse
