@@ -515,8 +515,8 @@ openal 1.23.1-1
 opencore-amr 0.1.6-1
 openexr 3.2.1-1
 openjpeg2 2.5.0-3
-openmpi 4.1.6-1
-openpmix 4.2.6-1
+openmpi 4.1.6-2
+openpmix 4.2.8-1
 openssh 9.6p1-1
 opus 1.4-1
 orc 0.4.34-1
@@ -773,7 +773,7 @@ taglib 1.13.1-1
 talloc 2.4.1-1
 tcl 8.6.13-1
 tdb 1.4.9-1
-telegram-desktop 4.14.6-1
+telegram-desktop 4.14.8-1
 tevent 1:0.15.0-1
 texinfo 7.1-2
 thin-provisioning-tools 1.0.10-1
@@ -799,7 +799,7 @@ v4l-utils 1.26.1-1
 v4l2loopback-dkms 0.12.7-2
 vala 0.56.14-1
 vid.stab 1.1.1-1
-visual-studio-code-bin 1.85.1-1
+visual-studio-code-bin 1.85.2-1
 vlc 3.0.20-4
 vmaf 3.0.0-1
 volume_key 0.3.12-8
