@@ -103,7 +103,7 @@ fftw 3.3.10-5
 figlet 2.2.5-5
 file 5.45-1
 findutils 4.9.0-3
-firefox 122.0-1
+firefox 122.0.1-1
 firefox-profile-switcher-connector 0.1.1-1
 flac 1.4.3-1
 flashplugin 32.0.0.465-1
@@ -405,7 +405,7 @@ libusb 1.0.27-1
 libusb-compat 0.1.8-1
 libusbmuxd 2.0.2-3
 libutempter 1.2.1-4
-libuv 1.47.0-1
+libuv 1.48.0-1
 libva 2.20.0-1
 libvdpau 1.5-2
 libvisual 0.4.2-1
@@ -731,7 +731,7 @@ run-parts 5.5-1
 runc 1.1.12-1
 rust 1:1.75.0-2
 sbc 2.0-1
-sddm 0.20.0-2
+sddm 0.20.0-4
 sddm-kcm 5.27.10-1
 sdl2 2.30.0-1
 sed 4.9-3
@@ -744,7 +744,7 @@ signon-kwallet-extension 23.08.4-1
 signon-plugin-oauth2 0.25-1
 signon-ui 0.17+20171022-3
 signond 8.61-1
-slack-desktop 4.36.138-1
+slack-desktop 4.36.140-1
 smartmontools 7.4-1
 smbclient 4.19.4-1
 snappy 1.1.10-1
