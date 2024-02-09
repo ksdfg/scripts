@@ -620,11 +620,11 @@ python-nspektr 0.5.0-1
 python-numpy 1.26.3-1
 python-ordered-set 4.1.0-4
 python-packaging 23.2-1
-python-pip 23.3.2-2
+python-pip 24.0-1
 python-platformdirs 4.1.0-1
 python-ply 3.11-12
 python-pycparser 2.21-5
-python-pydantic 2.6.0-1
+python-pydantic 2.6.1-1
 python-pygments 2.17.2-1
 python-pyopenssl 24.0.0-1
 python-pyparsing 3.1.1-1
