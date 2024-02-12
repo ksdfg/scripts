@@ -185,7 +185,7 @@ imv 4.4.0-4
 iniparser 4.1-4
 iso-codes 4.16.0-1
 jack2 1.9.22-1
-jasper 4.1.1-1
+jasper 4.2.0-1
 jbig2dec 0.20-1
 jemalloc 1:5.3.0-3
 jmtpfs 0.5-3
@@ -514,10 +514,10 @@ oniguruma 6.9.9-1
 ookla-speedtest-bin 1.2.0-1
 openal 1.23.1-1
 opencore-amr 0.1.6-1
-openexr 3.2.1-1
+openexr 3.2.2-1
 openjpeg2 2.5.0-3
-openmpi 5.0.1-2
-openpmix 4.2.8-1
+openmpi 5.0.2-2
+openpmix 4.2.9-1
 openssh 9.6p1-1
 opus 1.4-1
 orc 0.4.37-1
@@ -774,7 +774,7 @@ taglib 2.0-1
 talloc 2.4.1-1
 tcl 8.6.13-1
 tdb 1.4.9-1
-telegram-desktop 4.14.14-1
+telegram-desktop 4.14.15-1
 tevent 1:0.15.0-1
 texinfo 7.1-2
 thin-provisioning-tools 1.0.11-1
