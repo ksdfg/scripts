@@ -169,7 +169,7 @@ gzip 1.13-2
 harfbuzz 8.3.0-2
 harfbuzz-icu 8.3.0-2
 helm 3.14.0-1
-heroku-cli 8.7.1-1
+heroku-cli 8.9.0-1
 hicolor-icon-theme 0.17-3
 hidapi 0.14.0-2
 htop 3.3.0-1
@@ -179,7 +179,7 @@ hwloc 2.10.0-1
 hyphen 2.8.8-5
 icu67 67.1-1
 ijs 0.35-5
-imagemagick 7.1.1.27-1
+imagemagick 7.1.1.28-1
 imath 3.1.10-1
 imv 4.4.0-4
 iniparser 4.1-4
@@ -471,7 +471,7 @@ mailcap 2.1.54-1
 mailspring 1.13.3-1
 make 4.4.1-2
 man-db 2.12.0-1
-man-pages 6.05.01-2
+man-pages 6.06-2
 mariadb 11.2.3-1
 mariadb-clients 11.2.3-1
 mariadb-libs 11.2.3-1
@@ -528,7 +528,7 @@ p7zip 1:17.05-2
 pacman 6.0.2-9
 pacman-contrib 1.10.4-1
 pahole 1:1.25-4
-pango 1:1.51.1-1
+pango 1:1.51.2-1
 pangomm 2.46.4-1
 parallel 20240122-1
 parted 3.6-1
@@ -781,7 +781,7 @@ thin-provisioning-tools 1.0.11-1
 threadweaver5 5.115.0-1
 tidy 5.8.0-2
 tk 8.6.13-2
-tmux 3.3_a-7
+tmux 3.4-1
 tracker3 3.6.0-3
 tslib 1.22-1
 ttf-arphic-uming 0.2.20080216.2-2
