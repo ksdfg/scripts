@@ -573,7 +573,7 @@ plasma-workspace 5.27.10-2
 plasma-workspace-wallpapers 5.27.10-1
 polkit 124-2
 polkit-kde-agent 5.27.10-1
-polkit-qt5 0.175.0-1
+polkit-qt5 0.200.0-1
 poppler 24.01.0-1
 poppler-qt5 24.01.0-1
 postgresql 16.1-5
