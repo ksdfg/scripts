@@ -27,8 +27,8 @@ autoconf
 automake
 avahi
 awesome-terminal-fonts
+baloo
 baloo-widgets
-baloo5
 base
 base-devel
 bat
@@ -42,9 +42,9 @@ bluez-qt5
 bluez-utils
 bolt
 boost-libs
-breeze
 breeze-gtk
 breeze-icons
+breeze5
 bridge-utils
 btrfs-progs
 bubblewrap
@@ -261,7 +261,7 @@ ktexteditor5
 ktextwidgets5
 kubectl
 kunitconversion5
-kuserfeedback5
+kuserfeedback
 kvantum
 kwallet-pam
 kwallet5
@@ -522,8 +522,8 @@ openssh
 opus
 orc
 os-prober
-oxygen
 oxygen-sounds
+oxygen5
 p7zip
 pacman
 pacman-contrib
@@ -561,7 +561,6 @@ plasma-desktop
 plasma-disks
 plasma-firewall
 plasma-framework5
-plasma-integration
 plasma-meta
 plasma-nm
 plasma-pa
@@ -571,6 +570,7 @@ plasma-thunderbolt
 plasma-vault
 plasma-workspace
 plasma-workspace-wallpapers
+plasma5-integration
 polkit
 polkit-kde-agent
 polkit-qt5
