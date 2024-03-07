@@ -276,7 +276,6 @@ kxmlgui5 5.115.0-1
 l-smash 2.14.5-3
 lame 3.100-4
 lapack 3.12.0-3
-latte-dock 0.10.9-3
 layer-shell-qt 6.0.1-1
 lcms2 2.16-1
 ldb 2:2.8.0-1
@@ -332,7 +331,7 @@ libheif 1.17.6-3
 libibus 1.5.29-3
 libical 3.0.17-2
 libice 1.1.1-2
-libid3tag 0.15.1b-12
+libid3tag 0.16.3-2
 libidn 1.42-1
 libiec61883 1.2.0-7
 libimobiledevice 1.3.0-10
@@ -454,7 +453,7 @@ lilv 0.24.24-1
 linux 6.7.8.arch1-1
 linux-firmware 20240220.97b693d2-1
 linux-headers 6.7.8.arch1-1
-llvm-libs 16.0.6-1
+llvm-libs 17.0.6-2
 lm_sensors 1:3.6.0.r41.g31d1f125-2
 lmdb 0.9.32-1
 lolcat 100.0.1-1
@@ -478,7 +477,7 @@ mariadb-libs 11.3.2-1
 md4c 0.5.2-1
 mdadm 4.3-2
 media-player-info 24-2
-mesa 1:24.0.2-1
+mesa 1:24.0.2-2
 mesa-utils 9.0.0-3
 microsoft-edge-stable-bin 122.0.2365.52-1
 milou 6.0.1-1
@@ -576,8 +575,8 @@ polkit-kde-agent 6.0.1-1
 polkit-qt5 0.200.0-1
 poppler 24.01.0-1
 poppler-qt5 24.01.0-1
-postgresql 16.1-5
-postgresql-libs 16.1-5
+postgresql 16.1-6
+postgresql-libs 16.1-6
 postman-bin 10.23.9-1
 powerdevil 6.0.1-1
 ppp 2.5.0-3
@@ -658,7 +657,7 @@ qt5-sensors 5.15.12-1
 qt5-speech 5.15.12+kde+r1-1
 qt5-styleplugins 5.0.0.20170311-35
 qt5-svg 5.15.12+kde+r6-1
-qt5-tools 5.15.12+kde+r4-1
+qt5-tools 5.15.12+kde+r4-2
 qt5-translations 5.15.12-1
 qt5-wayland 5.15.12+kde+r61-1
 qt5-webchannel 5.15.12+kde+r3-1
@@ -729,7 +728,7 @@ ruby-uri 0.12.1-1
 rubygems 3.3.25-1
 run-parts 5.5-1
 runc 1.1.12-1
-rust 1:1.76.0-1
+rust 1:1.76.0-2
 sbc 2.0-1
 sddm 0.21.0-4
 sddm-kcm 6.0.1-1

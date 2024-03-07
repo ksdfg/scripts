@@ -276,7 +276,6 @@ kxmlgui5
 l-smash
 lame
 lapack
-latte-dock
 layer-shell-qt
 lcms2
 ldb
