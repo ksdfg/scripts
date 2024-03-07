@@ -514,7 +514,7 @@ oniguruma 6.9.9-1
 ookla-speedtest-bin 1.2.0-1
 openal 1.23.1-1
 opencore-amr 0.1.6-1
-openexr 3.2.2-1
+openexr 3.2.3-1
 openjpeg2 2.5.2-1
 openmpi 5.0.2-6
 openpmix 4.2.9-1
