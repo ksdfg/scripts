@@ -117,7 +117,7 @@ freeimage 3.18.0-21
 freetype2 2.13.2-1
 fribidi 1.0.13-2
 fuse3 3.16.2-1
-fwupd 1.9.17-2
+fwupd 1.9.18-1
 fwupd-efi 1.6-1
 fzf 0.48.1-1
 gawk 5.3.0-1
@@ -608,7 +608,7 @@ python-future 0.18.3-2
 python-html5lib 1.1-13
 python-idna 3.6-1
 python-importlib-metadata 5.1.0-1
-python-inflect 7.2.0-1
+python-inflect 7.2.1-1
 python-jaraco.context 4.3.0-3
 python-jaraco.functools 4.0.0-1
 python-jaraco.text 3.12.0-1
@@ -624,7 +624,7 @@ python-pip 24.0-1
 python-platformdirs 4.2.0-1
 python-ply 3.11-12
 python-pycparser 2.22-1
-python-pydantic 2.7.0-1
+python-pydantic 2.7.1-1
 python-pygments 2.17.2-1
 python-pyopenssl 24.0.0-1
 python-pyparsing 3.1.2-1
