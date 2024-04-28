@@ -477,7 +477,7 @@ mariadb-libs 11.3.2-1
 md4c 0.5.2-1
 mdadm 4.3-2
 media-player-info 24-2
-mesa 1:24.0.5-1
+mesa 1:24.0.6-2
 mesa-utils 9.0.0-4
 microsoft-edge-stable-bin 124.0.2478.51-1
 milou 6.0.4-1
@@ -641,7 +641,7 @@ python-urllib3 1.26.18-3
 python-validate-pyproject 0.13-3
 python-webencodings 0.5.1-11
 python-xlib 0.33-3
-python-zipp 3.17.0-2
+python-zipp 3.18.1-2
 qbittorrent 4.6.4-1
 qca-qt5 2.3.8-3
 qqc2-desktop-style5 5.115.0-1
