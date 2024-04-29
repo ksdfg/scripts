@@ -642,6 +642,7 @@ python-validate-pyproject
 python-webencodings
 python-xlib
 python-zipp
+python311
 qbittorrent
 qca-qt5
 qqc2-desktop-style5
