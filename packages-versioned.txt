@@ -518,7 +518,7 @@ openexr 3.2.4-1
 openjpeg2 2.5.2-1
 openmpi 5.0.2-9
 openpmix 4.2.9-1
-openssh 9.7p1-1
+openssh 9.7p1-2
 opus 1.5.2-1
 orc 0.4.38-1
 os-prober 1.81-1
@@ -745,7 +745,7 @@ signon-kwallet-extension 24.02.2-1
 signon-plugin-oauth2 0.25-3
 signon-ui 0.17+20231016-2
 signond 8.61-3
-slack-desktop 4.37.101-1
+slack-desktop 4.38.115-1
 smartmontools 7.4-1
 smbclient 4.20.0-3
 snappy 1.1.10-1
