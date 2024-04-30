@@ -15,7 +15,7 @@ appstream 1.0.3-1
 appstream-glib 0.8.2-4
 appstream-qt5 1.0.3-1
 archlinux-appstream-data 20240415-1
-archlinux-keyring 20240427-1
+archlinux-keyring 20240429-1
 aria2 1.37.0-1
 aribb24 1.0.3-3
 ark 24.02.2-1
@@ -103,7 +103,7 @@ fftw 3.3.10-6
 figlet 2.2.5-5
 file 5.45-1
 findutils 4.9.0-3
-firefox 125.0.2-1
+firefox 125.0.3-1
 firefox-profile-switcher-connector 0.1.1-1
 flac 1.4.3-1
 flashplugin 32.0.0.465-2
@@ -132,7 +132,7 @@ geckodriver 0.34.0-1
 gettext 0.22.4-1
 ghostscript 10.03.0-2
 giflib 5.2.2-1
-git 2.44.0-1
+git 2.45.0-1
 github-cli 2.48.0-2
 glib-networking 1:2.80.0-1
 glib2-docs 2.80.0-3
@@ -144,12 +144,12 @@ gnome-online-accounts 3.50.1-1
 gnu-free-fonts 20120503-8
 go 2:1.22.2-1
 gobject-introspection-runtime 1.80.1-3
-goland 2024.1-1
-goland-jre 2024.1-1
+goland 2024.1.1-1
+goland-jre 2024.1.1-1
 gptfdisk 1.0.10-1
 graphene 1.10.8-1
 graphite 1:1.3.14-3
-graphviz 10.0.1-2
+graphviz 11.0.0-1
 grep 3.11-1
 groff 1.23.0-5
 grub 2:2.12-2
@@ -262,7 +262,7 @@ ktextwidgets5 5.115.0-1
 kubectl 1.29.4-1
 kunitconversion5 5.115.0-1
 kuserfeedback 6.1.0-1
-kvantum 1.1.0-1
+kvantum 1.1.1-1
 kwallet-pam 6.0.4-1
 kwallet5 5.115.0-2
 kwalletmanager 24.02.2-1
@@ -450,9 +450,9 @@ libyaml 0.2.5-2
 libyuv r2426+464c51a0-1
 libzip 1.10.1-1
 lilv 0.24.24-2
-linux 6.8.7.arch1-2
+linux 6.8.8.arch1-1
 linux-firmware 20240409.1addd7dc-1
-linux-headers 6.8.7.arch1-2
+linux-headers 6.8.8.arch1-1
 llvm-libs 17.0.6-3
 lm_sensors 1:3.6.0.r41.g31d1f125-2
 lmdb 0.9.32-1
@@ -506,7 +506,7 @@ noto-fonts-cjk 20230817-1
 noto-fonts-emoji-blob 1:15.0-1
 npm 10.5.2-1
 ntfs-3g 2022.10.3-1
-nvidia 550.76-2
+nvidia 550.76-3
 obs-backgroundremoval 1.1.13-1
 obs-studio 30.1.1-2
 okular 24.02.2-1
@@ -638,7 +638,7 @@ python-tomli 2.0.1-4
 python-trove-classifiers 2024.4.10-1
 python-typing_extensions 4.11.0-1
 python-urllib3 1.26.18-3
-python-validate-pyproject 0.13-3
+python-validate-pyproject 0.16-1
 python-webencodings 0.5.1-11
 python-xlib 0.33-3
 python-zipp 3.18.1-2
