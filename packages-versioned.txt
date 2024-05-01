@@ -41,7 +41,7 @@ bluez 5.75-1
 bluez-qt5 5.115.0-1
 bluez-utils 5.75-1
 bolt 0.9.7-2
-boost-libs 1.83.0-6
+boost-libs 1.83.0-7
 breeze-gtk 6.0.4.1-1
 breeze-icons 6.1.0-1
 breeze5 6.0.4-1
@@ -99,7 +99,7 @@ faad2 2.11.1-1
 fakeroot 1.34-1
 ffmpeg 2:6.1.1-7
 ffmpeg4.4 4.4.4-5
-fftw 3.3.10-6
+fftw 3.3.10-7
 figlet 2.2.5-5
 file 5.45-1
 findutils 4.9.0-3
@@ -115,7 +115,7 @@ frameworkintegration5 5.115.0-1
 freeglut 3.4.0-1
 freeimage 3.18.0-21
 freetype2 2.13.2-1
-fribidi 1.0.13-2
+fribidi 1.0.14-1
 fuse3 3.16.2-1
 fwupd 1.9.18-2
 fwupd-efi 1.6-1
@@ -133,7 +133,7 @@ gettext 0.22.4-1
 ghostscript 10.03.0-2
 giflib 5.2.2-1
 git 2.45.0-1
-github-cli 2.48.0-2
+github-cli 2.49.0-1
 glib-networking 1:2.80.0-1
 glib2-docs 2.80.0-3
 glibmm 2.66.7-1
@@ -156,9 +156,9 @@ grub 2:2.12-2
 gsettings-desktop-schemas 46.0-1
 gsfonts 20200910-3
 gsm 1.0.22-1
-gst-plugins-base 1.24.2-2
-gst-plugins-base-libs 1.24.2-2
-gstreamer 1.24.2-2
+gst-plugins-base 1.24.3-1
+gst-plugins-base-libs 1.24.3-1
+gstreamer 1.24.3-1
 gtk-doc 1.34.0-1
 gtk-update-icon-cache 1:4.14.3-1
 gtk2 2.24.33-3
@@ -369,7 +369,7 @@ libpipeline 1.5.7-2
 libplacebo 6.338.2-6
 libplist 2.4.0-2
 libpng 1.6.43-1
-libproxy 0.5.5-1
+libproxy 0.5.6-1
 libpulse 17.0-3
 libqaccessibilityclient-qt5 0.6.0-1
 libqalculate 5.0.0-2
@@ -501,7 +501,7 @@ networkmanager-qt5 5.115.0-1
 node-gyp 10.1.0-2
 nodejs 21.7.3-1
 nodejs-nopt 7.2.0-1
-noto-fonts 1:24.4.1-1
+noto-fonts 1:24.5.1-1
 noto-fonts-cjk 20230817-1
 noto-fonts-emoji-blob 1:15.0-1
 npm 10.5.2-1
@@ -516,8 +516,8 @@ openal 1.23.1-1
 opencore-amr 0.1.6-1
 openexr 3.2.4-1
 openjpeg2 2.5.2-1
-openmpi 5.0.2-9
-openpmix 4.2.9-1
+openmpi 5.0.3-1
+openpmix 5.0.2-1
 openssh 9.7p1-2
 opus 1.5.2-1
 orc 0.4.38-1
