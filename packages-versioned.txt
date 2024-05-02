@@ -94,7 +94,7 @@ ebook-tools 0.2.2-7
 editorconfig-core-c 0.12.7-1
 efibootmgr 18-3
 enchant 2.6.5-1
-exiv2 0.28.2-3
+exiv2 0.28.2-4
 faad2 2.11.1-1
 fakeroot 1.34-1
 ffmpeg 2:6.1.1-7
@@ -187,7 +187,7 @@ iso-codes 4.16.0-1
 jack2 1.9.22-1
 jasper 4.2.1-1
 jbig2dec 0.20-1
-jemalloc 1:5.3.0-3
+jemalloc 1:5.3.0-4
 jmtpfs 0.5-3
 jq 1.7.1-1
 json-glib 1.8.0-1
@@ -453,7 +453,7 @@ lilv 0.24.24-2
 linux 6.8.8.arch1-1
 linux-firmware 20240409.1addd7dc-1
 linux-headers 6.8.8.arch1-1
-llvm-libs 17.0.6-3
+llvm-libs 17.0.6-4
 lm_sensors 1:3.6.0.r41.g31d1f125-2
 lmdb 0.9.32-1
 lolcat 100.0.1-1
@@ -578,7 +578,7 @@ poppler 24.03.0-1
 poppler-qt5 24.03.0-1
 postgresql 16.2-2
 postgresql-libs 16.2-2
-postman-bin 10.24.16-1
+postman-bin 11.0.4-1
 powerdevil 6.0.4-1
 ppp 2.5.0-3
 prison5 5.115.0-1
@@ -588,7 +588,7 @@ protonvpn-cli 3.13.0-2
 pulseaudio 17.0-3
 pulseaudio-bluetooth 17.0-3
 purpose5 5.115.0-3
-pycharm-professional 2024.1-1
+pycharm-professional 2024.1.1-1
 python 3.12.3-1
 python-anytree 2.12.1-2
 python-appdirs 1.4.4-10
@@ -603,7 +603,7 @@ python-cryptography 42.0.5-2
 python-distlib 0.3.8-2
 python-distro 1.9.0-2
 python-dnspython 1:2.5.0-2
-python-docutils 1:0.21.1-4
+python-docutils 1:0.21.2-1
 python-future 1.0.0-1
 python-html5lib 1.1-14
 python-idna 3.6-2
@@ -730,7 +730,7 @@ ruby-uri 0.12.1-1
 rubygems 3.3.25-1
 run-parts 5.17-1
 runc 1.1.12-1
-rust 1:1.77.2-1
+rust 1:1.77.2-2
 sbc 2.0-1
 sddm 0.21.0-4
 sddm-kcm 6.0.4-1
@@ -773,7 +773,7 @@ sysfsutils 2.1.1-1
 systemsettings 6.0.4-1
 taglib 2.0.1-1
 talloc 2.4.2-2
-tcl 8.6.14-3
+tcl 8.6.14-4
 tdb 1.4.10-3
 telegram-desktop 4.16.8-1
 tevent 1:0.16.1-3
@@ -781,7 +781,7 @@ texinfo 7.1-2
 thin-provisioning-tools 1.0.12-1
 threadweaver5 5.115.0-1
 tidy 5.8.0-2
-tk 8.6.14-2
+tk 8.6.14-3
 tmux 3.4-7
 tracker3 3.7.2-1
 tslib 1.23-1
