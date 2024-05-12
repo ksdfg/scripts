@@ -801,7 +801,7 @@ v4l-utils 1.26.1-1
 v4l2loopback-dkms 0.13.1-1
 vala 0.56.17-1
 vid.stab 1.1.1-1
-visual-studio-code-bin 1.89.1-1
+visual-studio-code-bin 1.89.1-2
 vlc 3.0.20-9
 vmaf 3.0.0-1
 volume_key 0.3.12-9
