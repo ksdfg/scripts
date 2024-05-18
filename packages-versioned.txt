@@ -37,9 +37,9 @@ binutils 2.42+r91+g6224493e457-1
 bison 3.8.2-6
 blas 3.12.0-5
 bluedevil 1:6.0.4-1
-bluez 5.75-1
+bluez 5.76-1
 bluez-qt5 5.115.0-1
-bluez-utils 5.75-1
+bluez-utils 5.76-1
 bolt 0.9.7-2
 boost-libs 1.83.0-7
 breeze-gtk 6.0.4.1-1
@@ -55,7 +55,7 @@ cantarell-fonts 1:0.303.1-1
 cblas 3.12.0-5
 cdparanoia 10.2-9
 cifs-utils 7.0-3
-cloudflared-bin 2024.4.1-1
+cloudflared-bin 2024.5.0-1
 colord 1.4.7-2
 colord-kde 24.02.2-1
 confuse 3.3-4
@@ -450,9 +450,9 @@ libyaml 0.2.5-2
 libyuv r2426+464c51a0-1
 libzip 1.10.1-1
 lilv 0.24.24-2
-linux 6.8.9.arch1-2
+linux 6.9.1.arch1-1
 linux-firmware 20240510.b9d2bf23-1
-linux-headers 6.8.9.arch1-2
+linux-headers 6.9.1.arch1-1
 llvm-libs 17.0.6-4
 lm_sensors 1:3.6.0.r41.g31d1f125-2
 lmdb 0.9.32-1
@@ -479,7 +479,7 @@ mdadm 4.3-2
 media-player-info 24-2
 mesa 1:24.0.7-3
 mesa-utils 9.0.0-4
-microsoft-edge-stable-bin 124.0.2478.109-1
+microsoft-edge-stable-bin 125.0.2535.51-1
 milou 6.0.4-1
 minikube 1.32.0-1
 minizip 1:1.3.1-2
@@ -506,7 +506,7 @@ noto-fonts-cjk 20230817-1
 noto-fonts-emoji-blob 1:15.0-1
 npm 10.8.0-1
 ntfs-3g 2022.10.3-1
-nvidia 550.78-2
+nvidia 550.78-4
 obs-backgroundremoval 1.1.13-1
 obs-studio 30.1.2-1
 okular 24.02.2-1
@@ -885,7 +885,7 @@ xorg-xrefresh 1.1.0-1
 xorg-xset 1.2.5-1
 xorg-xsetroot 1.1.3-1
 xorg-xvinfo 1.1.5-1
-xorg-xwayland 23.2.7-1
+xorg-xwayland 24.1.0-1
 xorg-xwd 1.0.9-1
 xorg-xwininfo 1.1.6-1
 xorg-xwud 1.0.6-1
