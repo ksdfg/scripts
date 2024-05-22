@@ -15,7 +15,7 @@ appstream 1.0.3-1
 appstream-glib 0.8.2-4
 appstream-qt5 1.0.3-1
 archlinux-appstream-data 20240415-1
-archlinux-keyring 20240429-1
+archlinux-keyring 20240520-1
 aria2 1.37.0-1
 aribb24 1.0.3-3
 ark 24.02.2-1
@@ -182,10 +182,10 @@ ijs 0.35-6
 imagemagick 7.1.1.32-1
 imath 3.1.11-2
 imv 4.5.0-2
-iniparser 4.2-1
+iniparser 4.2.2-1
 iso-codes 4.16.0-1
 jack2 1.9.22-1
-jasper 4.2.1-1
+jasper 4.2.4-1
 jbig2dec 0.20-1
 jemalloc 1:5.3.0-4
 jmtpfs 0.5-3
@@ -284,7 +284,7 @@ libaccounts-glib 1.27-2
 libaccounts-qt 1.17-1
 libaio 0.3.113-3
 libappindicator-gtk3 12.10.0.r298-3
-libass 0.17.1-4
+libass 0.17.2-1
 libasyncns 1:0.8+r3+g68cd5af-2
 libatasmart 0.19-6
 libavc1394 0.5.4-6
@@ -326,7 +326,7 @@ libgit2 1:1.8.1-1
 libglvnd 1.7.0-1
 libgphoto2 2.5.31-1
 libgudev 238-1
-libgusb 0.4.8-2
+libgusb 0.4.9-1
 libheif 1.17.6-5
 libibus 1.5.30-1
 libical 3.0.18-2
@@ -453,7 +453,7 @@ lilv 0.24.24-2
 linux 6.9.1.arch1-1
 linux-firmware 20240510.b9d2bf23-1
 linux-headers 6.9.1.arch1-1
-llvm-libs 17.0.6-4
+llvm-libs 17.0.6-5
 lm_sensors 1:3.6.0.r41.g31d1f125-2
 lmdb 0.9.32-1
 lolcat 100.0.1-1
@@ -463,7 +463,7 @@ lua 5.4.6-3
 lua52 5.2.4-6
 luit 20240102-1
 lv2 1.18.10-1
-lvm2 2.03.23-3
+lvm2 2.03.24-1
 lzo 2.10-5
 m4 1.4.19-3
 mailcap 2.1.54-1
@@ -471,9 +471,9 @@ mailspring 1.13.3-1
 make 4.4.1-2
 man-db 2.12.1-1
 man-pages 6.7-1
-mariadb 11.3.2-1
-mariadb-clients 11.3.2-1
-mariadb-libs 11.3.2-1
+mariadb 11.3.2-2
+mariadb-clients 11.3.2-2
+mariadb-libs 11.3.2-2
 md4c 0.5.2-1
 mdadm 4.3-2
 media-player-info 24-2
@@ -492,7 +492,7 @@ mtdev 1.1.6-2
 mtools 1:4.0.43-1
 mtpfs 1.1-4
 nano 8.0-1
-ndctl 78-1
+ndctl 78-2
 neofetch 7.1.0-2
 net-tools 2.10-2
 netpbm 10.86.41-1
@@ -628,14 +628,14 @@ python-pydantic 2.7.1-2
 python-pygments 2.17.2-3
 python-pyopenssl 24.0.0-2
 python-pyparsing 3.1.2-2
-python-requests 2.31.0-3
+python-requests 2.32.2-1
 python-resolvelib 1.0.1-2
 python-rich 13.7.1-2
 python-setuptools 1:69.0.3-6
 python-six 1.16.0-9
 python-tenacity 8.3.0-1
 python-tomli 2.0.1-4
-python-trove-classifiers 2024.4.10-1
+python-trove-classifiers 2024.5.17-1
 python-typing_extensions 4.11.0-1
 python-urllib3 1.26.18-3
 python-validate-pyproject 0.16-1
@@ -663,7 +663,7 @@ qt5-tools 5.15.13+kde+r4-1
 qt5-translations 5.15.13-1
 qt5-wayland 5.15.13+kde+r60-1
 qt5-webchannel 5.15.13+kde+r3-1
-qt5-webengine 5.15.16-8
+qt5-webengine 5.15.17-1
 qt5-x11extras 5.15.13-1
 qt6-5compat 6.7.0-2
 qt6-base 6.7.0-7
@@ -766,7 +766,7 @@ srt 1.5.3-1
 startup-notification 0.12-8
 step-cli 0.26.1-1
 sudo 1.9.15.p5-1
-svt-av1 2.0.0-1
+svt-av1 2.1.0-1
 syndication5 5.116.0-1
 syntax-highlighting5 5.116.0-1
 sysfsutils 2.1.1-1
