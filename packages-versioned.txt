@@ -119,7 +119,7 @@ fribidi 1.0.15-1
 fuse3 3.16.2-1
 fwupd 1.9.22-2
 fwupd-efi 1.6-1
-fzf 0.54.0-1
+fzf 0.54.3-1
 gawk 5.3.0-1
 gcab 1.6-2
 gcc 14.1.1+r309+gbb34b7eda1f-1
@@ -133,7 +133,7 @@ gettext 0.22.5-1
 ghostscript 10.03.1-1
 giflib 5.2.2-1
 git 2.46.0-1
-github-cli 2.53.0-1
+github-cli 2.54.0-1
 glib-networking 1:2.80.0-3
 glib2-docs 2.80.4-1
 glibmm 2.66.7-1
@@ -169,7 +169,7 @@ gzip 1.13-4
 harfbuzz 9.0.0-1
 harfbuzz-icu 9.0.0-1
 helm 3.15.3-1
-heroku-cli 9.0.0-1
+heroku-cli 9.1.0-1
 hicolor-icon-theme 0.18-1
 hidapi 0.14.0-3
 htop 3.3.0-3
@@ -479,7 +479,7 @@ mdadm 4.3-2
 media-player-info 24-4
 mesa 1:24.1.4-2
 mesa-utils 9.0.0-4
-microsoft-edge-stable-bin 127.0.2651.74-1
+microsoft-edge-stable-bin 127.0.2651.86-1
 milou 6.1.3-1
 minikube 1.33.1-1
 minizip 1:1.3.1-2
@@ -487,7 +487,7 @@ modemmanager 1.22.0-1
 modemmanager-qt5 5.116.0-1
 mongodb-atlas-cli-bin 1.26.0-1
 mongodb-compass 1.43.5-1
-mongodb-tools 1:100.9.4-1
+mongodb-tools 1:100.10.0-1
 mtdev 1.1.7-1
 mtools 1:4.0.44-1
 mtpfs 1.1-5
@@ -801,7 +801,7 @@ v4l-utils 1.26.1-1
 v4l2loopback-dkms 0.13.2-1
 vala 0.56.17-1
 vid.stab 1.1.1-2
-visual-studio-code-bin 1.91.1-1
+visual-studio-code-bin 1.92.0-1
 vlc 3.0.21-1
 vmaf 3.0.0-1
 volume_key 0.3.12-9
