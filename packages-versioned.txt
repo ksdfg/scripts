@@ -496,7 +496,7 @@ ndctl 79-1
 neofetch 7.1.0-2
 net-tools 2.10-2
 netpbm 10.86.42-1
-networkmanager 1.48.6-1
+networkmanager 1.48.8-1
 networkmanager-qt5 5.116.0-1
 node-gyp 10.2.0-1
 nodejs 22.6.0-1
@@ -878,4 +878,4 @@ zimg 3.0.5-1
 zip 3.0-11
 zsh 5.9-5
 zxing-cpp 2.2.1-1
-zziplib 0.13.77-1
+zziplib 0.13.78-1
