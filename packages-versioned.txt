@@ -477,7 +477,7 @@ mariadb-libs 11.4.2-1
 md4c 0.5.2-1
 mdadm 4.3-2
 media-player-info 24-4
-mesa 1:24.1.5-1
+mesa 1:24.1.5-2
 mesa-utils 9.0.0-4
 microsoft-edge-stable-bin 127.0.2651.98-1
 milou 6.1.4-1
@@ -584,11 +584,11 @@ ppp 2.5.0-3
 prison5 5.116.0-1
 protobuf 27.3-1
 protobuf-c 1.5.0-4
-protonvpn-cli 3.13.0-2
+protonvpn-cli 3.13.0-3
 pulseaudio 17.0-3
 pulseaudio-bluetooth 17.0-3
 purpose5 5.116.0-1
-pycharm-professional 2024.1.4-1
+pycharm-professional 2024.2-2
 python 3.12.4-1
 python-anytree 2.12.1-2
 python-appdirs 1.4.4-10
@@ -793,8 +793,8 @@ wayland-protocols 1.36-1
 wayland-utils 1.2.0-2
 webkit2gtk 2.44.2-1
 webrtc-audio-processing 0.3.1-5
-webstorm 2024.1.5-1
-webstorm-jre 2024.1.5-1
+webstorm 2024.2-1
+webstorm-jre 2024.2-1
 wget 1.24.5-3
 which 2.21-6
 woff2 1.0.2-5
