@@ -48,7 +48,7 @@ breeze5 6.1.4-1
 bridge-utils 1.7.1-2
 btrfs-progs 6.10-1
 bubblewrap 0.9.0-1
-c-ares 1.29.0-1
+c-ares 1.33.0-1
 cairo 1.18.0-2
 cairomm 1.14.5-1
 cantarell-fonts 1:0.303.1-2
@@ -103,7 +103,7 @@ fftw 3.3.10-7
 figlet 2.2.5-6
 file 5.45-1
 findutils 4.10.0-1
-firefox 129.0-1
+firefox 129.0.1-2
 firefox-profile-switcher-connector 0.1.1-1
 flac 1.4.3-2
 flashplugin 32.0.0.465-2
@@ -142,7 +142,7 @@ glu 9.0.3-2
 gnome-keyring 1:46.2-1
 gnome-online-accounts 3.50.4-1
 gnu-free-fonts 20120503-8
-go 2:1.22.6-1
+go 2:1.23.0-1
 gobject-introspection-runtime 1.80.1-3
 goland 2024.2-1
 goland-jre 2024.2-1
@@ -451,7 +451,7 @@ libyuv r2426+464c51a0-1
 libzip 1.10.1-2
 lilv 0.24.24-2
 linux 6.10.4.arch2-1
-linux-firmware 20240703.e94a2a3b-1
+linux-firmware 20240809.59460076-1
 linux-headers 6.10.4.arch2-1
 llvm-libs 18.1.8-4
 lm_sensors 1:3.6.0.r41.g31d1f125-3
@@ -471,9 +471,9 @@ mailspring 1.13.3-1
 make 4.4.1-2
 man-db 2.12.1-1
 man-pages 6.9.1-1
-mariadb 11.4.2-1
-mariadb-clients 11.4.2-1
-mariadb-libs 11.4.2-1
+mariadb 11.4.3-1
+mariadb-clients 11.4.3-1
+mariadb-libs 11.4.3-1
 md4c 0.5.2-1
 mdadm 4.3-2
 media-player-info 24-4
@@ -599,7 +599,7 @@ python-cffi 1.16.0-2
 python-chardet 5.2.0-2
 python-colorama 0.4.6-3
 python-commonmark 0.9.1-11
-python-cryptography 42.0.6-1
+python-cryptography 42.0.7-1
 python-distlib 0.3.8-2
 python-distro 1.9.0-2
 python-dnspython 1:2.6.1-1
@@ -791,7 +791,7 @@ vulkan-tools 1.3.269-1
 wayland 1.23.0-1
 wayland-protocols 1.36-1
 wayland-utils 1.2.0-2
-webkit2gtk 2.44.2-1
+webkit2gtk 2.44.3-2
 webrtc-audio-processing 0.3.1-5
 webstorm 2024.2-1
 webstorm-jre 2024.2-1
