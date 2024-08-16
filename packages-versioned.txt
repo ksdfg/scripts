@@ -5,7 +5,7 @@ accountsservice 23.13.9-2
 adobe-source-code-pro-fonts 2.042u+1.062i+1.026vf-2
 adwaita-icon-theme 46.2-1
 aha 0.5.1-3
-alsa-card-profiles 1:1.2.2-1
+alsa-card-profiles 1:1.2.2-2
 alsa-lib 1.2.12-1
 alsa-topology-conf 1.2.5.1-4
 alsa-ucm-conf 1.2.12-1
@@ -27,7 +27,7 @@ autoconf 2.72-1
 automake 1.17-1
 avahi 1:0.8+r194+g3f79789-2
 awesome-terminal-fonts 1.1.0-5
-baloo 6.4.0-1
+baloo 6.5.0-1
 baloo-widgets 24.05.2-1
 base 3-2
 base-devel 1-1
@@ -43,11 +43,11 @@ bluez-utils 5.77-1
 bolt 0.9.8-1
 boost-libs 1.83.0-9
 breeze-gtk 6.1.4-1
-breeze-icons 6.4.0-1
+breeze-icons 6.5.0-1
 breeze5 6.1.4-1
 bridge-utils 1.7.1-2
 btrfs-progs 6.10-1
-bubblewrap 0.9.0-1
+bubblewrap 0.10.0-1
 c-ares 1.33.0-1
 cairo 1.18.0-2
 cairomm 1.14.5-1
@@ -62,7 +62,7 @@ confuse 3.3-4
 containerd 1.7.20-1
 convertlit 1.8-12
 ctemplate 2.4-3
-cython 3.0.10-5
+cython 3.0.11-1
 dav1d 1.4.3-1
 dbus-glib 0.112-4
 dconf 0.40.0-3
@@ -96,7 +96,7 @@ efibootmgr 18-3
 enchant 2.8.0-1
 exiv2 0.28.3-1
 faad2 2.11.1-1
-fakeroot 1.35-1
+fakeroot 1.35.1-1
 ffmpeg 2:7.0.1-2
 ffmpeg4.4 4.4.4-6
 fftw 3.3.10-7
@@ -114,7 +114,7 @@ fortune-mod 3.20.0-2
 frameworkintegration5 5.116.0-1
 freeglut 3.6.0-1
 freeimage 3.18.0-22
-freetype2 2.13.2-2
+freetype2 2.13.3-1
 fribidi 1.0.15-1
 fuse3 3.16.2-1
 fwupd 1.9.23-1
@@ -261,7 +261,7 @@ ktexteditor5 5.116.0-1
 ktextwidgets5 5.116.0-1
 kubectl 1.30.3-1
 kunitconversion5 5.116.0-1
-kuserfeedback 6.4.0-1
+kuserfeedback 6.5.0-1
 kvantum 1.1.2-1
 kwallet-pam 6.1.4-1
 kwallet5 5.116.0-1
@@ -450,9 +450,9 @@ libyaml 0.2.5-3
 libyuv r2426+464c51a0-1
 libzip 1.10.1-2
 lilv 0.24.24-2
-linux 6.10.4.arch2-1
+linux 6.10.5.arch1-1
 linux-firmware 20240809.59460076-1
-linux-headers 6.10.4.arch2-1
+linux-headers 6.10.5.arch1-1
 llvm-libs 18.1.8-4
 lm_sensors 1:3.6.0.r41.g31d1f125-3
 lmdb 0.9.32-1
@@ -477,9 +477,9 @@ mariadb-libs 11.4.3-1
 md4c 0.5.2-1
 mdadm 4.3-2
 media-player-info 24-4
-mesa 1:24.1.5-2
+mesa 1:24.1.6-1
 mesa-utils 9.0.0-4
-microsoft-edge-stable-bin 127.0.2651.98-1
+microsoft-edge-stable-bin 127.0.2651.105-1
 milou 6.1.4-1
 minikube 1.33.1-1
 minizip 1:1.3.1-2
@@ -506,7 +506,7 @@ noto-fonts-cjk 20230817-2
 noto-fonts-emoji-blob 1:15.0-1
 npm 10.8.2-1
 ntfs-3g 2022.10.3-1
-nvidia 555.58.02-15
+nvidia 555.58.02-16
 obs-backgroundremoval 1.1.13-1
 obs-studio 30.2.1-1
 okular 24.05.2-1
@@ -552,7 +552,7 @@ perl-uri 5.28-1
 perl-www-robotrules 6.02-13
 phonon-qt5 4.12.0-4
 phonon-qt5-vlc 0.12.0-2
-pipewire 1:1.2.2-1
+pipewire 1:1.2.2-2
 pipewire-media-session 1:0.4.2-3
 pixman 0.43.4-1
 pkgconf 2.1.1-1
@@ -626,7 +626,7 @@ python-ply 3.11-13
 python-pycparser 2.22-2
 python-pydantic 2.8.2-1
 python-pygments 2.18.0-1
-python-pyopenssl 24.1.0-1
+python-pyopenssl 24.2.1-1
 python-pyparsing 3.1.2-2
 python-requests 2.32.3-1
 python-resolvelib 1.0.1-2
@@ -781,7 +781,7 @@ v4l-utils 1.26.1-1
 v4l2loopback-dkms 0.13.2-1
 vala 0.56.17-1
 vid.stab 1.1.1-2
-visual-studio-code-bin 1.92.1-1
+visual-studio-code-bin 1.92.2-1
 vlc 3.0.21-2
 vmaf 3.0.0-1
 volume_key 0.3.12-9
@@ -791,7 +791,7 @@ vulkan-tools 1.3.269-1
 wayland 1.23.0-1
 wayland-protocols 1.36-1
 wayland-utils 1.2.0-2
-webkit2gtk 2.44.3-2
+webkit2gtk 2.44.3-3
 webrtc-audio-processing 0.3.1-5
 webstorm 2024.2-1
 webstorm-jre 2024.2-1
