@@ -874,6 +874,7 @@ xvidcore 1.3.7-3
 xxhash 0.8.2-1
 yarn 1.22.22-2
 yay-git 12.3.5.r6.g779a9f1-1
+zenity 4.0.2-1
 zimg 3.0.5-1
 zip 3.0-11
 zsh 5.9-5

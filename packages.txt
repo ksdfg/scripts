@@ -874,6 +874,7 @@ xvidcore
 xxhash
 yarn
 yay-git
+zenity
 zimg
 zip
 zsh
