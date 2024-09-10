@@ -59,7 +59,7 @@ cloudflared-bin 2024.8.3-1
 colord 1.4.7-2
 colord-kde 24.08.0-1
 confuse 3.3-4
-containerd 1.7.21-1
+containerd 1.7.22-1
 convertlit 1.8-12
 ctemplate 2.4-3
 cython 3.0.11-1
@@ -161,14 +161,14 @@ gst-plugins-base-libs 1.24.7-1
 gstreamer 1.24.7-1
 gtk-doc 1.34.0-1
 gtk-update-icon-cache 1:4.14.5-1
-gtk2 2.24.33-4
-gtk3 1:3.24.43-1
+gtk2 2.24.33-5
+gtk3 1:3.24.43-2
 gtkmm3 3.24.9-1
 gts 0.7.6.121130-2
 gzip 1.13-4
 harfbuzz 9.0.0-1
 harfbuzz-icu 9.0.0-1
-helm 3.15.4-1
+helm 3.15.4-2
 heroku-cli 9.1.0-1
 hicolor-icon-theme 0.18-1
 hidapi 0.14.0-3
@@ -180,7 +180,7 @@ hyphen 2.8.8-6
 icu67 67.1-1
 ijs 0.35-6
 imagemagick 7.1.1.38-2
-imath 3.1.11-3
+imath 3.1.12-1
 imv 4.5.0-2
 iniparser 4.2.4-1
 iso-codes 4.16.0-1
@@ -278,7 +278,7 @@ lame 3.100-5
 lapack 3.12.0-5
 layer-shell-qt 6.1.4-1
 lcms2 2.16-1
-ldb 2:2.9.1-2
+ldb 2:4.21.0-2
 ldns 1.8.4-1
 libaccounts-glib 1.27-2
 libaccounts-qt 1.17-1
@@ -450,9 +450,9 @@ libyaml 0.2.5-3
 libyuv r2426+464c51a0-1
 libzip 1.10.1-2
 lilv 0.24.24-2
-linux 6.10.8.arch1-1
-linux-firmware 20240809.59460076-1
-linux-headers 6.10.8.arch1-1
+linux 6.10.9.arch1-1
+linux-firmware 20240909.552ed9b8-1
+linux-headers 6.10.9.arch1-1
 llvm-libs 18.1.8-4
 lm_sensors 1:3.6.0.r41.g31d1f125-3
 lmdb 0.9.33-1
@@ -506,7 +506,7 @@ noto-fonts-cjk 20230817-2
 noto-fonts-emoji-blob 1:15.0-1
 npm 10.8.3-1
 ntfs-3g 2022.10.3-1
-nvidia 560.35.03-3
+nvidia 560.35.03-4
 obs-backgroundremoval 1.1.13-1
 obs-studio 30.2.1-1
 okular 24.08.0-1
@@ -630,7 +630,7 @@ python-pyopenssl 24.2.1-1
 python-pyparsing 3.1.2-2
 python-requests 2.32.3-1
 python-resolvelib 1.0.1-2
-python-rich 13.8.0-1
+python-rich 13.8.1-1
 python-setuptools 1:69.5.1-1
 python-six 1.16.0-9
 python-tenacity 9.0.0-1
@@ -680,7 +680,7 @@ recode 3.7.14-2
 redis 7.2.5-1
 reflector 2023-2
 rest 0.8.1+r4+ge5ee6ef-2
-ripgrep 14.1.0-1
+ripgrep 14.1.1-1
 rnnoise 1:0.2-1
 rsync 3.3.0-2
 rtkit 0.13-3
@@ -727,7 +727,7 @@ signon-ui 0.17+20231016-2
 signond 8.61-3
 slack-desktop 4.39.95-1
 smartmontools 7.4-2
-smbclient 4.20.4-1
+smbclient 2:4.21.0-2
 snappy 1.1.10-1
 socat 1.8.0.1-1
 solid5 5.116.0-1
