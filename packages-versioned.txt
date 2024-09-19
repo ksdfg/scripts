@@ -120,7 +120,7 @@ fuse3 3.16.2-1
 fwupd 1.9.24-1
 fwupd-efi 1.6-1
 fzf 0.55.0-1
-gawk 5.3.0-2
+gawk 5.3.1-1
 gcab 1.6-2
 gcc 14.2.1+r134+gab884fffe3fc-1
 gcr 3.41.2-2
@@ -144,8 +144,8 @@ gnome-online-accounts 3.52.0-1
 gnu-free-fonts 20120503-8
 go 2:1.23.1-1
 gobject-introspection-runtime 1.82.0-1
-goland 2024.2.1.1-1
-goland-jre 2024.2.1.1-1
+goland 2024.2.2-1
+goland-jre 2024.2.2-1
 gptfdisk 1.0.10-1
 graphene 1.10.8-1
 graphite 1:1.3.14-4
@@ -793,8 +793,8 @@ wayland-protocols 1.37-1
 wayland-utils 1.2.0-2
 webkit2gtk 2.46.0-1
 webrtc-audio-processing 0.3.1-5
-webstorm 2024.2.1-1
-webstorm-jre 2024.2.1-1
+webstorm 2024.2.2-1
+webstorm-jre 2024.2.2-1
 wget 1.24.5-3
 which 2.21-6
 woff2 1.0.2-5
@@ -873,7 +873,7 @@ xorgproto 2024.1-2
 xvidcore 1.3.7-3
 xxhash 0.8.2-1
 yarn 1.22.22-2
-yay 12.4.1-1
+yay 12.4.2-1
 zenity 4.0.2-1
 zimg 3.0.5-1
 zip 3.0-11
