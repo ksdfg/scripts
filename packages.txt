@@ -761,9 +761,9 @@ texinfo
 thin-provisioning-tools
 threadweaver5
 tidy
+tinysparql
 tk
 tmux
-tracker3
 tslib
 ttf-arphic-uming
 ttf-hack
