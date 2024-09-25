@@ -41,7 +41,7 @@ bluez 5.78-1
 bluez-qt5 5.116.0-1
 bluez-utils 5.78-1
 bolt 0.9.8-1
-boost-libs 1.86.0-2
+boost-libs 1.86.0-3
 breeze-gtk 6.1.5-1
 breeze-icons 6.6.0-1
 breeze5 6.1.5-1
@@ -80,7 +80,7 @@ dnsmasq 2.90-1
 dnssec-anchors 20190629-4
 docbook-xml 4.5-10
 docbook-xsl 1.79.2-8
-docker 1:27.2.1-1
+docker 1:27.3.1-1
 docker-buildx 0.17.1-1
 docker-compose 2.29.7-1
 dolphin 24.08.1-1
@@ -117,7 +117,7 @@ freeimage 3.18.0-22
 freetype2 2.13.3-1
 fribidi 1.0.15-1
 fuse3 3.16.2-1
-fwupd 1.9.24-1
+fwupd 1.9.25-1
 fwupd-efi 1.7-1
 fzf 0.55.0-1
 gawk 5.3.1-1
@@ -404,7 +404,7 @@ libusb 1.0.27-1
 libusb-compat 0.1.8-2
 libusbmuxd 2.1.0-1
 libutempter 1.2.1-4
-libuv 1.48.0-2
+libuv 1.49.0-1
 libva 2.22.0-1
 libvdpau 1.5-3
 libvisual 0.4.2-2
