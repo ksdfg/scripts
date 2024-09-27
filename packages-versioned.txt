@@ -115,7 +115,7 @@ frameworkintegration5 5.116.0-1
 freeglut 3.6.0-1
 freeimage 3.18.0-22
 freetype2 2.13.3-1
-fribidi 1.0.15-1
+fribidi 1.0.16-1
 fuse3 3.16.2-1
 fwupd 1.9.25-1
 fwupd-efi 1.7-1
@@ -169,7 +169,7 @@ gzip 1.13-4
 harfbuzz 9.0.0-1
 harfbuzz-icu 9.0.0-1
 helm 3.16.1-1
-heroku-cli 9.1.0-1
+heroku-cli 9.3.0-1
 hicolor-icon-theme 0.18-1
 hidapi 0.14.0-3
 htop 3.3.0-3
@@ -479,13 +479,13 @@ mdadm 4.3-2
 media-player-info 26-1
 mesa 1:24.2.3-1
 mesa-utils 9.0.0-5
-microsoft-edge-stable-bin 129.0.2792.52-1
+microsoft-edge-stable-bin 129.0.2792.65-1
 milou 6.1.5-1
 minikube 1.34.0-2
 minizip 1:1.3.1-2
 modemmanager 1.22.0-1
 modemmanager-qt5 5.116.0-1
-mongodb-atlas-cli-bin 1.28.0-1
+mongodb-atlas-cli-bin 1.29.0-1
 mongodb-compass 1.42.5-1
 mongodb-tools 1:100.10.0-1
 mtdev 1.1.7-1
@@ -621,7 +621,7 @@ python-numpy 2.1.1-1
 python-ordered-set 4.1.0-5
 python-packaging 24.1-1
 python-pip 24.2-1
-python-platformdirs 4.2.2-1
+python-platformdirs 4.3.6-1
 python-ply 3.11-13
 python-pycparser 2.22-2
 python-pydantic 2.9.2-1
@@ -793,8 +793,8 @@ wayland-protocols 1.37-1
 wayland-utils 1.2.0-2
 webkit2gtk 2.46.0-2
 webrtc-audio-processing 0.3.1-5
-webstorm 2024.2.2-1
-webstorm-jre 2024.2.2-1
+webstorm 2024.2.3-1
+webstorm-jre 2024.2.3-1
 wget 1.24.5-3
 which 2.21-6
 woff2 1.0.2-5
