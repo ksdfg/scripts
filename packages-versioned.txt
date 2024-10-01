@@ -125,8 +125,8 @@ gcab 1.6-2
 gcc 14.2.1+r134+gab884fffe3fc-1
 gcr 3.41.2-2
 gd 2.3.3-8
-gdb 15.1-1
-gdb-common 15.1-1
+gdb 15.2-1
+gdb-common 15.2-1
 gdk-pixbuf2 2.42.12-1
 geckodriver 0.35.0-1
 gettext 0.22.5-2
