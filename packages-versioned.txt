@@ -133,7 +133,7 @@ gettext 0.22.5-2
 ghostscript 10.04.0-1
 giflib 5.2.2-1
 git 2.46.2-1
-github-cli 2.57.0-1
+github-cli 2.58.0-1
 glib-networking 1:2.80.0-3
 glib2-docs 2.82.1-1
 glibmm 2.66.7-1
@@ -373,7 +373,7 @@ libproxy 0.5.8-1
 libpulse 17.0-3
 libqaccessibilityclient-qt5 0.6.0-1
 libqalculate 5.2.0.1-1
-libqmi 1.34.0-1
+libqmi 1.34.0-2
 libqrtr-glib 1.2.2-3
 libraqm 0.10.2-1
 libraw 0.21.3-1
