@@ -599,7 +599,7 @@ python-cffi 1.16.0-2
 python-chardet 5.2.0-2
 python-colorama 0.4.6-3
 python-commonmark 0.9.1-11
-python-cryptography 42.0.7-1
+python-cryptography 42.0.8-1
 python-distlib 0.3.8-2
 python-distro 1.9.0-2
 python-dnspython 1:2.6.1-1
@@ -714,7 +714,7 @@ rust 1:1.81.0-1
 sbc 2.0-2
 sddm 0.21.0-4
 sddm-kcm 6.1.5-1
-sdl2 2.30.7-1
+sdl2 2.30.8-1
 sed 4.9-3
 semver 7.6.3-1
 serd 0.32.2-1
