@@ -147,7 +147,7 @@ gobject-introspection-runtime 1.82.0-1
 goland 2024.2.3-1
 goland-jre 2024.2.3-1
 gptfdisk 1.0.10-1
-graphene 1.10.8-1
+graphene 1.10.8-2
 graphite 1:1.3.14-4
 graphviz 12.1.2-1
 grep 3.11-1
@@ -479,7 +479,7 @@ mdadm 4.3-2
 media-player-info 26-1
 mesa 1:24.2.3-1
 mesa-utils 9.0.0-5
-microsoft-edge-stable-bin 129.0.2792.65-1
+microsoft-edge-stable-bin 129.0.2792.79-1
 milou 6.1.5-1
 minikube 1.34.0-2
 minizip 1:1.3.1-2
@@ -506,7 +506,7 @@ noto-fonts-cjk 20230817-2
 noto-fonts-emoji-blob 1:15.0-1
 npm 10.8.3-1
 ntfs-3g 2022.10.3-1
-nvidia 560.35.03-9
+nvidia 560.35.03-10
 obs-backgroundremoval 1.1.13-1
 obs-studio 30.2.1-1
 okular 24.08.1-1
@@ -781,7 +781,7 @@ v4l-utils 1.28.1-1
 v4l2loopback-dkms 0.13.2-1
 vala 0.56.17-1
 vid.stab 1.1.1-2
-visual-studio-code-bin 1.93.1-1
+visual-studio-code-bin 1.94.0-1
 vlc 3.0.21-6
 vmaf 3.0.0-1
 volume_key 0.3.12-9
@@ -791,7 +791,7 @@ vulkan-tools 1.3.269-1
 wayland 1.23.1-1
 wayland-protocols 1.37-1
 wayland-utils 1.2.0-2
-webkit2gtk 2.46.1-1
+webkit2gtk 2.46.1-2
 webrtc-audio-processing 0.3.1-5
 webstorm 2024.2.3-1
 webstorm-jre 2024.2.3-1
