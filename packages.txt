@@ -456,6 +456,7 @@ linux-headers
 llvm-libs
 lm_sensors
 lmdb
+logiops
 lolcat
 lsd
 lsof

@@ -135,7 +135,7 @@ giflib 5.2.2-1
 git 2.46.2-1
 github-cli 2.58.0-1
 glib-networking 1:2.80.0-3
-glib2-docs 2.82.1-1
+glib2-docs 2.82.1-2
 glibmm 2.66.7-1
 glslang 14.3.0-1
 glu 9.0.3-2
@@ -412,7 +412,7 @@ libvorbis 1.3.7-3
 libvpx 1.14.1-1
 libwacom 2.13.0-1
 libwebp 1.4.0-3
-libwnck3 43.0-3
+libwnck3 43.1-1
 libwpe 1.16.0-3
 libx11 1.8.10-1
 libxau 1.0.11-3
@@ -450,12 +450,13 @@ libyaml 0.2.5-3
 libyuv r2426+464c51a0-1
 libzip 1.10.1-2
 lilv 0.24.24-2
-linux 6.11.1.arch1-1
+linux 6.11.2.arch1-1
 linux-firmware 20240909.552ed9b8-1
-linux-headers 6.11.1.arch1-1
+linux-headers 6.11.2.arch1-1
 llvm-libs 18.1.8-4
 lm_sensors 1:3.6.0.r41.g31d1f125-3
 lmdb 0.9.33-1
+logiops 0.3.5-1
 lolcat 100.0.1-2
 lsd 1.1.5-1
 lsof 4.99.3-2
@@ -463,7 +464,7 @@ lua 5.4.7-1
 lua52 5.2.4-7
 luit 20240102-2
 lv2 1.18.10-1
-lvm2 2.03.26-1
+lvm2 2.03.27-1
 lzo 2.10-5
 m4 1.4.19-3
 mailcap 2.1.54-2
@@ -477,7 +478,7 @@ mariadb-libs 11.5.2-1
 md4c 0.5.2-1
 mdadm 4.3-2
 media-player-info 26-1
-mesa 1:24.2.3-1
+mesa 1:24.2.4-1
 mesa-utils 9.0.0-5
 microsoft-edge-stable-bin 129.0.2792.79-1
 milou 6.1.5-1
@@ -506,7 +507,7 @@ noto-fonts-cjk 20230817-2
 noto-fonts-emoji-blob 1:15.0-1
 npm 10.8.3-1
 ntfs-3g 2022.10.3-1
-nvidia 560.35.03-10
+nvidia 560.35.03-11
 obs-backgroundremoval 1.1.13-1
 obs-studio 30.2.1-1
 okular 24.08.1-1
@@ -638,7 +639,7 @@ python-tomli 2.0.1-4
 python-trove-classifiers 2024.9.12-1
 python-typing_extensions 4.12.2-1
 python-urllib3 1.26.20-1
-python-validate-pyproject 0.19-1
+python-validate-pyproject 0.20.2-1
 python-webencodings 0.5.1-11
 python-xlib 0.33-3
 python-zipp 3.19.2-1

@@ -46,6 +46,9 @@ update() {
     yay -Qeq >"$HOME"/.scripts/packages.txt
     yay -Qe >"$HOME"/.scripts/packages-versioned.txt
 
+    # update logid config
+    cp /etc/logid.fcg "$HOME"/.scripts/logid.cfg
+
     # update scripts upstream
     cd "$HOME"/.scripts || exit
     git c -am "automated update"
