@@ -146,7 +146,7 @@ eval "$(direnv hook zsh)"
 export PATH=$PATH:$HOME/.go/bin
 
 # add gem executables to path
-export PATH="$PATH:$HOME/.local/share/gem/ruby/3.2.0/bin"
+export PATH="$PATH:$HOME/.local/share/gem/ruby/3.3.0/bin"
 
 # add heroku autocomplete
 # eval "$(heroku autocomplete:script zsh)"
