@@ -5,7 +5,7 @@ accountsservice 23.13.9-2
 adobe-source-code-pro-fonts 2.042u+1.062i+1.026vf-2
 adwaita-icon-theme 47.0-1
 aha 0.5.1-3
-alsa-card-profiles 1:1.2.5-1
+alsa-card-profiles 1:1.2.6-1
 alsa-lib 1.2.12-1
 alsa-topology-conf 1.2.5.1-4
 alsa-ucm-conf 1.2.12-1
@@ -262,7 +262,7 @@ ktextwidgets5 5.116.0-1
 kubectl 1.31.1-1
 kunitconversion5 5.116.0-1
 kuserfeedback 6.7.0-1
-kvantum 1.1.2-1
+kvantum 1.1.3-1
 kwallet-pam 6.2.2-1
 kwallet5 5.116.0-1
 kwalletmanager 24.08.2-1
@@ -552,7 +552,7 @@ perl-uri 5.29-1
 perl-www-robotrules 6.02-14
 phonon-qt5 4.12.0-4
 phonon-qt5-vlc 0.12.0-2
-pipewire 1:1.2.5-1
+pipewire 1:1.2.6-1
 pipewire-media-session 1:0.4.2-3
 pixman 0.43.4-1
 pkgconf 2.1.1-1
@@ -776,7 +776,7 @@ udisks2 2.10.1-5
 unzip 6.0-21
 upower 1.90.6-1
 usbmuxd 1.1.1-4
-usbutils 017-1
+usbutils 018-1
 v4l-utils 1.28.1-1
 v4l2loopback-dkms 0.13.2-1
 vala 0.56.17-1
@@ -793,8 +793,8 @@ wayland-protocols 1.38-1
 wayland-utils 1.2.0-2
 webkit2gtk 2.46.2-1
 webrtc-audio-processing 0.3.1-5
-webstorm 2024.2.3-1
-webstorm-jre 2024.2.3-1
+webstorm 2024.2.4-1
+webstorm-jre 2024.2.4-1
 wget 1.24.5-3
 which 2.21-6
 woff2 1.0.2-5
