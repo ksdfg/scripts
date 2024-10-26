@@ -55,7 +55,7 @@ cantarell-fonts 1:0.303.1-2
 cblas 3.12.0-5
 cdparanoia 10.2-9
 cifs-utils 7.1-1
-cloudflared-bin 2024.10.0-1
+cloudflared-bin 2024.10.1-1
 colord 1.4.7-2
 colord-kde 24.08.2-1
 confuse 3.3-4
@@ -133,7 +133,7 @@ gettext 0.22.5-2
 ghostscript 10.04.0-1
 giflib 5.2.2-1
 git 2.47.0-1
-github-cli 2.60.0-1
+github-cli 2.60.1-1
 glib-networking 1:2.80.0-3
 glib2-docs 2.82.2-1
 glibmm 2.66.7-1

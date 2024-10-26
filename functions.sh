@@ -47,7 +47,7 @@ update() {
     yay -Qe >"$HOME"/.scripts/packages-versioned.txt
 
     # update logid config
-    cp /etc/logid.fcg "$HOME"/.scripts/logid.cfg
+    cp /etc/logid.cfg "$HOME"/.scripts/logid.cfg
 
     # update scripts upstream
     cd "$HOME"/.scripts || exit
