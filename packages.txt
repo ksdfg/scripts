@@ -46,6 +46,7 @@ breeze-gtk
 breeze-icons
 breeze5
 bridge-utils
+bt-dualboot
 btrfs-progs
 bubblewrap
 c-ares
