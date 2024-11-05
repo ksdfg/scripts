@@ -126,8 +126,8 @@ gcab 1.6-2
 gcc 14.2.1+r134+gab884fffe3fc-1
 gcr 3.41.2-2
 gd 2.3.3-8
-gdb 15.2-2
-gdb-common 15.2-2
+gdb 15.2-3
+gdb-common 15.2-3
 gdk-pixbuf2 2.42.12-2
 geckodriver 0.35.0-1
 gettext 0.22.5-2
@@ -481,7 +481,7 @@ mdadm 4.3-2
 media-player-info 26-1
 mesa 1:24.2.6-1
 mesa-utils 9.0.0-5
-microsoft-edge-stable-bin 130.0.2849.56-1
+microsoft-edge-stable-bin 130.0.2849.68-1
 milou 6.2.2-1
 minikube 1.34.0-2
 minizip 1:1.3.1-2
@@ -607,7 +607,7 @@ python-dnspython 1:2.6.1-1
 python-docutils 1:0.21.2-1
 python-future 1.0.0-1
 python-html5lib 1.1-14
-python-idna 3.8-1
+python-idna 3.10-1
 python-importlib-metadata 7.2.1-1
 python-inflect 7.4.0-1
 python-jaraco.context 5.3.0-1
@@ -648,7 +648,7 @@ qbittorrent 5.0.1-1
 qca-qt5 2.3.9-3
 qqc2-desktop-style5 5.116.1-1
 qrencode 4.1.1-3
-qt5-base 5.15.15+kde+r136-1
+qt5-base 5.15.15+kde+r140-1
 qt5-declarative 5.15.15+kde+r25-1
 qt5-graphicaleffects 5.15.15-1
 qt5-imageformats 5.15.15+kde+r4-1
@@ -715,7 +715,7 @@ rust 1:1.82.0-2
 sbc 2.0-2
 sddm 0.21.0-4
 sddm-kcm 6.2.2-1
-sdl2 2.30.8-1
+sdl2 2.30.9-1
 sed 4.9-3
 semver 7.6.3-1
 serd 0.32.2-1
