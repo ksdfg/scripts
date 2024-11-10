@@ -184,6 +184,7 @@ imagemagick
 imath
 imv
 iniparser
+intel-ucode
 iso-codes
 jack2
 jasper
