@@ -56,11 +56,11 @@ cantarell-fonts 1:0.303.1-2
 cblas 3.12.0-5
 cdparanoia 10.2-9
 cifs-utils 7.1-1
-cloudflared-bin 2024.10.1-1
+cloudflared-bin 2024.11.0-1
 colord 1.4.7-2
 colord-kde 24.08.3-1
 confuse 3.3-4
-containerd 2.0.0-1
+containerd 2.0.0-2
 convertlit 1.8-12
 ctemplate 2.4-3
 cython 3.0.11-1
@@ -184,7 +184,7 @@ imagemagick 7.1.1.40-1
 imath 3.1.12-1
 imv 4.5.0-4
 iniparser 4.2.4-1
-intel-ucode 20241029-1
+intel-ucode 20241112-1
 iso-codes 4.17.0-1
 jack2 1.9.22-1
 jasper 4.2.4-2
@@ -329,7 +329,7 @@ libglvnd 1.7.0-1
 libgphoto2 2.5.31-3
 libgudev 238-1
 libgusb 0.4.9-1
-libheif 1.19.2-2
+libheif 1.19.3-1
 libibus 1.5.31-1
 libical 3.0.18-2
 libice 1.1.1-3
@@ -576,8 +576,8 @@ plasma5-integration 6.2.3-1
 polkit 125-1
 polkit-kde-agent 6.2.3-1
 polkit-qt5 0.200.0-1
-poppler 24.09.0-4
-poppler-qt5 24.09.0-4
+poppler 24.11.0-2
+poppler-qt5 24.11.0-2
 postgresql 16.3-4
 postgresql-libs 16.3-4
 postman-bin 11.18.0-1
@@ -649,7 +649,7 @@ qbittorrent 5.0.1-1
 qca-qt5 2.3.9-3
 qqc2-desktop-style5 5.116.1-1
 qrencode 4.1.1-3
-qt5-base 5.15.15+kde+r140-1
+qt5-base 5.15.15+kde+r141-1
 qt5-declarative 5.15.15+kde+r25-1
 qt5-graphicaleffects 5.15.15-1
 qt5-imageformats 5.15.15+kde+r4-1
