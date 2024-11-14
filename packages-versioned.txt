@@ -104,7 +104,7 @@ fftw 3.3.10-7
 figlet 2.2.5-6
 file 5.45-1
 findutils 4.10.0-2
-firefox 132.0.1-1
+firefox 132.0.2-1
 firefox-profile-switcher-connector 0.1.1-1
 flac 1.4.3-2
 flashplugin 32.0.0.465-2
@@ -114,7 +114,7 @@ fontconfig 2:2.15.0-2
 fortune-mod 3.22.0-1
 frameworkintegration5 5.116.0-1
 freeglut 3.6.0-1
-freeimage 3.18.0-22
+freeimage 3.18.0-23
 freetype2 2.13.3-1
 fribidi 1.0.16-1
 fuse3 3.16.2-1
@@ -157,9 +157,9 @@ grub 2:2.12-3
 gsettings-desktop-schemas 47.1-1
 gsfonts 20200910-4
 gsm 1.0.22-2
-gst-plugins-base 1.24.9-2
-gst-plugins-base-libs 1.24.9-2
-gstreamer 1.24.9-2
+gst-plugins-base 1.24.9-3
+gst-plugins-base-libs 1.24.9-3
+gstreamer 1.24.9-3
 gtk-doc 1.34.0-1
 gtk-update-icon-cache 1:4.16.5-1
 gtk2 2.24.33-5
@@ -180,7 +180,7 @@ hwloc 2.11.2-1
 hyphen 2.8.8-6
 icu67 67.1-1
 ijs 0.35-6
-imagemagick 7.1.1.40-1
+imagemagick 7.1.1.40-2
 imath 3.1.12-1
 imv 4.5.0-4
 iniparser 4.2.4-1
@@ -235,7 +235,7 @@ kiconthemes5 5.116.0-1
 kidletime5 5.116.0-1
 kimageannotator-qt5 0.7.1-3
 kinfocenter 6.2.3-1
-kio-extras 24.08.3-1
+kio-extras 24.08.3-2
 kio-fuse 5.1.0-3
 kio5 5.116.0-1
 kirigami2 5.116.0-1
@@ -452,9 +452,9 @@ libyaml 0.2.5-3
 libyuv r2426+464c51a03-1
 libzip 1.11.1-1
 lilv 0.24.24-2
-linux 6.11.6.arch1-1
-linux-firmware 20241017.22a6c7dc-1
-linux-headers 6.11.6.arch1-1
+linux 6.11.7.arch1-1
+linux-firmware 20241111.b5885ec5-1
+linux-headers 6.11.7.arch1-1
 llvm-libs 18.1.8-4
 lm_sensors 1:3.6.0.r41.g31d1f125-3
 lmdb 0.9.33-1
@@ -480,7 +480,7 @@ mariadb-libs 11.5.2-1
 md4c 0.5.2-1
 mdadm 4.3-2
 media-player-info 26-1
-mesa 1:24.2.6-1
+mesa 1:24.2.7-1
 mesa-utils 9.0.0-5
 microsoft-edge-stable-bin 130.0.2849.80-1
 milou 6.2.3-1
@@ -508,7 +508,7 @@ noto-fonts-cjk 20230817-2
 noto-fonts-emoji-blob 1:15.0-1
 npm 10.9.0-1
 ntfs-3g 2022.10.3-1
-nvidia 565.57.01-2
+nvidia 565.57.01-3
 obs-backgroundremoval 1.1.13-1
 obs-studio 30.2.3-1
 okular 24.08.3-1
@@ -516,7 +516,7 @@ oniguruma 6.9.9-1
 ookla-speedtest-bin 1.2.0-1
 openal 1.23.1-3
 opencore-amr 0.1.6-2
-openexr 3.2.4-1
+openexr 3.3.2-1
 openjpeg2 2.5.2-1
 openmpi 5.0.5-2
 openpmix 5.0.3-1
@@ -580,7 +580,7 @@ poppler 24.11.0-2
 poppler-qt5 24.11.0-2
 postgresql 16.3-4
 postgresql-libs 16.3-4
-postman-bin 11.18.0-1
+postman-bin 11.19.0-1
 powerdevil 6.2.3-1
 ppp 2.5.1-1
 prison5 5.116.0-1
@@ -590,7 +590,7 @@ protonvpn-cli 3.13.0-3
 pulseaudio 17.0-3
 pulseaudio-bluetooth 17.0-3
 purpose5 5.116.0-1
-pycharm-professional 2024.2.4-1
+pycharm-professional 2024.3-1
 python 3.12.7-1
 python-anytree 2.12.1-2
 python-appdirs 1.4.4-10
@@ -744,7 +744,7 @@ speexdsp 1.2.1-2
 spirv-tools 2024.2-1
 spotify 1:1.2.48.405-1
 sratom 0.6.16-1
-srt 1.5.3-2
+srt 1.5.4-1
 startup-notification 0.12-8
 step-cli 0.27.5-1
 sudo 1.9.16-1
@@ -784,7 +784,7 @@ v4l2loopback-dkms 0.13.2-1
 vala 0.56.17-1
 vid.stab 1.1.1-2
 visual-studio-code-bin 1.95.2-1
-vlc 3.0.21-8
+vlc 3.0.21-9
 vmaf 3.0.0-1
 volume_key 0.3.12-9
 vulkan-headers 1:1.3.295-1
@@ -795,8 +795,8 @@ wayland-protocols 1.38-1
 wayland-utils 1.2.0-2
 webkit2gtk 2.46.3-1
 webrtc-audio-processing 0.3.1-5
-webstorm 2024.2.4-1
-webstorm-jre 2024.2.4-1
+webstorm 2024.3-1
+webstorm-jre 2024.3-1
 wget 1.25.0-1
 which 2.21-6
 woff2 1.0.2-5
