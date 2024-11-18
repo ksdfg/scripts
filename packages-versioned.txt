@@ -9,7 +9,7 @@ alsa-card-profiles 1:1.2.6-1
 alsa-lib 1.2.12-1
 alsa-topology-conf 1.2.5.1-4
 alsa-ucm-conf 1.2.12-1
-aom 3.10.0-1
+aom 3.11.0-1
 appmenu-gtk-module 24.05-1
 appstream 1.0.3-1
 appstream-glib 0.8.3-2
@@ -32,7 +32,7 @@ baloo-widgets 24.08.3-1
 base 3-2
 base-devel 1-2
 bat 0.24.0-2
-bind 9.20.3-1
+bind 9.20.3-2
 binutils 2.43+r4+g7999dae6961-1
 bison 3.8.2-8
 blas 3.12.0-5
@@ -118,9 +118,9 @@ freeimage 3.18.0-23
 freetype2 2.13.3-1
 fribidi 1.0.16-1
 fuse3 3.16.2-1
-fwupd 2.0.1-1
+fwupd 2.0.1-2
 fwupd-efi 1.7-1
-fzf 0.55.0-1
+fzf 0.56.3-1
 gawk 5.3.1-1
 gcab 1.6-2
 gcc 14.2.1+r134+gab884fffe3fc-1
@@ -143,7 +143,7 @@ glu 9.0.3-2
 gnome-keyring 1:46.2-1
 gnome-online-accounts 3.52.1-1
 gnu-free-fonts 20120503-8
-go 2:1.23.2-1
+go 2:1.23.3-1
 gobject-introspection-runtime 1.82.0-1
 goland 2024.3-1
 goland-jre 2024.3-1
@@ -180,7 +180,7 @@ hwloc 2.11.2-1
 hyphen 2.8.8-6
 icu67 67.1-1
 ijs 0.35-6
-imagemagick 7.1.1.40-2
+imagemagick 7.1.1.41-1
 imath 3.1.12-1
 imv 4.5.0-4
 iniparser 4.2.4-1
@@ -195,7 +195,7 @@ jq 1.7.1-2
 json-glib 1.10.0-1
 junction 1.8-3
 jxrlib 0.2.4-2
-k9s 0.32.6-1
+k9s 0.32.7-1
 kaccounts-integration 24.08.3-1
 kactivities-stats5 5.116.0-1
 kactivities5 5.116.0-1
@@ -292,7 +292,7 @@ libatasmart 0.19-6
 libavc1394 0.5.4-6
 libavif 1.1.1-2
 libb2 0.98.1-3
-libblockdev 3.2.1-1
+libblockdev 3.2.1-2
 libbluray 1.3.4-2
 libbsd 0.12.2-2
 libbytesize 2.8-3
@@ -443,7 +443,7 @@ libxres 1.2.2-2
 libxshmfence 1.3.2-2
 libxslt 1.1.42-1
 libxss 1.2.4-2
-libxt 1.3.0-2
+libxt 1.3.1-1
 libxtst 1.2.5-1
 libxv 1.0.12-2
 libxvmc 1.0.14-1
@@ -452,9 +452,9 @@ libyaml 0.2.5-3
 libyuv r2426+464c51a03-1
 libzip 1.11.1-1
 lilv 0.24.24-2
-linux 6.11.7.arch1-1
+linux 6.11.8.arch1-2
 linux-firmware 20241111.b5885ec5-1
-linux-headers 6.11.7.arch1-1
+linux-headers 6.11.8.arch1-2
 llvm-libs 18.1.8-4
 lm_sensors 1:3.6.0.r41.g31d1f125-3
 lmdb 0.9.33-1
@@ -482,7 +482,7 @@ mdadm 4.3-2
 media-player-info 26-1
 mesa 1:24.2.7-1
 mesa-utils 9.0.0-5
-microsoft-edge-stable-bin 131.0.2903.48-1
+microsoft-edge-stable-bin 131.0.2903.51-1
 milou 6.2.3-1
 minikube 1.34.0-2
 minizip 1:1.3.1-2
@@ -508,13 +508,13 @@ noto-fonts-cjk 20230817-2
 noto-fonts-emoji-blob 1:15.0-1
 npm 10.9.0-1
 ntfs-3g 2022.10.3-1
-nvidia 565.57.01-3
+nvidia 565.57.01-5
 obs-backgroundremoval 1.1.13-1
 obs-studio 30.2.3-1
 okular 24.08.3-1
 oniguruma 6.9.9-1
 ookla-speedtest-bin 1.2.0-1
-openal 1.23.1-3
+openal 1.24.0-1
 opencore-amr 0.1.6-2
 openexr 3.3.2-1
 openjpeg2 2.5.2-1
@@ -621,7 +621,7 @@ python-msgpack 1.0.5-2
 python-nspektr 0.5.0-2
 python-numpy 2.1.3-1
 python-ordered-set 4.1.0-5
-python-packaging 24.1-1
+python-packaging 24.2-1
 python-pip 24.3.1-1
 python-platformdirs 4.3.6-1
 python-ply 3.11-13
@@ -639,13 +639,13 @@ python-tenacity 9.0.0-1
 python-tomli 2.0.1-4
 python-trove-classifiers 2024.10.21.16-1
 python-typing_extensions 4.12.2-1
-python-urllib3 1.26.20-1
+python-urllib3 1.26.20-3
 python-validate-pyproject 0.22-1
 python-webencodings 0.5.1-11
 python-xlib 0.33-3
 python-zipp 3.19.2-1
 python311 3.11.9-2
-qbittorrent 5.0.1-1
+qbittorrent 5.0.2-1
 qca-qt5 2.3.9-3
 qqc2-desktop-style5 5.116.1-1
 qrencode 4.1.1-3
@@ -711,7 +711,7 @@ ruby-test-unit 3.6.2-3
 ruby-tins 1.32.1-3
 rubygems 3.5.16-1
 run-parts 5.17-1
-runc 1.2.1-1
+runc 1.2.2-1
 rust 1:1.82.0-2
 sbc 2.0-2
 sddm 0.21.0-4
@@ -722,10 +722,10 @@ semver 7.6.3-1
 serd 0.32.2-1
 shaderc 2024.2-1
 shared-mime-info 2.4-1
-shotwell 2:0.32.8-1
+shotwell 2:0.32.10-1
 signon-kwallet-extension 24.08.3-1
 signon-plugin-oauth2 0.25-3
-signon-ui 0.17+20231016-2
+signon-ui 0.17+20231016-3
 signond 8.61-3
 slack-desktop 4.41.97-1
 smartmontools 7.4-2
@@ -747,7 +747,7 @@ sratom 0.6.16-1
 srt 1.5.4-1
 startup-notification 0.12-8
 step-cli 0.27.5-1
-sudo 1.9.16-1
+sudo 1.9.16.p1-1
 svt-av1 2.2.1-1
 syndication5 5.116.0-1
 syntax-highlighting5 5.116.0-1
@@ -757,7 +757,7 @@ taglib 2.0.2-1
 talloc 2.4.2-3
 tcl 8.6.14-4
 tdb 1.4.12-1
-telegram-desktop 5.7.2-3
+telegram-desktop 5.8.1-1
 tevent 1:0.16.1-3
 texinfo 7.1.1-1
 thin-provisioning-tools 1.1.0-1
