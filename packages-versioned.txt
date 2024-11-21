@@ -169,7 +169,7 @@ gts 0.7.6.121130-3
 gzip 1.13-4
 harfbuzz 10.1.0-1
 harfbuzz-icu 10.1.0-1
-helm 3.16.2-2
+helm 3.16.3-1
 heroku-cli 9.3.2-1
 hicolor-icon-theme 0.18-1
 hidapi 0.14.0-3
@@ -339,7 +339,7 @@ libiec61883 1.2.0-8
 libimobiledevice 1.3.0-14
 libindicator-gtk3 12.10.1-10
 libinih 58-1
-libinput 1.26.2-1
+libinput 1.27.0-1
 libjcat 0.2.1-1
 libjpeg-turbo 3.0.4-1
 libkexiv2 24.08.3-1
@@ -358,7 +358,7 @@ libmng 2.0.3-4
 libmodplug 0.8.9.0-6
 libmpcdec 1:0.1+r475-6
 libmpeg2 0.5.1-10
-libmtp 1.1.21-2
+libmtp 1.1.22-1
 libnautilus-extension 47.0-3
 libnotify 0.8.3-1
 libnsgif 1.0.0-1
@@ -601,8 +601,8 @@ python-cffi 1.17.1-1
 python-chardet 5.2.0-2
 python-colorama 0.4.6-3
 python-commonmark 0.9.1-11
-python-cryptography 42.0.8-1
-python-distlib 0.3.8-2
+python-cryptography 43.0.3-1
+python-distlib 0.3.9-1
 python-distro 1.9.0-2
 python-dnspython 1:2.6.1-1
 python-docutils 1:0.21.2-1
@@ -628,7 +628,7 @@ python-ply 3.11-13
 python-pycparser 2.22-2
 python-pydantic 2.9.2-1
 python-pygments 2.18.0-1
-python-pyopenssl 24.2.1-1
+python-pyopenssl 24.2.1-2
 python-pyparsing 3.1.2-2
 python-requests 2.32.3-1
 python-resolvelib 1.1.0-1
@@ -695,7 +695,7 @@ ruby-manpages 0.6.1-6
 ruby-minitest 5.22.3-2
 ruby-optimist 3.1.0-3
 ruby-paint 2.3.0-4
-ruby-power_assert 2.0.3-5
+ruby-power_assert 2.0.4-1
 ruby-rainbow 3.1.1-3
 ruby-rake 13.1.0-1
 ruby-rdoc 6.6.3.1-1
