@@ -1,7 +1,7 @@
 [user]
 	name = ksdfg
 	email = ksdfg123@gmail.com
-	signingkey = 34A2765B29E156704720E46350D061227F1119C2
+	signingkey = 38AA49997E22451B5536A8F8543211343CAA6F66
 
 [commit]
 	gpgsign = true
