@@ -1,3 +1,4 @@
+7zip
 a52dec
 abseil-cpp
 accounts-qml-module
@@ -525,7 +526,6 @@ orc
 os-prober
 oxygen-sounds
 oxygen5
-p7zip
 pacman
 pacman-contrib
 pahole
