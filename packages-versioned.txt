@@ -34,7 +34,7 @@ base 3-2
 base-devel 1-2
 bat 0.24.0-2
 bind 9.20.4-2
-binutils 2.43+r4+g7999dae6961-1
+binutils 2.43_1+r171+g01da089627be-1
 bison 3.8.2-8
 blas 3.12.0-5
 bluedevil 1:6.2.5-1
@@ -103,7 +103,7 @@ ffmpeg 2:7.1-5
 ffmpeg4.4 4.4.5-2
 fftw 3.3.10-7
 figlet 2.2.5-6
-file 5.46-2
+file 5.46-3
 findutils 4.10.0-2
 firefox 133.0.3-2
 firefox-profile-switcher-connector 0.1.1-1
@@ -479,7 +479,7 @@ mariadb 11.6.2-2
 mariadb-clients 11.6.2-2
 mariadb-libs 11.6.2-2
 md4c 0.5.2-1
-mdadm 4.3-2
+mdadm 4.4-1
 media-player-info 26-1
 mesa 1:24.3.2-1
 mesa-utils 9.0.0-5
@@ -494,7 +494,7 @@ mongodb-tools 1:100.10.0-1
 mtdev 1.1.7-1
 mtools 1:4.0.46-1
 mtpfs 1.1-5
-nano 8.2-1
+nano 8.3-1
 ndctl 79-1
 neofetch 7.1.0-2
 net-tools 2.10-3
