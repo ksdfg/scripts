@@ -154,3 +154,10 @@ export PATH="$PATH:$HOME/.local/share/gem/ruby/3.3.0/bin"
 # startup visuals
 figlet -f slant madness sense | lolcat -as 427
 fcookie | catsay -c leroy | lolcat -as 427
+
+# bun completions
+[ -s "/home/ksdfg/.bun/_bun" ] && source "/home/ksdfg/.bun/_bun"
+
+# bun
+export BUN_INSTALL="$HOME/.bun"
+export PATH="$BUN_INSTALL/bin:$PATH"
