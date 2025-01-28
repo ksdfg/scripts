@@ -503,6 +503,7 @@ netpbm
 networkmanager
 networkmanager-qt5
 node-gyp
+nodejs-lts-iron
 nodejs-nopt
 noto-fonts
 noto-fonts-cjk
