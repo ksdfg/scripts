@@ -28,6 +28,7 @@ autoconf
 automake
 avahi
 awesome-terminal-fonts
+aws-cli-bin
 baloo
 baloo-widgets
 base
@@ -603,7 +604,6 @@ python-distlib
 python-distro
 python-dnspython
 python-docutils
-python-future
 python-html5lib
 python-idna
 python-importlib-metadata
