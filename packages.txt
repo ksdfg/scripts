@@ -714,7 +714,7 @@ rust
 sbc
 sddm
 sddm-kcm
-sdl2
+sdl2-compat
 sed
 semver
 serd
