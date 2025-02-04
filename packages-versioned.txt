@@ -533,7 +533,7 @@ pacman-contrib 1.11.0-1
 pahole 1:1.28-3
 pango 1:1.56.1-1
 pangomm 2.46.4-1
-parallel 20241222-1
+parallel 20250122-1
 parted 3.6-2
 patch 2.7.6-10
 pavucontrol 1:6.1-1
@@ -579,7 +579,7 @@ polkit-kde-agent 6.2.5-1
 polkit-qt5 0.200.0-1
 poppler 25.01.0-1
 poppler-qt5 25.01.0-1
-postman-bin 11.28.4-1
+postman-bin 11.31.0-1
 powerdevil 6.2.5-1
 ppp 2.5.2-1
 prison5 5.116.0-1
@@ -593,7 +593,7 @@ python 3.13.1-1
 python-anytree 2.12.1-4
 python-appdirs 1.4.4-11
 python-autocommand 2.2.2-7
-python-cachecontrol 1:0.14.1-2
+python-cachecontrol 1:0.14.2-1
 python-certifi 2025.01.31-1
 python-cffi 1.17.1-2
 python-chardet 5.2.0-6
