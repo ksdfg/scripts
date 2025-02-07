@@ -19,7 +19,7 @@ archlinux-appstream-data 20250202-1
 archlinux-keyring 20250123-1
 aria2 1.37.0-1
 aribb24 1.0.3-4
-ark 24.12.1-1
+ark 24.12.2-1
 asar 3.2.18-2
 at-spi2-core 2.54.1-1
 atkmm 2.28.4-1
@@ -30,7 +30,7 @@ avahi 1:0.8+r194+g3f79789-3
 awesome-terminal-fonts 1.1.0-5
 aws-cli-bin 1:2.23.2-1
 baloo 6.10.0-1
-baloo-widgets 24.12.1-1
+baloo-widgets 24.12.2-1
 base 3-2
 base-devel 1-2
 bat 0.25.0-4
@@ -43,7 +43,7 @@ bluez 5.79-1
 bluez-qt5 5.116.0-1
 bluez-utils 5.79-1
 bolt 0.9.8-1
-boost-libs 1.86.0-6
+boost-libs 1.87.0-2
 breeze-gtk 6.2.5-1
 breeze-icons 6.10.0-1
 breeze5 6.2.5-1
@@ -58,9 +58,9 @@ cantarell-fonts 1:0.303.1-2
 cblas 3.12.1-2
 cdparanoia 10.2-9
 cifs-utils 7.1-1
-cloudflared-bin 2025.1.1-1
+cloudflared-bin 2025.2.0-1
 colord 1.4.7-2
-colord-kde 24.12.1-1
+colord-kde 24.12.2-1
 confuse 3.3-4
 containerd 2.0.2-1
 convertlit 1.8-12
@@ -86,7 +86,7 @@ docbook-xsl 1.79.2-9
 docker 1:27.3.1-1
 docker-buildx 0.20.1-1
 docker-compose 2.32.4-1
-dolphin 24.12.1-1
+dolphin 24.12.2-1
 dos2unix 7.5.2-2
 dosfstools 4.2-5
 double-conversion 3.3.0-2
@@ -183,7 +183,7 @@ hyphen 2.8.8-6
 icu67 67.1-1
 ijs 0.35-6
 imagemagick 7.1.1.43-1
-imath 3.1.12-2
+imath 3.1.12-3
 imv 4.5.0-4
 iniparser 4.2.5-1
 intel-ucode 20241112-1
@@ -198,7 +198,7 @@ json-glib 1.10.6-1
 junction 1.8-3
 jxrlib 0.2.4-2
 k9s 0.32.7-1
-kaccounts-integration 24.12.1-1
+kaccounts-integration 24.12.2-1
 kactivities-stats5 5.116.0-1
 kactivities5 5.116.0-1
 kactivitymanagerd 6.2.5-1
@@ -237,7 +237,7 @@ kiconthemes5 5.116.0-1
 kidletime5 5.116.0-1
 kimageannotator-qt5 0.7.1-3
 kinfocenter 6.2.5-1
-kio-extras 24.12.1-1
+kio-extras 24.12.2-1
 kio-fuse 5.1.0-3
 kio5 5.116.0-1
 kirigami2 5.116.0-1
@@ -249,7 +249,7 @@ kmenuedit 6.2.5-1
 knewstuff5 5.116.0-3
 knotifications5 5.116.0-1
 knotifyconfig5 5.116.0-1
-konsole 24.12.1-1
+konsole 24.12.2-1
 kpackage5 5.116.0-1
 kparts5 5.116.0-1
 kpeople5 5.116.0-1
@@ -269,7 +269,7 @@ kuserfeedback 6.10.0-1
 kvantum 1.1.3-1
 kwallet-pam 6.2.5-1
 kwallet5 5.116.0-1
-kwalletmanager 24.12.1-1
+kwalletmanager 24.12.2-1
 kwayland-integration 6.2.5-1
 kwayland5 5.116.0-1
 kwidgetsaddons5 5.116.0-1
@@ -303,7 +303,7 @@ libcbor 0.11.0-1
 libcloudproviders 0.3.6-1
 libcolord 1.4.7-2
 libcups 2:2.4.11-2
-libcurl-gnutls 8.12.0-1
+libcurl-gnutls 8.12.0-2
 libdatrie 0.2.13-4
 libdbusmenu-glib 16.04.0.r498-2
 libdbusmenu-gtk3 16.04.0.r498-2
@@ -344,7 +344,7 @@ libinih 58-1
 libinput 1.27.1-1
 libjcat 0.2.2-1
 libjpeg-turbo 3.1.0-1
-libkexiv2 24.12.1-1
+libkexiv2 24.12.2-1
 libkscreen 6.2.5-1
 libksysguard 6.2.5-1
 libldac 2.0.2.3-2
@@ -400,7 +400,7 @@ libtheora 1.1.1-6
 libtiff 4.7.0-1
 libtommath 1.3.0-1
 libtool 2.5.4+r1+gbaa1fe41-2
-libtorrent-rasterbar 1:2.0.10-4
+libtorrent-rasterbar 1:2.0.11-1
 libunwind 1.8.1-3
 libupnp 1.14.20-2
 liburcu 0.15.0-1
@@ -485,13 +485,13 @@ media-player-info 26-1
 mesa 1:24.3.4-1
 mesa-utils 9.0.0-5
 milou 6.2.5-1
-minikube 1.34.0-2
+minikube 1.35.0-1
 minizip 1:1.3.1-2
 modemmanager 1.22.0-1
 modemmanager-qt5 5.116.0-1
 mongodb-atlas-cli-bin 1.37.0-1
 mongodb-compass 1.45.2-1
-mongodb-tools 1:100.11.0-1
+mongodb-tools 1:100.11.0-2
 mtdev 1.1.7-1
 mtools 1:4.0.47-1
 mtpfs 1.1-5
@@ -513,7 +513,7 @@ ntfs-3g 2022.10.3-1
 nvidia 570.86.16-2
 obs-backgroundremoval 1.1.13-1
 obs-studio 31.0.1-2
-okular 24.12.1-1
+okular 24.12.2-1
 oniguruma 6.9.10-1
 ookla-speedtest-bin 1.2.0-1
 openal 1.24.2-1
@@ -713,14 +713,14 @@ rust 1:1.84.1-1
 sbc 2.0-2
 sddm 0.21.0-6
 sddm-kcm 6.2.5-1
-sdl2-compat 2.30.52-1
+sdl2-compat 2.30.54-1
 sed 4.9-3
 semver 7.6.3-1
 serd 0.32.4-1
 shaderc 2024.4-1
 shared-mime-info 2.4-1
 shotwell 2:0.32.10-1
-signon-kwallet-extension 24.12.1-1
+signon-kwallet-extension 24.12.2-1
 signon-plugin-oauth2 0.25-3
 signon-ui 0.17+20231016-3
 signond 8.61-3
@@ -734,8 +734,8 @@ sonnet5 5.116.0-1
 sord 0.16.18-1
 sound-theme-freedesktop 0.8-6
 soundtouch 2.3.3-1
-source-highlight 3.1.9-13
-spectacle 24.12.1-1
+source-highlight 3.1.9-14
+spectacle 24.12.2-1
 speex 1.2.1-2
 speexdsp 1.2.1-2
 spirv-tools 2024.4.rc2-1
@@ -753,7 +753,7 @@ systemsettings 6.2.5-1
 taglib 2.0.2-1
 talloc 2.4.2-4
 tcl 8.6.16-1
-tdb 1.4.12-2
+tdb 1.4.13-1
 telegram-desktop 5.10.7-1
 tevent 1:0.16.1-4
 texinfo 7.1.1-1
@@ -780,7 +780,7 @@ v4l-utils 1.28.1-2
 v4l2loopback-dkms 0.13.2-1
 vala 0.56.17-1
 vid.stab 1.1.1-2
-visual-studio-code-bin 1.96.4-1
+visual-studio-code-bin 1.97.0-1
 vlc 3.0.21-12
 vmaf 3.0.0-1
 volume_key 0.3.12-10
