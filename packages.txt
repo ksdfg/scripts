@@ -796,6 +796,7 @@ webstorm
 webstorm-jre
 wget
 which
+wmctrl
 woff2
 wpebackend-fdo
 x264
