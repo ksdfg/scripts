@@ -84,8 +84,8 @@ dnssec-anchors 20190629-4
 docbook-xml 4.5-10
 docbook-xsl 1.79.2-9
 docker 1:27.5.1-1
-docker-buildx 0.21.0-1
-docker-compose 2.33.0-1
+docker-buildx 0.21.1-1
+docker-compose 2.33.1-1
 dolphin 24.12.2-1
 dos2unix 7.5.2-2
 dosfstools 4.2-5
@@ -97,7 +97,7 @@ ebook-tools 0.2.2-8
 editorconfig-core-c 0.12.9-1
 efibootmgr 18-3
 enchant 2.8.2-2
-exiv2 0.28.4-1
+exiv2 0.28.5-1
 faad2 2.11.1-1
 fakeroot 1.37-1
 ffmpeg 2:7.1-6
@@ -108,7 +108,7 @@ file 5.46-3
 findutils 4.10.0-2
 firefox 135.0.1-1
 firefox-profile-switcher-connector 0.1.1-1
-flac 1.4.3-2
+flac 1.5.0-1
 flashplugin 32.0.0.465-2
 flashrom 1.5.1-1
 flex 2.6.4-5
@@ -138,7 +138,7 @@ giflib 5.2.2-1
 git 2.48.1-2
 github-cli 2.67.0-1
 glib-networking 1:2.80.1-1
-glib2-docs 2.82.4-2
+glib2-docs 2.82.5-1
 glibmm 2.66.7-1
 glslang 15.1.0-1
 glu 9.0.3-2
@@ -159,9 +159,9 @@ grub 2:2.12-3
 gsettings-desktop-schemas 47.1-1
 gsfonts 20200910-4
 gsm 1.0.22-2
-gst-plugins-base 1.24.12-2
-gst-plugins-base-libs 1.24.12-2
-gstreamer 1.24.12-2
+gst-plugins-base 1.24.12-3
+gst-plugins-base-libs 1.24.12-3
+gstreamer 1.24.12-3
 gtk-doc 1.34.0-3
 gtk-update-icon-cache 1:4.16.12-1
 gtk2 2.24.33-5
@@ -169,8 +169,8 @@ gtk3 1:3.24.48-2
 gtkmm3 3.24.9-1
 gts 0.7.6.121130-3
 gzip 1.13-4
-harfbuzz 10.2.0-2
-harfbuzz-icu 10.2.0-2
+harfbuzz 10.3.0-1
+harfbuzz-icu 10.3.0-1
 helm 3.17.0-1
 heroku-cli 10.0.2-1
 hicolor-icon-theme 0.18-1
@@ -362,7 +362,7 @@ libmpcdec 1:0.1+r475-6
 libmpeg2 0.5.1-10
 libmtp 1.1.22-1
 libnautilus-extension 47.2-1
-libnotify 0.8.3-1
+libnotify 0.8.4-1
 libnsgif 1.0.0-1
 libnsl 2.0.1-1
 libogg 1.3.5-2
@@ -387,7 +387,7 @@ libsamplerate 0.2.2-3
 libsigc++ 2.12.1-1
 libsm 1.2.5-1
 libsmbios 2.4.3-8
-libsndfile 1.2.2-2
+libsndfile 1.2.2-3
 libsoup 2.74.3-1
 libsoup3 3.6.4-1
 libsoxr 0.1.3-4
@@ -709,7 +709,7 @@ ruby-tins 1.37.1-1
 rubygems 3.5.22-3
 run-parts 5.17-1
 runc 1.2.5-1
-rust 1:1.84.1-1
+rust 1:1.85.0-1
 sbc 2.0-2
 sddm 0.21.0-6
 sddm-kcm 6.3.1-1
@@ -743,7 +743,7 @@ spotify 1:1.2.56.502-1
 sratom 0.6.18-1
 srt 1.5.4-1
 startup-notification 0.12-8
-step-cli 0.28.2-1
+step-cli 0.28.3-1
 sudo 1.9.16.p2-2
 svt-av1 2.3.0-1
 syndication5 5.116.0-1
@@ -781,7 +781,7 @@ v4l2loopback-dkms 0.13.2-1
 vala 0.56.17-1
 vid.stab 1.1.1-2
 visual-studio-code-bin 1.97.2-1
-vlc 3.0.21-12
+vlc 3.0.21-13
 vmaf 3.0.0-1
 volume_key 0.3.12-10
 vulkan-headers 1:1.4.303-1
