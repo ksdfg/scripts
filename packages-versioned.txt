@@ -83,7 +83,7 @@ dnsmasq 2.90-2
 dnssec-anchors 20190629-4
 docbook-xml 4.5-10
 docbook-xsl 1.79.2-9
-docker 1:27.5.1-1
+docker 1:28.0.0-1
 docker-buildx 0.21.1-1
 docker-compose 2.33.1-1
 dolphin 24.12.2-1
@@ -122,7 +122,7 @@ fribidi 1.0.16-1
 fuse3 3.16.2-1
 fwupd 2.0.6-1
 fwupd-efi 1.7-1
-fzf 0.60.0-1
+fzf 0.60.2-1
 gawk 5.3.1-1
 gcab 1.6-2
 gcc 14.2.1+r753+g1cd744a6828f-1
@@ -155,7 +155,7 @@ graphite 1:1.3.14-4
 graphviz 12.2.1-1
 grep 3.11-1
 groff 1.23.0-7
-grub 2:2.12-3
+grub 2:2.12.r212.g4dc616657-2
 gsettings-desktop-schemas 47.1-1
 gsfonts 20200910-4
 gsm 1.0.22-2
@@ -182,7 +182,7 @@ hwloc 2.11.2-1
 hyphen 2.8.8-6
 icu67 67.1-1
 ijs 0.35-6
-imagemagick 7.1.1.43-1
+imagemagick 7.1.1.44-1
 imath 3.1.12-3
 imv 4.5.0-5
 iniparser 4.2.6-1
@@ -292,7 +292,7 @@ libass 0.17.3-1
 libasyncns 1:0.8+r3+g68cd5af-3
 libatasmart 0.19-6
 libavc1394 0.5.4-6
-libavif 1.1.1-2
+libavif 1.2.0-1
 libb2 0.98.1-3
 libblockdev 3.3.0-1
 libbluray 1.3.4-2
@@ -376,7 +376,7 @@ libpng 1.6.47-1
 libproxy 0.5.9-1
 libpulse 17.0+r43+g3e2bb8a1e-1
 libqaccessibilityclient-qt5 0.6.0-1
-libqalculate 5.5.0-2
+libqalculate 5.5.1-1
 libqmi 1.34.0-2
 libqrtr-glib 1.2.2-3
 libraqm 0.10.2-1
@@ -403,7 +403,7 @@ libtool 2.5.4+r1+gbaa1fe41-3
 libtorrent-rasterbar 1:2.0.11-2
 libunwind 1.8.1-3
 libupnp 1.14.20-2
-liburcu 0.15.0-1
+liburcu 0.15.1-1
 libusb 1.0.27-1
 libusb-compat 0.1.8-2
 libusbmuxd 2.1.0-1
@@ -454,9 +454,9 @@ libyaml 0.2.5-3
 libyuv r2426+464c51a03-1
 libzip 1.11.2-1
 lilv 0.24.26-1
-linux 6.13.3.arch1-1
+linux 6.13.4.arch1-1
 linux-firmware 20250210.5bc5868b-1
-linux-headers 6.13.3.arch1-1
+linux-headers 6.13.4.arch1-1
 llvm-libs 19.1.7-1
 lm_sensors 1:3.6.0.r41.g31d1f125-3
 lmdb 0.9.33-1
@@ -489,7 +489,7 @@ minikube 1.35.0-1
 minizip 1:1.3.1-2
 modemmanager 1.22.0-1
 modemmanager-qt5 5.116.0-1
-mongodb-atlas-cli-bin 1.38.0-1
+mongodb-atlas-cli-bin 1.39.0-1
 mongodb-compass 1.45.3-1
 mongodb-tools 1:100.11.0-2
 mtdev 1.1.7-1
@@ -503,14 +503,14 @@ netpbm 10.86.44-1
 networkmanager 1.50.2-1
 networkmanager-qt5 5.116.0-1
 node-gyp 11.1.0-3
-nodejs-lts-iron 20.18.2-2
+nodejs-lts-iron 20.18.3-1
 nodejs-nopt 7.2.1-1
 noto-fonts 1:2025.02.01-1
 noto-fonts-cjk 20240730-1
 noto-fonts-emoji-blob 1:15.0-1
 npm 11.1.0-2
 ntfs-3g 2022.10.3-1
-nvidia 570.86.16-6
+nvidia 570.86.16-7
 obs-backgroundremoval 1.1.13-1
 obs-studio 31.0.1-2
 okular 24.12.2-1
@@ -525,15 +525,15 @@ openpmix 5.0.6-1
 openssh 9.9p2-1
 opus 1.5.2-1
 orc 0.4.41-1
-os-prober 1.81-2
+os-prober 1.83-1
 oxygen-sounds 6.3.1-1
 oxygen5 6.3.1-1
-pacman 7.0.0.r6.gc685ae6-1
+pacman 7.0.0.r6.gc685ae6-2
 pacman-contrib 1.11.0-1
 pahole 1:1.29-1
 pango 1:1.56.1-1
 pangomm 2.46.4-1
-parallel 20250122-1
+parallel 20250222-1
 parted 3.6-2
 patch 2.7.6-10
 pavucontrol 1:6.1-1
@@ -579,7 +579,7 @@ polkit-kde-agent 6.3.1-1
 polkit-qt5 0.200.0-1
 poppler 25.02.0-2
 poppler-qt5 25.02.0-2
-postman-bin 11.32.3-1
+postman-bin 11.33.4-1
 powerdevil 6.3.1-1
 ppp 2.5.2-1
 prison5 5.116.0-1
@@ -625,7 +625,7 @@ python-ply 3.11-14
 python-pycparser 2.22-3
 python-pydantic 2.10.6-1
 python-pygments 2.19.1-1
-python-pyopenssl 24.3.0-1
+python-pyopenssl 25.0.0-1
 python-pyparsing 3.1.2-3
 python-requests 2.32.3-4
 python-resolvelib 1.1.0-2
@@ -634,7 +634,7 @@ python-setuptools 1:75.8.0-1
 python-six 1.17.0-1
 python-tenacity 9.0.0-2
 python-tomli 2.0.1-5
-python-trove-classifiers 2025.1.15.22-1
+python-trove-classifiers 2025.2.18.16-1
 python-typing_extensions 4.12.2-3
 python-urllib3 2.3.0-1
 python-validate-pyproject 0.23-1
@@ -683,8 +683,8 @@ ripgrep 14.1.1-1
 rnnoise 1:0.2-1
 rsync 3.4.1-2
 rtkit 0.13-3
-ruby 3.3.7-1
-ruby-bundled-gems 3.3.7-1
+ruby 3.3.7-2
+ruby-bundled-gems 3.3.7-2
 ruby-bundler 2.6.0-3
 ruby-diff-lcs 1.5.1-3
 ruby-irb 1.13.1-2
@@ -702,9 +702,9 @@ ruby-rspec-core 3.13.1-1
 ruby-rspec-expectations 3.13.3-1
 ruby-rspec-mocks 3.13.1-2
 ruby-rspec-support 3.13.1-4
-ruby-stdlib 3.3.7-1
+ruby-stdlib 3.3.7-2
 ruby-term-ansicolor 1.11.2-1
-ruby-test-unit 3.6.2-3
+ruby-test-unit 3.6.7-1
 ruby-tins 1.37.1-1
 rubygems 3.5.22-3
 run-parts 5.17-1
@@ -728,7 +728,7 @@ slack-desktop 4.41.105-1
 smartmontools 7.4-2
 smbclient 2:4.21.4-1
 snappy 1.2.1-2
-socat 1.8.0.2-1
+socat 1.8.0.3-1
 solid5 5.116.0-1
 sonnet5 5.116.0-1
 sord 0.16.18-1
@@ -795,7 +795,7 @@ webrtc-audio-processing-0.3 0.3.1-6
 webstorm 2024.3.3-1
 webstorm-jre 2024.3.3-1
 wget 1.25.0-1
-which 2.21-6
+which 2.23-1
 wmctrl 1.07-6
 woff2 1.0.2-5
 wpebackend-fdo 1.14.3-2
