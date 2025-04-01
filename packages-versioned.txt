@@ -155,7 +155,7 @@ graphite 1:1.3.14-4
 graphviz 12.2.1-1
 grep 3.11-1
 groff 1.23.0-7
-grub 2:2.12.r226.g56ccc5ed-2
+grub 2:2.12.r260.gaae2ea61-1
 gsettings-desktop-schemas 48.0-1
 gsfonts 20200910-4
 gsm 1.0.22-2
@@ -773,7 +773,7 @@ ttf-opensans 3.003-1
 ttf-roboto 3.011-1
 udisks2 2.10.1-5
 unzip 6.0-22
-upower 1.90.7-1
+upower 1.90.8-1
 usbmuxd 1.1.1-4
 usbutils 018-1
 v4l-utils 1.28.1-2
