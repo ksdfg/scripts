@@ -58,7 +58,7 @@ cantarell-fonts 1:0.303.1-2
 cblas 3.12.1-2
 cdparanoia 10.2-9
 cifs-utils 7.3-1
-cloudflared-bin 2025.2.1-1
+cloudflared-bin 2025.4.0-1
 colord 1.4.7-2
 colord-kde 24.12.3-1
 confuse 3.3-4
@@ -83,7 +83,7 @@ dnsmasq 2.91-1
 dnssec-anchors 20190629-4
 docbook-xml 4.5-10
 docbook-xsl 1.79.2-9
-docker 1:28.0.4-1
+docker 1:28.0.4-2
 docker-buildx 0.22.0-1
 docker-compose 2.34.0-1
 dolphin 24.12.3-1
@@ -138,14 +138,14 @@ giflib 5.2.2-1
 git 2.49.0-1
 github-cli 2.69.0-1
 glib-networking 1:2.80.1-1
-glib2-docs 2.84.0-1
+glib2-docs 2.84.1-1
 glibmm 2.66.8-1
 glslang 15.2.0-2
 glu 9.0.3-2
 gnome-keyring 1:48.0-1
 gnome-online-accounts 3.54.1-1
 gnu-free-fonts 20120503-8
-go 2:1.24.1-1
+go 2:1.24.1-2
 gobject-introspection-runtime 1.84.0-1
 goland 2024.3.5-1
 goland-jre 2024.3.5-1
@@ -159,9 +159,9 @@ grub 2:2.12.r260.gaae2ea61-1
 gsettings-desktop-schemas 48.0-1
 gsfonts 20200910-4
 gsm 1.0.22-2
-gst-plugins-base 1.26.0-2
-gst-plugins-base-libs 1.26.0-2
-gstreamer 1.26.0-2
+gst-plugins-base 1.26.0-3
+gst-plugins-base-libs 1.26.0-3
+gstreamer 1.26.0-3
 gtk-doc 1.34.0-3
 gtk-update-icon-cache 1:4.18.3-1
 gtk2 2.24.33-5
@@ -482,7 +482,7 @@ mariadb-libs 11.7.2-2
 md4c 0.5.2-1
 mdadm 4.4-1
 media-player-info 26-1
-mesa 1:25.0.2-2
+mesa 1:25.0.3-1
 mesa-utils 9.0.0-5
 milou 6.3.4-1
 minikube 1.35.0-1
@@ -780,7 +780,7 @@ v4l-utils 1.28.1-2
 v4l2loopback-dkms 0.14.0-1
 vala 0.56.18-2
 vid.stab 1.1.1-2
-visual-studio-code-bin 1.98.2-1
+visual-studio-code-bin 1.99.0-2
 vlc 3.0.21-16
 vmaf 3.0.0-1
 volume_key 0.3.12-10
