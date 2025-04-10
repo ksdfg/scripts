@@ -120,7 +120,7 @@ freeimage 3.18.0-23
 freetype2 2.13.3-3
 fribidi 1.0.16-1
 fuse3 3.17.1-1
-fwupd 2.0.7-1
+fwupd 2.0.8-1
 fwupd-efi 1.7-1
 fzf 0.60.3-1
 gawk 5.3.2-1
@@ -352,7 +352,7 @@ liblqr 0.4.3-1
 libmad 0.15.1b-10
 libmanette 0.2.11-2
 libmatroska 1.7.1-2
-libmbim 1.30.0-1
+libmbim 1.32.0-1
 libmd 1.1.0-2
 libmfx 23.2.2-3
 libmicrohttpd 1.0.1-1
@@ -377,8 +377,8 @@ libproxy 0.5.9-1
 libpulse 17.0+r43+g3e2bb8a1e-1
 libqaccessibilityclient-qt5 0.6.0-1
 libqalculate 5.5.2-1
-libqmi 1.34.0-2
-libqrtr-glib 1.2.2-3
+libqmi 1.36.0-1
+libqrtr-glib 1.2.2-4
 libraqm 0.10.2-1
 libraw 0.21.3-1
 libraw1394 2.1.2-4
@@ -491,7 +491,7 @@ modemmanager 1.22.0-1
 modemmanager-qt5 5.116.0-1
 mongodb-atlas-cli-bin 1.41.2-1
 mongodb-compass 1.46.0-1
-mongodb-tools 1:100.11.0-2
+mongodb-tools 1:100.12.0-1
 mtdev 1.1.7-1
 mtools 1:4.0.48-1
 mtpfs 1.1-5
@@ -577,8 +577,8 @@ plasma5-integration 6.3.4-2
 polkit 126-2
 polkit-kde-agent 6.3.4-1
 polkit-qt5 0.200.0-1
-poppler 25.03.0-1
-poppler-qt5 25.03.0-1
+poppler 25.04.0-1
+poppler-qt5 25.04.0-1
 postman-bin 11.37.1-1
 powerdevil 6.3.4-1
 ppp 2.5.2-1
@@ -611,7 +611,7 @@ python-inflect 7.5.0-1
 python-jaraco.context 6.0.1-1
 python-jaraco.functools 4.1.0-1
 python-jaraco.text 4.0.0-2
-python-lxml 5.3.1-1
+python-lxml 5.3.2-1
 python-markdown 3.7-2
 python-more-itertools 10.6.0-1
 python-msgpack 1.0.5-3
@@ -632,7 +632,7 @@ python-resolvelib 1.1.0-2
 python-rich 14.0.0-1
 python-setuptools 1:75.8.0-1
 python-six 1.17.0-1
-python-tenacity 9.1.0-1
+python-tenacity 9.1.1-1
 python-tomli 2.0.1-5
 python-trove-classifiers 2025.3.19.19-1
 python-typing_extensions 4.12.2-3
