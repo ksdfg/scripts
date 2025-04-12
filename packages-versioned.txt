@@ -302,8 +302,8 @@ libcanberra 1:0.30+r2+gc0620e4-4
 libcbor 0.11.0-1
 libcloudproviders 0.3.6-1
 libcolord 1.4.7-2
-libcups 2:2.4.11-2
-libcurl-gnutls 8.13.0-1
+libcups 2:2.4.12-1
+libcurl-gnutls 8.13.0-2
 libdatrie 0.2.13-4
 libdbusmenu-glib 16.04.0.r498-2
 libdbusmenu-gtk3 16.04.0.r498-2
@@ -579,7 +579,8 @@ polkit-kde-agent 6.3.4-1
 polkit-qt5 0.200.0-1
 poppler 25.04.0-1
 poppler-qt5 25.04.0-1
-postman-bin 11.37.1-1
+postgresql 17.4-1
+postman-bin 11.40.5-1
 powerdevil 6.3.4-1
 ppp 2.5.2-1
 prison5 5.116.0-1
