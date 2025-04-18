@@ -62,7 +62,7 @@ cloudflared-bin 2025.4.0-1
 colord 1.4.7-2
 colord-kde 24.12.3-1
 confuse 3.3-4
-containerd 2.0.4-1
+containerd 2.0.5-1
 convertlit 1.8-12
 ctemplate 2.4-3
 cython 3.0.12-1
@@ -85,7 +85,7 @@ docbook-xml 4.5-10
 docbook-xsl 1.79.2-9
 docker 1:28.0.4-2
 docker-buildx 0.23.0-1
-docker-compose 2.35.0-1
+docker-compose 2.35.1-1
 dolphin 24.12.3-1
 dos2unix 7.5.2-2
 dosfstools 4.2-5
