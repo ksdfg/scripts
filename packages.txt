@@ -679,7 +679,6 @@ re2
 recode
 redis
 reflector
-rest
 ripgrep
 rnnoise
 rsync
