@@ -132,7 +132,7 @@ gdb 16.3-1
 gdb-common 16.3-1
 gdk-pixbuf2 2.42.12-2
 geckodriver 0.36.0-1
-gettext 0.24-3
+gettext 0.24.1-1
 ghostscript 10.05.1-1
 giflib 5.2.2-2
 git 2.49.0-1
@@ -503,7 +503,7 @@ netpbm 10.86.46-2
 networkmanager 1.52.0-1
 networkmanager-qt5 5.116.0-1
 node-gyp 11.2.0-1
-nodejs-lts-iron 20.19.0-1
+nodejs-lts-iron 20.19.1-1
 nodejs-nopt 7.2.1-1
 noto-fonts 1:2025.05.01-1
 noto-fonts-cjk 20240730-1
@@ -612,7 +612,7 @@ python-inflect 7.5.0-1
 python-jaraco.context 6.0.1-1
 python-jaraco.functools 4.1.0-1
 python-jaraco.text 4.0.0-2
-python-lxml 5.3.2-2
+python-lxml 5.4.0-1
 python-markdown 3.7-2
 python-more-itertools 10.6.0-1
 python-msgpack 1.0.5-3
@@ -627,7 +627,7 @@ python-pycparser 2.22-3
 python-pydantic 2.11.4-1
 python-pygments 2.19.1-1
 python-pyopenssl 25.0.0-1
-python-pyparsing 3.2.1-1
+python-pyparsing 3.2.2-1
 python-requests 2.32.3-4
 python-resolvelib 1.1.0-2
 python-rich 14.0.0-1
@@ -635,7 +635,7 @@ python-setuptools 1:80.0.0-1
 python-six 1.17.0-1
 python-tenacity 9.1.2-1
 python-tomli 2.0.1-5
-python-trove-classifiers 2025.4.11.15-1
+python-trove-classifiers 2025.4.28.22-1
 python-typing_extensions 4.13.2-1
 python-urllib3 2.4.0-1
 python-validate-pyproject 0.24.1-1
@@ -713,7 +713,7 @@ rust 1:1.86.0-1
 sbc 2.0-2
 sddm 0.21.0-6
 sddm-kcm 6.3.4-1
-sdl2-compat 2.32.54-2
+sdl2-compat 2.32.56-1
 sed 4.9-3
 semver 7.7.1-1
 serd 0.32.4-1
