@@ -10,6 +10,7 @@ alsa-card-profiles
 alsa-lib
 alsa-topology-conf
 alsa-ucm-conf
+android-udev
 aom
 appmenu-gtk-module
 appstream
@@ -44,6 +45,7 @@ bluez-qt5
 bluez-utils
 bolt
 boost-libs
+bottom
 breeze-gtk
 breeze-icons
 breeze5
@@ -589,6 +591,7 @@ protobuf-c
 pulseaudio
 pulseaudio-bluetooth
 purpose5
+pv
 pycharm-professional
 python
 python-anytree
@@ -724,7 +727,6 @@ signon-kwallet-extension
 signon-plugin-oauth2
 signon-ui
 signond
-slack-desktop
 smartmontools
 smbclient
 snappy

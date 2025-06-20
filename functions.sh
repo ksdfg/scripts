@@ -111,3 +111,11 @@ clear-cache() {
     echo "-------------------"
     df -h / ~
 }
+
+compress() {
+    tar cf - $1 -P | pv -s $(du -sb $1 | awk '{print $1}') | gzip > $2
+}
+
+decompress() {
+    pv $1 | tar -xvzf - -C $2
+}

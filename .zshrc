@@ -88,6 +88,8 @@ plugins=(
 	zbell
 	kubectl
 	poetry
+	extract
+	cp
 )
 
 ZSH_AUTOSUGGEST_HIGHLIGHT_STYLE='fg=244'
