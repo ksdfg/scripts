@@ -492,7 +492,6 @@ minizip
 modemmanager
 modemmanager-qt5
 mongodb-atlas-cli-bin
-mongodb-compass
 mongodb-tools
 mtdev
 mtools
