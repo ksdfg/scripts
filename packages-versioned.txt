@@ -265,7 +265,7 @@ ksshaskpass 6.4.0-1
 ksystemstats 6.4.0-1
 ktexteditor5 5.116.0-1
 ktextwidgets5 5.116.0-1
-kubectl 1.33.1-1
+kubectl 1.33.2-1
 kunitconversion5 5.116.0-1
 kuserfeedback 6.15.0-1
 kvantum 1.1.5-1
@@ -457,7 +457,7 @@ libyuv r2426+464c51a03-1
 libzip 1.11.4-1
 lilv 0.24.26-1
 linux 6.15.3.arch1-1
-linux-firmware 20250613.12fe085f-5
+linux-firmware 20250613.12fe085f-6
 linux-headers 6.15.3.arch1-1
 llvm-libs 20.1.6-3
 lm_sensors 1:3.6.2-1
