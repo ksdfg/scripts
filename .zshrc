@@ -154,8 +154,7 @@ export PATH="$PATH:$HOME/.local/share/gem/ruby/3.3.0/bin"
 # eval "$(heroku autocomplete:script zsh)"
 
 # startup visuals
-figlet -f slant madness sense | lolcat -as 427
-fcookie | catsay -c leroy | lolcat -as 427
+echo "$(figlet -f slant madness sense)\n$(fcookie | catsay -c leroy)\n" | lolcat --truecolor --freq=0.007
 
 # bun completions
 [ -s "/home/ksdfg/.bun/_bun" ] && source "/home/ksdfg/.bun/_bun"
