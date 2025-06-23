@@ -73,7 +73,6 @@ dbus-glib 0.114-1
 dconf 0.40.0-3
 desktop-file-utils 0.28-1
 desmume 0.9.13-1
-devilspie 0.23-6
 dhcpcd 10.2.4-1
 direnv 2.36.0-1
 discount 3.0.0.d-1
@@ -87,7 +86,7 @@ docbook-xml 4.5-11
 docbook-xsl 1.79.2-9
 docker 1:28.2.2-1
 docker-buildx 0.25.0-1
-docker-compose 2.37.1-1
+docker-compose 2.37.2-1
 dolphin 25.04.2-1
 dos2unix 7.5.2-2
 dosfstools 4.2-5

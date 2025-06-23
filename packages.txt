@@ -73,7 +73,6 @@ dbus-glib
 dconf
 desktop-file-utils
 desmume
-devilspie
 dhcpcd
 direnv
 discount
