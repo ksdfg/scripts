@@ -874,6 +874,7 @@ xvidcore
 xxhash
 yarn
 yay
+zen-browser-bin
 zenity
 zimg
 zip

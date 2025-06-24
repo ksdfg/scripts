@@ -55,3 +55,7 @@
 
 [includeIf "gitdir:~/growthx/"]
 	path = ~/growthx/.gitconfig
+[init]
+	defaultBranch = main
+[fetch]
+	prune = true
