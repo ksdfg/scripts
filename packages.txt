@@ -173,7 +173,6 @@ gzip
 harfbuzz
 harfbuzz-icu
 helm
-heroku-cli
 hicolor-icon-theme
 hidapi
 htop
