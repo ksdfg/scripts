@@ -521,6 +521,7 @@ openexr
 openjpeg2
 openmpi
 openpmix
+openrgb
 openssh
 opus
 orc
