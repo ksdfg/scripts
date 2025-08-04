@@ -553,8 +553,6 @@ perl-net-http
 perl-try-tiny
 perl-uri
 perl-www-robotrules
-phonon-qt5
-phonon-qt5-vlc
 pipewire
 pipewire-media-session
 pixman
