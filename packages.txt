@@ -736,6 +736,7 @@ sound-theme-freedesktop
 soundtouch
 source-highlight
 spectacle
+speech-dispatcher
 speex
 speexdsp
 spirv-tools

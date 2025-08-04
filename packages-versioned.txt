@@ -736,6 +736,7 @@ sound-theme-freedesktop 0.8-6
 soundtouch 2.4.0-1
 source-highlight 3.1.9-15
 spectacle 1:6.4.2-2
+speech-dispatcher 0.12.1-1
 speex 1.2.1-2
 speexdsp 1.2.1-2
 spirv-tools 1:1.4.313.0-1
