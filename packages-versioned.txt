@@ -512,6 +512,7 @@ ntfs-3g 2022.10.3-2
 nvidia 575.64.05-4
 obs-backgroundremoval 1.1.13-1
 obs-studio 31.1.2-1
+obsidian 1.8.10-1
 okular 25.04.3-1
 oniguruma 6.9.10-1
 ookla-speedtest-bin 1.2.0-1
@@ -744,7 +745,7 @@ srt 1.5.4-1
 startup-notification 0.12-8
 step-cli 0.28.7-1
 sudo 1.9.17.p1-1
-svt-av1 3.0.2-1
+svt-av1 3.1.0-1
 syndication5 5.116.0-1
 syntax-highlighting5 5.116.0-1
 sysfsutils 2.1.1-2

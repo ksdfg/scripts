@@ -512,6 +512,7 @@ ntfs-3g
 nvidia
 obs-backgroundremoval
 obs-studio
+obsidian
 okular
 oniguruma
 ookla-speedtest-bin
