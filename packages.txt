@@ -29,7 +29,6 @@ autoconf
 automake
 avahi
 awesome-terminal-fonts
-aws-cli-bin
 baloo
 baloo-widgets
 base
@@ -107,8 +106,6 @@ fftw
 figlet
 file
 findutils
-firefox
-firefox-profile-switcher-connector
 flac
 flashplugin
 flashrom
@@ -156,7 +153,6 @@ graphite
 graphviz
 grep
 groff
-grub
 gsettings-desktop-schemas
 gsfonts
 gsm
