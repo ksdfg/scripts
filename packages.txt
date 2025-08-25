@@ -71,7 +71,6 @@ dav1d
 dbus-glib
 dconf
 desktop-file-utils
-desmume
 dhcpcd
 direnv
 discount
@@ -165,6 +164,7 @@ gtk2
 gtk3
 gtkmm3
 gts
+gwenview
 gzip
 harfbuzz
 harfbuzz-icu
@@ -180,7 +180,6 @@ icu67
 ijs
 imagemagick
 imath
-imv
 iniparser
 intel-ucode
 iso-codes
@@ -715,7 +714,6 @@ semver
 serd
 shaderc
 shared-mime-info
-shotwell
 signon-kwallet-extension
 signon-plugin-oauth2
 signon-ui
