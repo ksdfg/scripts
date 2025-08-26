@@ -166,8 +166,8 @@ gtkmm3 3.24.10-1
 gts 0.7.6.121130-3
 gwenview 25.08.0-1
 gzip 1.14-2
-harfbuzz 11.4.3-1
-harfbuzz-icu 11.4.3-1
+harfbuzz 11.4.4-1
+harfbuzz-icu 11.4.4-1
 helm 3.18.4-1
 hicolor-icon-theme 0.18-1
 hidapi 0.15.0-1
