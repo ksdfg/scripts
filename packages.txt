@@ -142,6 +142,7 @@ glu
 gnome-keyring
 gnome-online-accounts
 gnu-free-fonts
+gnu-netcat
 go
 gobject-introspection-runtime
 goland
@@ -774,6 +775,7 @@ v4l-utils
 v4l2loopback-dkms
 vala
 vid.stab
+vim
 visual-studio-code-bin
 vlc
 vmaf

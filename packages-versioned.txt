@@ -142,6 +142,7 @@ glu 9.0.3-2
 gnome-keyring 1:48.0-1
 gnome-online-accounts 3.54.5-1
 gnu-free-fonts 20120503-8
+gnu-netcat 0.7.1-11
 go 2:1.24.6-1
 gobject-introspection-runtime 1.84.0-2
 goland 2025.2.0.1-1
@@ -774,6 +775,7 @@ v4l-utils 1.30.1-1
 v4l2loopback-dkms 0.15.0-1
 vala 0.56.18-4
 vid.stab 1.1.1-2
+vim 9.1.1623-1
 visual-studio-code-bin 1.103.2-1
 vlc 3.0.21-27
 vmaf 3.0.0-1
