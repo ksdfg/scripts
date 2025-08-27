@@ -4,18 +4,6 @@
 
 # update everything
 update() {
-    # update icon pack
-    # echo "----- updating icon theme -----"
-    # cd "$HOME"/.icons/candy-icons || exit
-    # git fetch
-    # git pull origin master
-    # cd - >/dev/null || exit
-    # echo
-
-    # update heroku cli
-    #echo "--- updating heroku cli ---"
-    #heroku update
-
     # update libraries
     echo "----- updating libraries -----"
     if [[ $1 == "-m" ]]; then
@@ -34,13 +22,6 @@ update() {
 
     # update p10k config
     sudo cp "$HOME"/.p10k.zsh "$HOME"/.scripts/.p10k.zsh
-
-    # update ssh config
-    # sudo cp "$HOME"/.ssh/id_rsa "$HOME"/.scripts/.ssh/id_rsa
-    # sudo cp "$HOME"/.ssh/id_rsa.pub "$HOME"/.scripts/.ssh/id_rsa.pub
-    # sudo cp "$HOME"/.ssh/id_navana "$HOME"/.scripts/.ssh/id_navana
-    # sudo cp "$HOME"/.ssh/id_navana.pub "$HOME"/.scripts/.ssh/id_navana.pub
-    # sudo cp "$HOME"/.ssh/config "$HOME"/.scripts/.ssh/config
 
     # update installed packages
     yay -Qeq >"$HOME"/.scripts/packages.txt
