@@ -145,8 +145,6 @@ gnu-free-fonts
 gnu-netcat
 go
 gobject-introspection-runtime
-goland
-goland-jre
 gptfdisk
 graphene
 graphite
@@ -585,7 +583,6 @@ pulseaudio
 pulseaudio-bluetooth
 purpose5
 pv
-pycharm-professional
 python
 python-anytree
 python-appdirs
@@ -788,8 +785,6 @@ wayland-protocols
 wayland-utils
 webkit2gtk
 webrtc-audio-processing-0.3
-webstorm
-webstorm-jre
 wget
 which
 wmctrl

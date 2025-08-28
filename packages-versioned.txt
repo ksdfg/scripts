@@ -1,6 +1,6 @@
 7zip 25.01-1
 a52dec 0.8.0-2
-abseil-cpp 20250512.1-1
+abseil-cpp 20250814.0-1
 accounts-qml-module 0.7-6
 accountsservice 23.13.9-2
 adobe-source-code-pro-fonts 2.042u+1.062i+1.026vf-2
@@ -145,8 +145,6 @@ gnu-free-fonts 20120503-8
 gnu-netcat 0.7.1-11
 go 2:1.24.6-1
 gobject-introspection-runtime 1.84.0-2
-goland 2025.2.0.1-1
-goland-jre 2025.2.0.1-1
 gptfdisk 1.0.10-1
 graphene 1.10.8-2
 graphite 1:1.3.14-5
@@ -156,9 +154,9 @@ groff 1.23.0-7
 gsettings-desktop-schemas 48.0-1
 gsfonts 20200910-5
 gsm 1.0.22-2
-gst-plugins-base 1.26.5-1
-gst-plugins-base-libs 1.26.5-1
-gstreamer 1.26.5-1
+gst-plugins-base 1.26.5-2
+gst-plugins-base-libs 1.26.5-2
+gstreamer 1.26.5-2
 gtk-doc 1.34.0-3
 gtk-update-icon-cache 1:4.18.6-1
 gtk2 2.24.33-5
@@ -180,7 +178,7 @@ hyphen 2.8.8-6
 icu67 67.1-1
 ijs 0.35-6
 imagemagick 7.1.2.2-1
-imath 3.1.12-4
+imath 3.2.1-1
 iniparser 4.2.6-2
 intel-ucode 20250812-1
 iso-codes 4.18.0-1
@@ -274,7 +272,7 @@ kwindowsystem5 5.116.0-1
 kwrited 6.4.4-1
 kxmlgui5 5.116.0-1
 l-smash 2.14.5-4
-lame 3.100-5
+lame 3.100-6
 lapack 3.12.1-2
 layer-shell-qt 6.4.4-1
 lcms2 2.17-1
@@ -337,7 +335,7 @@ libiec61883 1.2.0-8
 libimobiledevice 1.3.0-17
 libindicator-gtk3 12.10.1-10
 libinih 61-1
-libinput 1.29.0-1
+libinput 1.29.1-1
 libjcat 0.2.3-2
 libjpeg-turbo 3.1.1-1
 libkexiv2 25.08.0-1
@@ -478,7 +476,7 @@ mariadb-libs 12.0.2-1
 md4c 0.5.2-1
 mdadm 4.4-1
 media-player-info 26-1
-mesa 1:25.2.1-2
+mesa 1:25.2.1-4
 mesa-utils 9.0.0-7
 milou 6.4.4-1
 minikube 1.36.0-1
@@ -497,7 +495,7 @@ net-tools 2.10-3
 netpbm 10.86.47-1
 networkmanager 1.54.0-1
 networkmanager-qt5 5.116.0-1
-node-gyp 11.4.1-1
+node-gyp 11.4.2-1
 nodejs-lts-iron 20.19.4-1
 nodejs-nopt 7.2.1-1
 noto-fonts 1:2025.08.01-1
@@ -508,13 +506,13 @@ ntfs-3g 2022.10.3-2
 nvidia 580.76.05-6
 obs-backgroundremoval 1.1.13-1
 obs-studio 31.1.2-1
-obsidian 1.9.10-2
+obsidian 1.9.12-1
 okular 25.08.0-1
 oniguruma 6.9.10-1
 ookla-speedtest-bin 1.2.0-1
 openal 1.24.3-1
 opencore-amr 0.1.6-2
-openexr 3.3.5-1
+openexr 3.3.5-2
 openjpeg2 2.5.3-1
 openmpi 5.0.8-2
 openpmix 5.0.8-1
@@ -526,11 +524,11 @@ os-prober 1.83-1
 oxygen-sounds 6.4.4-1
 oxygen5 6.4.4-1
 pacman 7.0.0.r6.gc685ae6-6
-pacman-contrib 1.12.0-1
+pacman-contrib 1.13.0-1
 pahole 1:1.30-2
 pango 1:1.56.4-1
 pangomm 2.46.4-1
-parallel 20250722-2
+parallel 20250822-1
 parted 3.6-2
 patch 2.8-1
 pavucontrol 1:6.1-1
@@ -575,17 +573,16 @@ polkit-qt5 0.200.0-1
 poppler 25.08.0-1
 poppler-qt5 25.08.0-1
 postgresql 17.5-5
-postman-bin 11.59.5-1
+postman-bin 11.60.2-1
 powerdevil 6.4.4-1
 ppp 2.5.2-1
 prison5 5.116.0-1
-protobuf 31.1-2
-protobuf-c 1.5.2-4
+protobuf 32.0-1
+protobuf-c 1.5.2-5
 pulseaudio 17.0+r43+g3e2bb8a1e-1
 pulseaudio-bluetooth 17.0+r43+g3e2bb8a1e-1
 purpose5 5.116.0-1
 pv 1.9.34-1
-pycharm-professional 2025.2.0.1-1
 python 3.13.7-1
 python-anytree 2.13.0-1
 python-appdirs 1.4.4-11
@@ -617,7 +614,7 @@ python-numpy 2.3.2-1
 python-ordered-set 4.1.0-7
 python-packaging 25.0-1
 python-pip 25.2-1
-python-platformdirs 4.3.8-1
+python-platformdirs 4.4.0-1
 python-ply 3.11-15
 python-pycparser 2.22-3
 python-pydantic 2.11.7-1
@@ -631,7 +628,7 @@ python-setuptools 1:80.9.0-1
 python-six 1.17.0-1
 python-tenacity 9.1.2-1
 python-tomli 2.2.1-1
-python-trove-classifiers 2025.8.6.13-1
+python-trove-classifiers 2025.8.26.11-1
 python-typing_extensions 4.15.0-1
 python-urllib3 2.5.0-1
 python-validate-pyproject 0.24.1-1
@@ -671,7 +668,7 @@ qt6-wayland 6.9.1-1
 raptor 2.0.16-8
 rar 7.12-1
 rav1e 0.7.1-1
-re2 1:20240702-5
+re2 1:20240702-7
 recode 3.7.15-1
 redis 8.2.1-1
 reflector 2023-3
@@ -749,7 +746,7 @@ taglib 2.1.1-1
 talloc 2.4.3-1
 tcl 8.6.16-1
 tdb 1.4.14-1
-telegram-desktop 6.0.2-1
+telegram-desktop 6.0.2-2
 tevent 1:0.17.1-1
 texinfo 7.2-1
 thin-provisioning-tools 1.2.1-1
@@ -768,7 +765,7 @@ ttf-opensans 3.003-1
 ttf-roboto 3.011-1
 udisks2 2.10.1-6
 unzip 6.0-23
-upower 1.90.9-1
+upower 1.90.10-1
 usbmuxd 1.1.1-4
 usbutils 018-1
 v4l-utils 1.30.1-1
@@ -777,7 +774,7 @@ vala 0.56.18-4
 vid.stab 1.1.1-2
 vim 9.1.1623-1
 visual-studio-code-bin 1.103.2-1
-vlc 3.0.21-27
+vlc 3.0.21-28
 vmaf 3.0.0-1
 volume_key 0.3.12-11
 vulkan-headers 1:1.4.321.0-1
@@ -788,8 +785,6 @@ wayland-protocols 1.45-1
 wayland-utils 1.2.0-2
 webkit2gtk 2.48.5-1
 webrtc-audio-processing-0.3 0.3.1-6
-webstorm 2025.2-1
-webstorm-jre 2025.2-1
 wget 1.25.0-2
 which 2.23-1
 wmctrl 1.07-6
@@ -870,7 +865,7 @@ xvidcore 1.3.7-3
 xxhash 0.8.3-1
 yarn 1.22.22-2
 yay 12.5.0-1
-zen-twilight-bin 1.15t.2025.08.25-1
+zen-twilight-bin 1.15t.2025.08.28-1
 zenity 4.1.99-2
 zimg 3.0.5-1
 zip 3.0-11
