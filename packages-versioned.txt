@@ -133,7 +133,7 @@ gettext 0.26-1
 ghostscript 10.06.0-1
 giflib 5.2.2-2
 git 2.51.0-1
-github-cli 2.81.0-1
+github-cli 2.82.0-1
 glib-networking 1:2.80.1-1
 glib2-docs 2.86.0-2
 glibmm 2.66.8-1
