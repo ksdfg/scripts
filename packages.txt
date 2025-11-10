@@ -281,7 +281,7 @@ ldns
 libaccounts-glib
 libaccounts-qt
 libaio
-libappindicator-gtk3
+libappindicator
 libass
 libasyncns
 libatasmart
@@ -333,7 +333,7 @@ libid3tag
 libidn
 libiec61883
 libimobiledevice
-libindicator-gtk3
+libindicator
 libinih
 libinput
 libjcat
