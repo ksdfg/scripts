@@ -507,7 +507,6 @@ nvidia
 obs-backgroundremoval
 obs-studio
 obsidian
-okular
 oniguruma
 ookla-speedtest-bin
 openal
@@ -773,7 +772,6 @@ vala
 vid.stab
 vim
 visual-studio-code-bin
-vlc
 vmaf
 volume_key
 vulkan-headers
