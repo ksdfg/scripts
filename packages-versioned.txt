@@ -397,7 +397,7 @@ libtool 2.6.0-1
 libtorrent-rasterbar 1:2.0.11-5
 libunwind 1.8.2-1
 libupnp 1.14.25-1
-liburcu 0.15.4-1
+liburcu 0.15.5-1
 libusb 1.0.29-1
 libusb-compat 0.1.8-2
 libusbmuxd 2.1.1-1
@@ -552,7 +552,7 @@ pipewire-media-session 1:0.4.3-1
 pixman 0.46.4-1
 pkgconf 2.5.1-1
 plasma-browser-integration 6.5.3-1
-plasma-desktop 6.5.3-1
+plasma-desktop 6.5.3-2
 plasma-disks 6.5.3-1
 plasma-firewall 6.5.3-1
 plasma-framework5 5.116.0-2
@@ -573,7 +573,7 @@ poppler 25.11.0-1
 poppler-qt5 25.11.0-1
 postgresql 18.1-1
 postman-bin 11.73.5-1
-powerdevil 6.5.3-1
+powerdevil 6.5.3-2
 ppp 2.5.2-1
 prison5 5.116.0-1
 protobuf 33.1-1
