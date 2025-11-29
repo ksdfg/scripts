@@ -655,7 +655,6 @@ qt5-tools 5.15.18+kde+r3-1
 qt5-translations 5.15.18-1
 qt5-wayland 5.15.18+kde+r55-1
 qt5-webchannel 5.15.18+kde+r3-1
-qt5-webengine 5.15.19-3
 qt5-x11extras 5.15.18-1
 qt6-5compat 6.10.1-1
 qt6-base 6.10.1-1
