@@ -10,6 +10,7 @@ alsa-card-profiles 1:1.4.9-2
 alsa-lib 1.2.14-2
 alsa-topology-conf 1.2.5.1-4
 alsa-ucm-conf 1.2.14-2
+android-sdk-platform-tools 36.0.0-1
 android-udev 20250525-1
 aom 3.13.1-1
 appmenu-gtk-module 25.04-2
@@ -296,7 +297,7 @@ libcanberra 1:0.30+r2+gc0620e4-6
 libcbor 0.12.0-1
 libcloudproviders 0.3.6-2
 libcolord 1.4.8-1
-libcups 2:2.4.15-2
+libcups 2:2.4.16-1
 libcurl-gnutls 8.17.0-2
 libdatrie 0.2.14-1
 libdbusmenu-glib 18.10.20180917-1
@@ -361,12 +362,12 @@ libnsgif 1.0.0-1
 libnsl 2.0.1-1
 libogg 1.3.6-1
 libomxil-bellagio 0.9.3-5
-libpaper 2.2.6-1
+libpaper 2.2.7-1
 libpciaccess 0.18.1-2
 libpipeline 1.5.8-1
 libplacebo 7.351.0-3
 libplist 2.7.0-1
-libpng 1.6.51-1
+libpng 1.6.52-1
 libproxy 0.5.12-1
 libpulse 17.0+r93+gbe2efb69b-1
 libqaccessibilityclient-qt5 0.6.0-1
@@ -427,8 +428,8 @@ libxfont2 2.0.7-1
 libxft 2.3.9-1
 libxi 1.8.2-1
 libxinerama 1.1.5-2
-libxkbcommon 1.13.0-1
-libxkbcommon-x11 1.13.0-1
+libxkbcommon 1.13.1-1
+libxkbcommon-x11 1.13.1-1
 libxkbfile 1.1.3-1
 libxmlb 0.3.24-1
 libxmu 1.2.1-1
@@ -447,7 +448,7 @@ libxxf86vm 1.1.6-1
 libyaml 0.2.5-3
 libyuv r2426+464c51a03-1
 libzip 1.11.4-1
-lilv 0.24.26-1
+lilv 0.26.2-1
 linux 6.17.9.arch1-1
 linux-firmware 20251125-1
 linux-headers 6.17.9.arch1-1
@@ -732,7 +733,7 @@ spirv-tools 1:1.4.328.1-1
 sratom 0.6.20-1
 srt 1.5.4-1
 startup-notification 0.12-9
-step-cli 0.28.7-2
+step-cli 0.29.0-1
 sudo 1.9.17.p2-1
 svt-av1 3.1.2-1
 syndication5 5.116.0-2
@@ -779,7 +780,7 @@ vulkan-tools 1.4.328.1-1
 wayland 1.24.0-1
 wayland-protocols 1.46-1
 wayland-utils 1.3.0-1
-webkit2gtk 2.50.2-1
+webkit2gtk 2.50.3-1
 webrtc-audio-processing-0.3 0.3.1-6
 wget 1.25.0-3
 which 2.23-1
@@ -836,7 +837,7 @@ xorg-xev 1.2.6-1
 xorg-xgamma 1.0.8-1
 xorg-xhost 1.0.10-1
 xorg-xinput 1.6.4-2
-xorg-xkbcomp 1.4.7-1
+xorg-xkbcomp 1.5.0-1
 xorg-xkbevd 1.1.6-1
 xorg-xkbutils 1.0.6-1
 xorg-xkill 1.0.6-2
@@ -861,7 +862,7 @@ xvidcore 1.3.7-3
 xxhash 0.8.3-1
 yarn 1.22.22-2
 yay 12.5.3-1
-zen-twilight-bin 1.18t.2025.11.30-1
+zen-twilight-bin 1.18t.2025.12.03-1
 zenity 4.2.1-1
 zimg 3.0.5-1
 zip 3.0-11

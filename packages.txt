@@ -10,6 +10,7 @@ alsa-card-profiles
 alsa-lib
 alsa-topology-conf
 alsa-ucm-conf
+android-sdk-platform-tools
 android-udev
 aom
 appmenu-gtk-module
