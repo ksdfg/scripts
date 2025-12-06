@@ -144,7 +144,7 @@ gnome-keyring 1:48.0-1
 gnome-online-accounts 3.56.2-1
 gnu-free-fonts 20120503-8
 gnu-netcat 0.7.1-12
-go 2:1.25.4-1
+go 2:1.25.5-1
 gobject-introspection-runtime 1.86.0-1
 gptfdisk 1.0.10-1
 graphene 1.10.8-2
@@ -321,7 +321,7 @@ libftdi 1.5-7
 libgdata 0.18.1-4
 libgee 0.20.8-1
 libgexiv2 0.14.6-1
-libgit2 1:1.9.1-1
+libgit2 1:1.9.2-1
 libglvnd 1.7.0-3
 libgphoto2 2.5.33-1
 libgudev 238-3
@@ -450,7 +450,7 @@ libyuv r2426+464c51a03-1
 libzip 1.11.4-1
 lilv 0.26.2-1
 linux 6.17.9.arch1-1
-linux-firmware 20251125-1
+linux-firmware 20251125-2
 linux-headers 6.17.9.arch1-1
 llvm-libs 21.1.6-1
 lm_sensors 1:3.6.2-1
@@ -477,7 +477,7 @@ mariadb-libs 12.1.2-1
 md4c 0.5.2-1
 mdadm 4.4-2
 media-player-info 26-1
-mesa 1:25.2.7-1
+mesa 1:25.3.1-2
 mesa-utils 9.0.0-7
 milou 6.5.3-1
 minikube 1.37.0-1
@@ -573,7 +573,7 @@ polkit-qt5 0.200.0-1
 poppler 25.11.0-1
 poppler-qt5 25.11.0-1
 postgresql 18.1-1
-postman-bin 11.73.5-1
+postman-bin 11.74.5-1
 powerdevil 6.5.3-2
 ppp 2.5.2-1
 prison5 5.116.0-1
@@ -583,6 +583,7 @@ pulseaudio 17.0+r93+gbe2efb69b-1
 pulseaudio-bluetooth 17.0+r93+gbe2efb69b-1
 purpose5 5.116.0-1
 pv 1.10.2-1
+pycharm 2025.2.5-1
 python 3.13.7-1
 python-anytree 2.13.0-1
 python-appdirs 1.4.4-11
@@ -614,7 +615,7 @@ python-numpy 2.3.5-1
 python-ordered-set 4.1.0-7
 python-packaging 25.0-1
 python-pip 25.3-1
-python-platformdirs 4.5.0-1
+python-platformdirs 4.5.1-1
 python-ply 3.11-15
 python-pycparser 2.23-1
 python-pydantic 2.12.4-1
@@ -630,7 +631,7 @@ python-tenacity 9.1.2-1
 python-tomli 2.2.1-1
 python-trove-classifiers 2025.11.14.15-1
 python-typing_extensions 4.15.0-1
-python-urllib3 2.5.0-2
+python-urllib3 2.6.0-1
 python-validate-pyproject 0.24.1-1
 python-webencodings 0.5.1-12
 python-xlib 0.33-4
@@ -697,7 +698,7 @@ ruby-rspec-support 3.13.6-1
 ruby-stdlib 3.4.7-2
 ruby-term-ansicolor 1.11.3-1
 ruby-test-unit 3.7.1-1
-ruby-tins 1.47.0-1
+ruby-tins 1.48.0-1
 rubygems 3.6.9-1
 run-parts 5.23.2-1
 runc 1.4.0-1
@@ -705,7 +706,7 @@ rust 1:1.91.1-2
 sbc 2.1-1
 sddm 0.21.0-6
 sddm-kcm 6.5.3-1
-sdl2-compat 2.32.58-1
+sdl2-compat 2.32.60-1
 sed 4.9-3
 semver 7.7.3-1
 serd 0.32.6-1
@@ -744,7 +745,7 @@ taglib 2.1.1-1
 talloc 2.4.3-1
 tcl 8.6.16-1
 tdb 1.4.14-1
-telegram-desktop 6.3.4-2
+telegram-desktop 6.3.6-1
 tevent 1:0.17.1-1
 texinfo 7.2-1
 thin-provisioning-tools 1.3.1-1
@@ -862,7 +863,7 @@ xvidcore 1.3.7-3
 xxhash 0.8.3-1
 yarn 1.22.22-2
 yay 12.5.3-1
-zen-twilight-bin 1.18t.2025.12.04-1
+zen-twilight-bin 1.18t.2025.12.05-1
 zenity 4.2.1-1
 zimg 3.0.5-1
 zip 3.0-11
