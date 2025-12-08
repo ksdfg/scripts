@@ -767,6 +767,7 @@ unzip
 upower
 usbmuxd
 usbutils
+uv
 v4l-utils
 v4l2loopback-dkms
 vala
@@ -863,6 +864,7 @@ xvidcore
 xxhash
 yarn
 yay
+zed
 zen-twilight-bin
 zenity
 zimg
