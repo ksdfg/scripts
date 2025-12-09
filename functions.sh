@@ -30,6 +30,9 @@ update() {
     # update logid config
     cp /etc/logid.cfg "$HOME"/.scripts/logid.cfg
 
+    # update kde global shortcuts
+    cp "$HOME"/.config/kglobalshortcutsrc "$HOME"/.scripts/kglobalshortcutsrc
+
     # update scripts upstream
     cd "$HOME"/.scripts || exit
     git c -am "automated update"

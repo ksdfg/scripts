@@ -17,3 +17,6 @@ cp -v .zshrc $HOME/.zshrc
 
 echo "Replacing .gitconfig"
 cp -v .gitconfig $HOME/.gitconfig
+
+echo "Replacing kglobalshortcutsrc"
+cp -v kglobalshortcutsrc $HOME/.config/kglobalshortcutsrc
