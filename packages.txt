@@ -583,7 +583,6 @@ pulseaudio
 pulseaudio-bluetooth
 purpose5
 pv
-pycharm
 python
 python-anytree
 python-appdirs
