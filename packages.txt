@@ -772,7 +772,6 @@ v4l2loopback-dkms
 vala
 vid.stab
 vim
-visual-studio-code-bin
 vmaf
 volume_key
 vulkan-headers
