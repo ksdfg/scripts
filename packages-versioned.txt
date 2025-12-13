@@ -15,7 +15,7 @@ android-udev 20250525-1
 aom 3.13.1-1
 appmenu-gtk-module 25.04-2
 appstream 1.1.1-1
-appstream-glib 0.8.3-2
+appstream-glib 0.8.3-3
 appstream-qt5 1.0.5-2
 archlinux-appstream-data 20251025-2
 archlinux-keyring 20251116-1
@@ -100,7 +100,7 @@ enchant 2.8.12-2
 exiv2 0.28.7-1
 faad2 2.11.2-1
 fakeroot 1.37.1.2-1
-ffmpeg 2:8.0.1-1
+ffmpeg 2:8.0.1-2
 ffmpeg4.4 4.4.6-3
 fftw 3.3.10-7
 figlet 2.2.5-6
@@ -138,7 +138,7 @@ github-cli 2.83.2-1
 glib-networking 1:2.80.1-1
 glib2-docs 2.86.3-1
 glibmm 2.66.8-1
-glslang 1:1.4.328.1-1
+glslang 1:1.4.335.0-1
 glu 9.0.3-2
 gnome-keyring 1:48.0-1
 gnome-online-accounts 3.56.2-1
@@ -258,7 +258,7 @@ ksshaskpass 6.5.4-1
 ksystemstats 6.5.4-1
 ktexteditor5 5.116.0-2
 ktextwidgets5 5.116.0-2
-kubectl 1.34.2-1
+kubectl 1.34.3-1
 kunitconversion5 5.116.0-1
 kuserfeedback 6.21.0-1
 kvantum 1.1.5-1
@@ -365,7 +365,7 @@ libomxil-bellagio 0.9.3-5
 libpaper 2.2.7-1
 libpciaccess 0.18.1-2
 libpipeline 1.5.8-1
-libplacebo 7.351.0-3
+libplacebo 7.351.0-4
 libplist 2.7.0-1
 libpng 1.6.53-1
 libproxy 0.5.12-1
@@ -523,8 +523,8 @@ orc 0.4.41-1
 os-prober 1.83-1
 oxygen-sounds 6.5.4-1
 oxygen5 6.5.4-1
-pacman 7.0.0.r6.gc685ae6-6
-pacman-contrib 1.13.0-1
+pacman 7.1.0.r7.gb9f7d4a-1
+pacman-contrib 1.13.1-1
 pahole 1:1.31-1
 pango 1:1.57.0-2
 pangomm 2.46.4-1
@@ -709,7 +709,7 @@ sdl2-compat 2.32.60-1
 sed 4.9-3
 semver 7.7.3-1
 serd 0.32.6-1
-shaderc 2025.4-2
+shaderc 2025.5-1
 shared-mime-info 2.4-2
 signon-kwallet-extension 25.12.0-1
 signon-plugin-oauth2 0.25-3
@@ -729,7 +729,7 @@ spectacle 1:6.5.4-1
 speech-dispatcher 0.12.1-2
 speex 1.2.1-2
 speexdsp 1.2.1-2
-spirv-tools 1:1.4.328.1-1
+spirv-tools 1:1.4.335.0-1
 sratom 0.6.20-1
 srt 1.5.4-1
 startup-notification 0.12-9
@@ -760,7 +760,7 @@ ttf-indic-otf 0.2-12
 ttf-jetbrains-mono 2.304-2
 ttf-meslo-nerd-font-powerlevel10k 2.3.3-1
 ttf-opensans 3.003-1
-ttf-roboto 3.013-1
+ttf-roboto 3.014-1
 udisks2 2.11.0-1
 unzip 6.0-23
 upower 1.91.0-1
@@ -774,9 +774,9 @@ vid.stab 1.1.1-2
 vim 9.1.1975-1
 vmaf 3.0.0-1
 volume_key 0.3.12-11
-vulkan-headers 1:1.4.328.1-1
-vulkan-icd-loader 1.4.328.1-1
-vulkan-tools 1.4.328.1-1
+vulkan-headers 1:1.4.335.0-1
+vulkan-icd-loader 1.4.335.0-1
+vulkan-tools 1.4.335.0-1
 wayland 1.24.0-1
 wayland-protocols 1.46-1
 wayland-utils 1.3.0-1
@@ -861,7 +861,7 @@ xorgproto 2024.1-2
 xvidcore 1.3.7-3
 xxhash 0.8.3-1
 yarn 1.22.22-2
-yay 12.5.3-1
+yay 12.5.6-1
 zed 0.216.1-1
 zen-twilight-bin 1.18t.2025.12.11-1
 zenity 4.2.1-1
