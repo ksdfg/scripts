@@ -21,7 +21,7 @@ archlinux-appstream-data 20251025-2
 archlinux-keyring 20251116-1
 aria2 1.37.0-2
 aribb24 1.0.3-4
-ark 25.08.3-1
+ark 25.12.0-1
 asar 4.0.1-1
 at-spi2-core 2.58.2-1
 atkmm 2.28.4-1
@@ -31,7 +31,7 @@ automake 1.18.1-1
 avahi 1:0.9rc2-1
 awesome-terminal-fonts 1.1.0-5
 baloo 6.20.0-1
-baloo-widgets 25.08.3-1
+baloo-widgets 25.12.0-1
 base 3-2
 base-devel 1-2
 bat 0.26.1-1
@@ -53,7 +53,7 @@ bridge-utils 1.7.1-2
 bt-dualboot 1.0.1-4
 btrfs-progs 6.17.1-1
 bubblewrap 0.11.0-1
-c-ares 1.34.5-1
+c-ares 1.34.6-1
 cairo 1.18.4-1
 cairomm 1.14.5-1
 cantarell-fonts 1:0.303.1-2
@@ -62,7 +62,7 @@ cdparanoia 10.2-9
 cifs-utils 7.4-1
 cloudflared-bin 2025.11.1-1
 colord 1.4.8-1
-colord-kde 25.08.3-1
+colord-kde 25.12.0-1
 confuse 3.3-4
 containerd 2.2.0-1
 convertlit 1.8-13
@@ -86,7 +86,7 @@ docbook-xsl 1.79.2-9
 docker 1:29.1.1-1
 docker-buildx 0.30.1-1
 docker-compose 2.40.3-1
-dolphin 25.08.3-1
+dolphin 25.12.0-1
 dos2unix 7.5.3-1
 dosfstools 4.2-5
 double-conversion 3.4.0-1
@@ -164,7 +164,7 @@ gtk2 2.24.33-5
 gtk3 1:3.24.51-1
 gtkmm3 3.24.10-1
 gts 0.7.6.121130-5
-gwenview 25.08.3-1
+gwenview 25.12.0-1
 gzip 1.14-2
 harfbuzz 12.2.0-2
 harfbuzz-icu 12.2.0-2
@@ -193,7 +193,7 @@ json-glib 1.10.8-1
 junction 1.10-1
 jxrlib 0.2.4-2
 k9s 0.50.16-1
-kaccounts-integration 25.08.3-1
+kaccounts-integration 25.12.0-1
 kactivities-stats5 5.116.0-1
 kactivities5 5.116.0-2
 kactivitymanagerd 6.5.4-1
@@ -232,7 +232,7 @@ kiconthemes5 5.116.0-2
 kidletime5 5.116.0-2
 kimageannotator-qt5 0.7.1-3
 kinfocenter 6.5.4-1
-kio-extras 25.08.3-1
+kio-extras 25.12.0-1
 kio-fuse 5.1.1-1
 kio5 5.116.0-5
 kirigami2 5.116.0-2
@@ -244,7 +244,7 @@ kmenuedit 6.5.4-1
 knewstuff5 5.116.0-4
 knotifications5 5.116.0-3
 knotifyconfig5 5.116.0-2
-konsole 25.08.3-2
+konsole 25.12.0-1
 kpackage5 5.116.0-3
 kparts5 5.116.0-2
 kpeople5 5.116.0-1
@@ -264,11 +264,11 @@ kuserfeedback 6.20.0-1
 kvantum 1.1.5-1
 kwallet-pam 6.5.4-1
 kwallet5 5.116.0-5
-kwalletmanager 25.08.3-1
+kwalletmanager 25.12.0-1
 kwayland-integration 6.5.4-1
 kwayland5 5.116.0-2
 kwidgetsaddons5 5.116.0-2
-kwin 6.5.4-1
+kwin 6.5.4-3
 kwindowsystem5 5.116.0-2
 kwrited 6.5.4-1
 kxmlgui5 5.116.0-2
@@ -307,7 +307,7 @@ libdca 0.0.7-2
 libde265 1.0.16-2
 libdispatch 6.1-1
 libdmtx 0.7.8-1
-libdrm 2.4.129-1
+libdrm 2.4.131-1
 libdvbpsi 1:1.3.3-3
 libebml 1.4.5-1
 libedit 20250104_3.1-1
@@ -339,7 +339,7 @@ libinih 61-1
 libinput 1.30.1-1
 libjcat 0.2.5-1
 libjpeg-turbo 3.1.2-1
-libkexiv2 25.08.3-1
+libkexiv2 25.12.0-1
 libkscreen 6.5.4-1
 libksysguard 6.5.4-1
 libldac 2.0.2.3-2
@@ -573,7 +573,7 @@ polkit-qt5 0.200.0-1
 poppler 25.12.0-1
 poppler-qt5 25.12.0-1
 postgresql 18.1-1
-postman-bin 11.75.3-1
+postman-bin 11.75.4-1
 powerdevil 6.5.4-1
 ppp 2.5.2-1
 prison5 5.116.0-1
@@ -630,7 +630,7 @@ python-tenacity 9.1.2-1
 python-tomli 2.2.1-1
 python-trove-classifiers 2025.12.1.14-1
 python-typing_extensions 4.15.0-1
-python-urllib3 2.6.1-1
+python-urllib3 2.6.2-1
 python-validate-pyproject 0.24.1-1
 python-webencodings 0.5.1-12
 python-xlib 0.33-4
@@ -711,7 +711,7 @@ semver 7.7.3-1
 serd 0.32.6-1
 shaderc 2025.4-2
 shared-mime-info 2.4-2
-signon-kwallet-extension 25.08.3-1
+signon-kwallet-extension 25.12.0-1
 signon-plugin-oauth2 0.25-3
 signon-ui 0.17+20231016-3
 signond 8.61-3
@@ -771,7 +771,7 @@ v4l-utils 1.32.0-1
 v4l2loopback-dkms 0.15.2-1
 vala 0.56.18-5
 vid.stab 1.1.1-2
-vim 9.1.1908-1
+vim 9.1.1975-1
 vmaf 3.0.0-1
 volume_key 0.3.12-11
 vulkan-headers 1:1.4.328.1-1
@@ -862,8 +862,8 @@ xvidcore 1.3.7-3
 xxhash 0.8.3-1
 yarn 1.22.22-2
 yay 12.5.3-1
-zed 0.216.0-1
-zen-twilight-bin 1.18t.2025.12.10-1
+zed 0.216.1-1
+zen-twilight-bin 1.18t.2025.12.11-1
 zenity 4.2.1-1
 zimg 3.0.6-1
 zip 3.0-11
