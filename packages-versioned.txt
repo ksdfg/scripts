@@ -30,7 +30,7 @@ autoconf 2.72-1
 automake 1.18.1-1
 avahi 1:0.9rc2-1
 awesome-terminal-fonts 1.1.0-5
-baloo 6.20.0-1
+baloo 6.21.0-1
 baloo-widgets 25.12.0-1
 base 3-2
 base-devel 1-2
@@ -47,7 +47,7 @@ bolt 0.9.10-1
 boost-libs 1.89.0-3
 bottom 0.11.4-1
 breeze-gtk 6.5.4-1
-breeze-icons 6.20.0-1
+breeze-icons 6.21.0-1
 breeze5 6.5.4-1
 bridge-utils 1.7.1-2
 bt-dualboot 1.0.1-4
@@ -260,7 +260,7 @@ ktexteditor5 5.116.0-2
 ktextwidgets5 5.116.0-2
 kubectl 1.34.2-1
 kunitconversion5 5.116.0-1
-kuserfeedback 6.20.0-1
+kuserfeedback 6.21.0-1
 kvantum 1.1.5-1
 kwallet-pam 6.5.4-1
 kwallet5 5.116.0-5
