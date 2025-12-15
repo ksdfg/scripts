@@ -178,7 +178,7 @@ hwloc 2.12.2-1
 hyphen 2.8.8-6
 icu67 67.1-1
 ijs 0.35-6
-imagemagick 7.1.2.10-1
+imagemagick 7.1.2.11-1
 imath 3.2.2-2
 iniparser 4.2.6-2
 intel-ucode 20251111-1
@@ -494,7 +494,7 @@ ndctl 79-1
 neofetch 7.1.0-2
 net-tools 2.10-3
 netpbm 10.86.48-1
-networkmanager 1.54.2-1
+networkmanager 1.54.3-1
 networkmanager-qt5 5.116.0-2
 node-gyp 12.1.0-1
 nodejs-lts-iron 20.19.6-1
@@ -674,7 +674,7 @@ reflector 2023-3
 ripgrep 15.1.0-1
 rnnoise 1:0.2-1
 rsync 3.4.1-2
-rtkit 0.13-3
+rtkit 0.14-1
 ruby 3.4.7-2
 ruby-bundled-gems 3.4.7-2
 ruby-bundler 2.7.2-1
@@ -701,7 +701,7 @@ ruby-tins 1.48.0-1
 rubygems 3.6.9-1
 run-parts 5.23.2-1
 runc 1.4.0-1
-rust 1:1.91.1-2
+rust 1:1.92.0-1
 sbc 2.1-1
 sddm 0.21.0-6
 sddm-kcm 6.5.4-1
@@ -861,7 +861,7 @@ xorgproto 2024.1-2
 xvidcore 1.3.7-3
 xxhash 0.8.3-1
 yarn 1.22.22-2
-yay 12.5.6-1
+yay 12.5.7-1
 zed 0.216.1-1
 zen-twilight-bin 1.18t.2025.12.14-1
 zenity 4.2.1-1
