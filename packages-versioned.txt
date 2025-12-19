@@ -477,7 +477,7 @@ mariadb-libs 12.1.2-1
 md4c 0.5.2-1
 mdadm 4.4-2
 media-player-info 26-1
-mesa 1:25.3.1-2
+mesa 1:25.3.2-1
 mesa-utils 9.0.0-7
 milou 6.5.4-1
 minikube 1.37.0-1
@@ -567,13 +567,13 @@ plasma-vault 6.5.4-1
 plasma-workspace 6.5.4-1
 plasma-workspace-wallpapers 6.5.4-1
 plasma5-integration 6.5.4-1
-polkit 126-2
+polkit 127-1
 polkit-kde-agent 6.5.4-1
 polkit-qt5 0.200.0-1
 poppler 25.12.0-1
 poppler-qt5 25.12.0-1
 postgresql 18.1-1
-postman-bin 11.76.0-1
+postman-bin 11.76.5-1
 powerdevil 6.5.4-1
 ppp 2.5.2-1
 prison5 5.116.0-1
@@ -863,7 +863,7 @@ xxhash 0.8.3-1
 yarn 1.22.22-2
 yay 12.5.7-1
 zed 0.217.2-1
-zen-twilight-bin 1.18t.2025.12.16-1
+zen-twilight-bin 1.18t.2025.12.17-1
 zenity 4.2.1-1
 zimg 3.0.6-1
 zip 3.0-11
