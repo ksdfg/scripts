@@ -504,7 +504,7 @@ noto-fonts-cjk
 noto-fonts-emoji-blob
 npm
 ntfs-3g
-nvidia
+nvidia-open
 obs-backgroundremoval
 obs-studio
 obsidian
