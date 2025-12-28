@@ -455,6 +455,7 @@ linux-headers
 llvm-libs
 lm_sensors
 lmdb
+lmms
 logiops
 lolcat
 lsd
@@ -549,7 +550,8 @@ perl-try-tiny
 perl-uri
 perl-www-robotrules
 pipewire
-pipewire-media-session
+pipewire-alsa
+pipewire-pulse
 pixman
 pkgconf
 plasma-browser-integration
@@ -579,8 +581,6 @@ ppp
 prison5
 protobuf
 protobuf-c
-pulseaudio
-pulseaudio-bluetooth
 purpose5
 pv
 python
@@ -784,6 +784,7 @@ webkit2gtk
 webrtc-audio-processing-0.3
 wget
 which
+wireplumber
 wmctrl
 woff2
 wpebackend-fdo
