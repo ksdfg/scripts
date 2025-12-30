@@ -180,6 +180,7 @@ icu67
 ijs
 imagemagick
 imath
+inetutils
 iniparser
 intel-ucode
 iso-codes
