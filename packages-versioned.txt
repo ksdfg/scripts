@@ -731,6 +731,7 @@ speech-dispatcher 0.12.1-2
 speex 1.2.1-2
 speexdsp 1.2.1-2
 spirv-tools 1:1.4.335.0-1
+spotify-launcher 0.6.4-1
 sratom 0.6.20-1
 srt 1.5.4-1
 startup-notification 0.12-9

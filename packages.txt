@@ -731,6 +731,7 @@ speech-dispatcher
 speex
 speexdsp
 spirv-tools
+spotify-launcher
 sratom
 srt
 startup-notification
