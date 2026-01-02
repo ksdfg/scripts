@@ -45,7 +45,7 @@ bluez-qt5 5.116.0-2
 bluez-utils 5.85-1
 bolt 0.9.10-1
 boost-libs 1.89.0-3
-bottom 0.12.2-1
+bottom 0.12.3-1
 breeze-gtk 6.5.4-1
 breeze-icons 6.21.0-1
 breeze5 6.5.4-1
@@ -327,7 +327,7 @@ libglvnd 1.7.0-3
 libgphoto2 2.5.33-1
 libgudev 238-3
 libgusb 0.4.9-2
-libheif 1.21.0-1
+libheif 1.21.1-1
 libibus 1.5.33-1
 libical 3.0.20-3
 libice 1.1.2-1
@@ -373,8 +373,8 @@ libproxy 0.5.12-1
 libpulse 17.0+r98+gb096704c0-1
 libqaccessibilityclient-qt5 0.6.0-1
 libqalculate 5.8.2-1
-libqmi 1.36.0-1
-libqrtr-glib 1.2.2-4
+libqmi 1.38.0-1
+libqrtr-glib 1.4.0-1
 libraqm 0.10.3-1
 libraw 0.21.5-1
 libraw1394 2.1.2-4
@@ -570,7 +570,7 @@ plasma-vault 6.5.4-1
 plasma-workspace 6.5.4-1
 plasma-workspace-wallpapers 6.5.4-1
 plasma5-integration 6.5.4-1
-polkit 127-2
+polkit 127-3
 polkit-kde-agent 6.5.4-1
 polkit-qt5 0.200.0-1
 poppler 25.12.0-1
@@ -786,7 +786,7 @@ webkit2gtk 2.50.4-1
 webrtc-audio-processing-0.3 0.3.1-6
 wget 1.25.0-3
 which 2.23-1
-wireplumber 0.5.12-1
+wireplumber 0.5.13-1
 wmctrl 1.07-6
 woff2 1.0.2-6
 wpebackend-fdo 1.16.1-1
