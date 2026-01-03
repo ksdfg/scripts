@@ -68,7 +68,7 @@ containerd 2.2.1-1
 convertlit 1.8-13
 ctemplate 2.4-3
 cython 3.2.3-1
-dav1d 1.5.2-1
+dav1d 1.5.3-1
 dbus-glib 0.114-1
 dconf 0.49.0-1
 desktop-file-utils 0.28-1
@@ -327,7 +327,7 @@ libglvnd 1.7.0-3
 libgphoto2 2.5.33-1
 libgudev 238-3
 libgusb 0.4.9-2
-libheif 1.21.1-1
+libheif 1.21.1-2
 libibus 1.5.33-1
 libical 3.0.20-3
 libice 1.1.2-1
@@ -450,9 +450,9 @@ libyaml 0.2.5-3
 libyuv r2426+464c51a03-1
 libzip 1.11.4-1
 lilv 0.26.2-1
-linux 6.18.2.arch2-1
+linux 6.18.3.arch1-1
 linux-firmware 20251125-2
-linux-headers 6.18.2.arch2-1
+linux-headers 6.18.3.arch1-1
 llvm-libs 21.1.6-1
 lm_sensors 1:3.6.2-1
 lmdb 0.9.33-1
@@ -479,7 +479,7 @@ mariadb-libs 12.1.2-1
 md4c 0.5.2-1
 mdadm 4.4-2
 media-player-info 26-1
-mesa 1:25.3.2-1
+mesa 1:25.3.3-1
 mesa-utils 9.0.0-7
 milou 6.5.4-1
 minikube 1.37.0-1
@@ -487,7 +487,7 @@ minizip 1:1.3.1-2
 modemmanager 1.24.2-1
 modemmanager-qt5 5.116.0-1
 mongodb-atlas-cli-bin 1.51.0-1
-mongodb-tools 1:100.13.0-1
+mongodb-tools 1:100.14.0-1
 mtdev 1.1.7-1
 mtools 1:4.0.49-1
 mtpfs 1.1-5
@@ -504,9 +504,9 @@ nodejs-nopt 7.2.1-1
 noto-fonts 1:2025.12.01-2
 noto-fonts-cjk 20240730-1
 noto-fonts-emoji-blob 1:15.0-1
-npm 11.6.4-1
+npm 11.7.0-1
 ntfs-3g 2022.10.3-2
-nvidia-open 590.48.01-3
+nvidia-open 590.48.01-4
 obs-backgroundremoval 1.3.5-1
 obs-studio 32.0.2-2
 obsidian 1.10.6-1
