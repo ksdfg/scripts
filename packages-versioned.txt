@@ -49,14 +49,14 @@ bottom 0.12.3-1
 breeze-gtk 6.5.4-1
 breeze-icons 6.21.0-1
 breeze5 6.5.4-1
-bridge-utils 1.7.1-2
+bridge-utils 1.7.1-3
 bt-dualboot 1.0.1-4
 btrfs-progs 6.17.1-1
 bubblewrap 0.11.0-1
 c-ares 1.34.6-1
 cairo 1.18.4-1
 cairomm 1.14.5-1
-cantarell-fonts 1:0.303.1-2
+cantarell-fonts 1:0.311-1
 cblas 3.12.1-2
 cdparanoia 10.2-9
 cifs-utils 7.4-1
@@ -67,7 +67,7 @@ confuse 3.3-4
 containerd 2.2.1-1
 convertlit 1.8-13
 ctemplate 2.4-3
-cython 3.2.3-1
+cython 3.2.4-1
 dav1d 1.5.3-1
 dbus-glib 0.114-1
 dconf 0.49.0-1
@@ -141,7 +141,7 @@ glibmm 2.66.8-1
 glslang 1:1.4.335.0-1
 glu 9.0.3-2
 gnome-keyring 1:48.0-1
-gnome-online-accounts 3.56.2-1
+gnome-online-accounts 3.56.3-1
 gnu-free-fonts 20120503-8
 gnu-netcat 0.7.1-12
 go 2:1.25.5-1
@@ -149,7 +149,7 @@ gobject-introspection-runtime 1.86.0-1
 gptfdisk 1.0.10-1
 graphene 1.10.8-2
 graphite 1:1.3.14-5
-graphviz 14.0.5-1
+graphviz 14.1.1-1
 grep 3.12-2
 groff 1.23.0-7
 gsettings-desktop-schemas 49.1-1
@@ -178,12 +178,12 @@ hwloc 2.12.2-1
 hyphen 2.8.8-6
 icu67 67.1-1
 ijs 0.35-6
-imagemagick 7.1.2.11-1
+imagemagick 7.1.2.12-1
 imath 3.2.2-2
 inetutils 2.6-1
 iniparser 4.2.6-2
 intel-ucode 20251111-1
-iso-codes 4.19.0-1
+iso-codes 4.20.1-1
 jack2 1.9.22-1
 jasper 4.2.8-1
 jbig2dec 0.20-1
@@ -296,7 +296,7 @@ libbsd 0.12.2-2
 libbytesize 2.11-1
 libcanberra 1:0.30+r2+gc0620e4-6
 libcbor 0.12.0-1
-libcloudproviders 0.3.6-2
+libcloudproviders 0.4.0-1
 libcolord 1.4.8-1
 libcups 2:2.4.16-1
 libcurl-gnutls 8.17.0-2
@@ -348,7 +348,7 @@ liblqr 0.4.3-1
 libmad 0.15.1b-10
 libmanette 0.2.13-1
 libmatroska 1.7.1-2
-libmbim 1.32.0-1
+libmbim 1.34.0-1
 libmd 1.1.0-2
 libmfx 23.2.2-5
 libmicrohttpd 1.0.2-1
@@ -501,7 +501,7 @@ networkmanager-qt5 5.116.0-2
 node-gyp 12.1.0-1
 nodejs-lts-iron 20.19.6-1
 nodejs-nopt 7.2.1-1
-noto-fonts 1:2025.12.01-2
+noto-fonts 1:2026.01.01-1
 noto-fonts-cjk 20240730-1
 noto-fonts-emoji-blob 1:15.0-1
 npm 11.7.0-1
@@ -576,7 +576,7 @@ polkit-qt5 0.200.0-1
 poppler 25.12.0-1
 poppler-qt5 25.12.0-1
 postgresql 18.1-1
-postman-bin 11.77.2-1
+postman-bin 11.79.1-1
 powerdevil 6.5.4-1
 ppp 2.5.2-1
 prison5 5.116.0-1
@@ -746,7 +746,7 @@ taglib 2.1.1-1
 talloc 2.4.3-1
 tcl 8.6.16-1
 tdb 1.4.14-1
-telegram-desktop 6.3.10-1
+telegram-desktop 6.4.1-1
 tevent 1:0.17.1-1
 texinfo 7.2-1
 thin-provisioning-tools 1.3.1-1
@@ -768,7 +768,7 @@ unzip 6.0-23
 upower 1.91.0-1
 usbmuxd 1.1.1-4
 usbutils 019-1
-uv 0.9.21-1
+uv 0.9.22-1
 v4l-utils 1.32.0-1
 v4l2loopback-dkms 0.15.3-1
 vala 0.56.18-5
@@ -830,7 +830,7 @@ xorg-setxkbmap 1.3.4-2
 xorg-smproxy 1.0.8-1
 xorg-util-macros 1.20.2-1
 xorg-x11perf 1.7.0-1
-xorg-xauth 1.1.4-1
+xorg-xauth 1.1.5-1
 xorg-xbacklight 1.2.4-1
 xorg-xcmsdb 1.0.7-1
 xorg-xcursorgen 1.0.9-1
@@ -865,8 +865,8 @@ xvidcore 1.3.7-3
 xxhash 0.8.3-1
 yarn 1.22.22-2
 yay 12.5.7-1
-zed 0.217.3-1
-zen-twilight-bin 1.18t.2025.12.24-1
+zed 0.217.5-1
+zen-twilight-bin 1.18t.2026.01.04-1
 zenity 4.2.1-1
 zimg 3.0.6-1
 zip 3.0-11
