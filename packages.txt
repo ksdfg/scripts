@@ -579,6 +579,7 @@ postgresql
 postman-bin
 powerdevil
 ppp
+preloader-signed
 prison5
 protobuf
 protobuf-c
@@ -741,6 +742,7 @@ svt-av1
 syndication5
 syntax-highlighting5
 sysfsutils
+systemd-boot-pacman-hook
 systemsettings
 taglib
 talloc

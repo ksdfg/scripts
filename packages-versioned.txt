@@ -579,6 +579,7 @@ postgresql 18.1-1
 postman-bin 11.79.1-1
 powerdevil 6.5.4-1
 ppp 2.5.2-1
+preloader-signed 20130208-1
 prison5 5.116.0-1
 protobuf 33.1-1
 protobuf-c 1.5.2-8
@@ -741,6 +742,7 @@ svt-av1 3.1.2-1
 syndication5 5.116.0-2
 syntax-highlighting5 5.116.0-2
 sysfsutils 2.1.1-2
+systemd-boot-pacman-hook 3-1
 systemsettings 6.5.4-1
 taglib 2.1.1-1
 talloc 2.4.3-1
