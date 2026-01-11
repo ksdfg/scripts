@@ -72,7 +72,6 @@ dav1d
 dbus-glib
 dconf
 desktop-file-utils
-dhcpcd
 direnv
 discount
 discover
@@ -506,8 +505,6 @@ noto-fonts-cjk
 noto-fonts-emoji-blob
 npm
 ntfs-3g
-nvidia-open
-obs-backgroundremoval
 obs-studio
 obsidian
 oniguruma

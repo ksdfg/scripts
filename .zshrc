@@ -84,10 +84,8 @@ plugins=(
 	zsh-autosuggestions
 	colored-man-pages
 	archlinux
-	poetry
 	zbell
 	kubectl
-	poetry
 	extract
 	cp
 )
