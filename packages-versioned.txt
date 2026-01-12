@@ -7,9 +7,9 @@ adobe-source-code-pro-fonts 2.042u+1.062i+1.026vf-2
 adwaita-icon-theme 49.0-1
 aha 0.5.1-3
 alsa-card-profiles 1:1.4.9-2
-alsa-lib 1.2.15.1-1
+alsa-lib 1.2.15.2-1
 alsa-topology-conf 1.2.5.1-4
-alsa-ucm-conf 1.2.15.1-1
+alsa-ucm-conf 1.2.15.2-1
 android-sdk-platform-tools 36.0.2-1
 android-udev 20250525-1
 aom 3.13.1-2
@@ -30,7 +30,7 @@ autoconf 2.72-1
 automake 1.18.1-1
 avahi 1:0.9rc2-3
 awesome-terminal-fonts 1.1.0-5
-baloo 6.21.0-1
+baloo 6.22.0-1
 baloo-widgets 25.12.1-1
 base 3-2
 base-devel 1-2
@@ -47,7 +47,7 @@ bolt 0.9.10-1
 boost-libs 1.89.0-4
 bottom 0.12.3-1
 breeze-gtk 6.5.4-1
-breeze-icons 6.21.0-1
+breeze-icons 6.22.0-1
 breeze5 6.5.4-1
 bridge-utils 1.7.1-3
 bt-dualboot 1.0.1-4
@@ -255,12 +255,12 @@ kscreen 6.5.4-1
 kscreenlocker 6.5.4-1
 kservice5 5.116.0-3
 ksshaskpass 6.5.4-1
-ksystemstats 6.5.4-1
+ksystemstats 6.5.4-2
 ktexteditor5 5.116.0-2
 ktextwidgets5 5.116.0-2
 kubectl 1.35.0-1
 kunitconversion5 5.116.0-1
-kuserfeedback 6.21.0-1
+kuserfeedback 6.22.0-1
 kvantum 1.1.5-1
 kwallet-pam 6.5.4-1
 kwallet5 5.116.0-5
@@ -341,7 +341,7 @@ libjcat 0.2.5-1
 libjpeg-turbo 3.1.2-1
 libkexiv2 25.12.1-1
 libkscreen 6.5.4-1
-libksysguard 6.5.4-1
+libksysguard 6.5.4-2
 libldac 2.0.2.3-2
 liblqr 0.4.3-1
 libmad 0.15.1b-10
@@ -357,7 +357,7 @@ libmpcdec 1:0.1+r475-6
 libmpeg2 0.5.1-11
 libmtp 1.1.22-1
 libnautilus-extension 49.3-1
-libnotify 0.8.7-2
+libnotify 0.8.8-1
 libnsgif 1.0.0-1
 libnsl 2.0.1-1
 libogg 1.3.6-1
@@ -478,7 +478,7 @@ mariadb-libs 12.1.2-1
 md4c 0.5.2-1
 mdadm 4.4-2
 media-player-info 26-1
-mesa 1:25.3.3-1
+mesa 1:25.3.3-2
 mesa-utils 9.0.0-7
 milou 6.5.4-1
 minikube 1.37.0-1
@@ -745,7 +745,7 @@ taglib 2.1.1-1
 talloc 2.4.3-2
 tcl 8.6.16-1
 tdb 1.4.14-2
-telegram-desktop 6.4.1-1
+telegram-desktop 6.4.2-1
 tevent 1:0.17.1-2
 texinfo 7.2-1
 thin-provisioning-tools 1.3.1-1
@@ -865,7 +865,7 @@ xxhash 0.8.3-1
 yarn 1.22.22-2
 yay 12.5.7-1
 zed 0.218.6-1
-zen-twilight-bin 1.18t.2026.01.10-1
+zen-twilight-bin 1.18t.2026.01.11-1
 zenity 4.2.1-1
 zimg 3.0.6-1
 zip 3.0-11
