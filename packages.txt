@@ -218,7 +218,6 @@ kdelibs4support
 kdeplasma-addons
 kdesu5
 kdnssd5
-kdsoap-qt5
 kdsoap-ws-discovery-client
 kemoticons
 kfilemetadata5
@@ -490,6 +489,7 @@ mongodb-tools
 mtdev
 mtools
 mtpfs
+mtr
 nano
 ndctl
 neofetch
