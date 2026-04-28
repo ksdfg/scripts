@@ -509,6 +509,7 @@ obs-studio
 obsidian
 oniguruma
 ookla-speedtest-bin
+openai-codex
 openal
 opencore-amr
 openexr
