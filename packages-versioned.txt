@@ -54,6 +54,7 @@ bt-dualboot 1.0.1-4
 btrfs-progs 7.0-1
 bubblewrap 0.11.2-1
 c-ares 1.34.6-1
+caffeinate 1.0.0-2
 cairo 1.18.4-1
 cairomm 1.14.5-3
 cantarell-fonts 1:0.311-1

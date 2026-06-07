@@ -54,6 +54,7 @@ bt-dualboot
 btrfs-progs
 bubblewrap
 c-ares
+caffeinate
 cairo
 cairomm
 cantarell-fonts
