@@ -468,7 +468,7 @@ lvm2
 lzo
 m4
 mailcap
-mailspring
+mailspring-bin
 make
 man-db
 man-pages
@@ -756,6 +756,7 @@ tidy
 tinysparql
 tk
 tmux
+topgrade
 tslib
 ttf-arphic-uming
 ttf-hack
@@ -867,7 +868,7 @@ xxhash
 yarn
 yay
 zed
-zen-twilight-bin
+zen-browser-bin
 zenity
 zimg
 zip
