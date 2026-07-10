@@ -3,6 +3,7 @@ a52dec
 abseil-cpp
 accounts-qml-module
 accountsservice
+actionlint
 adobe-source-code-pro-fonts
 adwaita-icon-theme
 aha
