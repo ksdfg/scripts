@@ -505,7 +505,7 @@ nodejs-nopt 10.0.1-1
 noto-fonts 1:2026.07.01-1
 noto-fonts-cjk 20240730-1
 noto-fonts-emoji-blob 1:15.0-1
-npm 11.18.0-1
+npm 12.0.0-1
 ntfs-3g 2026.2.25-1
 obs-studio 32.1.2-7
 obsidian 1.12.7-3
