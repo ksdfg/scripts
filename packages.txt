@@ -774,6 +774,7 @@ usbutils
 uv
 v4l-utils
 v4l2loopback-dkms
+vagrant
 vala
 vid.stab
 vim
