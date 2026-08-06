@@ -84,7 +84,7 @@ dnsmasq 2.93-1
 dnssec-anchors 20250524-1
 docbook-xml 4.5-11
 docbook-xsl 1.79.2-9
-docker 1:29.7.1-1
+docker 1:29.7.2-1
 docker-buildx 0.36.0-1
 docker-compose 5.4.0-1
 dolphin 26.04.3-1
