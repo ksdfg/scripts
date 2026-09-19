@@ -509,6 +509,7 @@ npm
 ntfs-3g
 obs-studio
 obsidian
+ollama
 oniguruma
 ookla-speedtest-bin
 openai-codex
